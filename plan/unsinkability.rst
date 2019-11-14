@@ -360,7 +360,6 @@ Reference                         Areas    Depth  Volume
 `.vol.ceiling`_
 `.vol.coamings`_
 `.vol.cockpit-locker`_
-`.vol.cushions`_
 `.vol.cushions`_                   100mm
 `.vol.engine-locker`_
 `.vol.forward-bulkhead`_
@@ -368,7 +367,6 @@ Reference                         Areas    Depth  Volume
 `.vol.port-aft-bulkhead`_
 `.vol.quarter-berth`_
 `.vol.quarter-locker`_
-`.vol.sides`_
 `.vol.sides`_                       20mm
 `.vol.starboard-aft-bulkhead`_
 `.vol.under-cockpit`_
@@ -419,17 +417,23 @@ England, CV11 6GX.  Tel: 02477 670370, Mob: 07476 064038.
 5. Plan
 =======
 
-1. Plan and schedule.
-2. Measure boat for materials.
-3. Order materials.
-4. Clear out boat.
-5. Prepare surfaces.
-6. [TBD]
+- Plan and schedule.
+- Measure boat for materials. @TammyNorie
+- Make battery compartment using foam sample. @TammyNorie
+- Find vinyl samples in boxes. @1TR
+- Investigate suitable fasteners for `.idea.chesterfield`_.
+- Experiment with `.idea.chesterfield`_ with foam sample and vinyl on
+  backing board.
+- Order materials (in phases?)
+- Clear out boat.
+- Prepare surfaces.
+- [TBD]
+
 
 Notes
 -----
 
-1. Testing?
+1. Consider how I might test the unsinkability.
    
 
 6. Schedule
@@ -445,7 +449,29 @@ Notes
 A. References
 =============
 
-.. [RT] Roger Taylor's foam lining of Mingming [ref?]
+.. [RT] Roger Taylor's foam lining of Mingming [ref?].
+
+.. [AH-2015-06-12] Commnent on "Redecoration", from the `Tammy Norie
+   blog`_; Annie Hill; 2015-06-12;
+   <https://tammynorie.wordpress.com/2015/06/09/redecoration/#comment-333>.
+
+     "I had the misfortune to spend seven years living on a boat with
+     closed-cell foam cushions. I’m naturally well padded, but I have
+     to say they were some of the most uncomfortable seats I’ve ever
+     had to live with."
+
+.. [RB-2015-06-09] "Redecoration", from the `Tammy Norie blog`_; Richard Brooksby;
+   2019-06-09; <https://tammynorie.wordpress.com/2015/06/09/redecoration/>.
+        
+     "My goal is to displace over 1m³ of water with foam, providing
+     over 1t of buoyancy. That should make Tammy Norie
+     unsinkable. I’ve calculated that 10mm of foam on all the surfaces
+     I’ve just painted, plus the cushions, add up to about 1m³, and
+     that’s not counting the locker interiors or any other voids, so
+     it’s quite achievable."
+
+.. _`Tammy Norie blog`: https://tammynorie.wordpress.com/     
+
 
 
 B. Document History
