@@ -89,13 +89,13 @@ _`.req.safe`
 
   _`.req.non-flammable`
 
-  The materials most not readily catch fire or burn or produce toxic
-  fumes when burning.
+    The materials most not readily catch fire or burn or produce toxic
+    fumes when burning.
 
   _`.req.non-toxic`
 
-  The materials must be inert and not be toxic, since I will be
-  exposed to them a great deal.
+    The materials must be inert and not be toxic, since I will be
+    exposed to them a great deal.
 
 
 4. Design
@@ -117,8 +117,9 @@ cushions, so that they cannot take up water.  These will be secured to
 the interior by some means so that they do not detach when the boat is
 flooded [what means?].
 
-All accessible unused voids will be filled with foam, particularly the
-cockpit coamings.
+Many accessible unused voids will be filled with foam -- particularly
+the `.vol.coamings`_ -- but not void that are needed for drainage or
+access.
 
 Additional precautions include storing as much as possible in
 watertight containers and bags which are half-filled with air.
@@ -400,6 +401,8 @@ _`.idea.chesterfield`
   would need to flexible and not have sharp edges, especially on the
   ceiling.  Probably needs prototyping.
 
+  Something like <https://www.ebay.co.uk/itm/UPHOLSTERY-BUTTONS-WIRE-LOOP-BACK-LENGTH-OF-TWINE-12-X-NO45-WHITE-VINYL-COVERED/152515686888?hash=item2382a4b1e8:g:otAAAOSwevlaDG~z>?
+
 _`.idea.pad-eyes`
 
   How does this interact with the idea of strapping in bags etc. using
@@ -427,6 +430,7 @@ England, CV11 6GX.  Tel: 02477 670370, Mob: 07476 064038.
 - Order materials (in phases?)
 - Clear out boat.
 - Prepare surfaces.
+- Re-bed deck fittings to avoid deck core rot.
 - [TBD]
 
 
@@ -479,6 +483,7 @@ B. Document History
 
 ==========  ====   ============================================================
 2019-11-14  RB_    Brainstormed with Dad.
+                   Lots of brain dumping about potential volumes for foam.
 ==========  ====   ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
