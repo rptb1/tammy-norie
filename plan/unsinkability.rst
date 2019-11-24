@@ -418,7 +418,7 @@ Reference                         Areas      Depth   Volume / cm³
 `.vol.sides`_ starboard           48×214cm     20mm   20554
 `.vol.starboard-aft-bulkhead`_
 `.vol.under-cockpit`_
-`.idea.fixed-cushions`_ liner f   11500cm2     20mm   23000
+`.idea.fixed-cushions`_ liner f   11500cm²     20mm   23000
 `.idea.fixed-cushions`_ liner s   136×56cm     20mm   15232
 Total                                                114891
 ================================  =========  ======  =========================
@@ -643,12 +643,11 @@ A. References
      “A watertight bulkhead was put in just forward of the forward end
      of the coach-roof.  Apart from the chain locker, the whole area
      forward of the bulkhead was filled tight with closed-cell foam.”
-     (Section 3 chapter 2 paragraph 2)
+     (§3 ch.2 ¶2)
 
      “My calculations suggested that by them Mingming had about 150%
      of the floatation required to keep her where one would like to be
-     kept — on the surface of the ocean.” (Section 3 chapter 2
-     paragraph 3)
+     kept — on the surface of the ocean.” (§3 ch.2 ¶3)
 
 .. [AH2015] Commnent on “Redecoration”, from the `Tammy Norie blog`_;
    Annie Hill; 2015-06-12;
