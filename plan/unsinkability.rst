@@ -626,7 +626,8 @@ while implementing the plan.
 A. References
 =============
 
-.. [RT2007] “Voyages of a Simple Sailor”; Roger Taylor; 2007.
+.. [RT2007] “Voyages of a Simple Sailor”;
+   Roger Taylor; 2007.
 
      “A watertight bulkhead was put in just forward of the forward end
      of the coach-roof.  Apart from the chain locker, the whole area
