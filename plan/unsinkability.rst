@@ -458,6 +458,22 @@ _`.idea.pad-eyes`
   How does this interact with the idea of strapping in bags etc. using
   pad eyes attached to the hull in the manner of mini transat racers?
 
+_`.idea.test`
+
+  Test the unsinkability of the boat by attempting to sink the boat.
+  This would only be a partial test.  It would probably be best to do
+  it in clean fresh water, to reduce the effort of drying and cleaning
+  up afterwards.  Warm dry weather would be good for the same reason.
+  Salt water is 2.7% denser than fresh, so displacing it is more
+  effective, and a test in fresh water is more rigorous.  It would
+  also be sensble to do it somewhere that the boat can be recovered in
+  some reasonably cheap way if she does *not* float.  For example,
+  somewhere that she'll rest on the bottom with her coach-roof at the
+  surface, so that we can deploy air bags to re-float her, or
+  somewhere that can be drained or a crane can be used.  In addition
+  to being a test of the design, this would be fun and interesting and
+  make for an interesting article, photos, and a video!
+
 
 Suppliers
 ---------
@@ -470,25 +486,19 @@ England, CV11 6GX.  Tel: 02477 670370, Mob: 07476 064038.
 5. Plan
 =======
 
-- Plan and schedule.
+- Initial plan and schedule.
 - Measure boat for materials. @TammyNorie
 - Make battery compartment using foam sample. @TammyNorie
 - Find vinyl samples in boxes. @1TR
 - Investigate suitable fasteners for `.idea.chesterfield`_.
 - Experiment with `.idea.chesterfield`_ with foam sample and vinyl on
   backing board.
+- Remove deck fittings to allow core to dry. [Ref details for this project.]
 - Order materials (in phases?)
 - Clear out boat.
 - Prepare surfaces.
-- Re-bed deck fittings to avoid deck core rot.
 - [TBD]
 
-
-Notes
------
-
-1. Consider how I might test the unsinkability.
-   
 
 6. Schedule
 ===========
