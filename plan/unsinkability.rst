@@ -99,7 +99,7 @@ _`.req.access`:
 
   _`.req.access.wiring`
 
-    Must allow inspection and maintenance of electrical wiring --
+    Must allow inspection and maintenance of electrical wiring |--|
     instrument, radio antenna, and lighting.
 
   _`.req.access.deck-fittings`
@@ -145,8 +145,8 @@ cushions, so that they cannot take up water.  These will be secured to
 the interior by some means so that they do not detach when the boat is
 flooded [what means?].
 
-Many accessible unused voids will be filled with foam -- particularly
-the `.vol.coamings`_ -- but not void that are needed for drainage or
+Many accessible unused voids will be filled with foam |--| particularly
+the `.vol.coamings`_ |--| but not void that are needed for drainage or
 access.
 
 Additional precautions include storing as much as possible in
@@ -516,7 +516,7 @@ A. References
      that’s not counting the locker interiors or any other voids, so
      it’s quite achievable."
 
-.. _`Tammy Norie blog`: https://tammynorie.wordpress.com/     
+.. _Tammy Norie blog: https://tammynorie.wordpress.com/     
 
 
 
@@ -534,3 +534,5 @@ B. Document History
 ==========  ====   ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
+
+.. |--| unicode:: U+02014 .. em dash
