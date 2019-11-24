@@ -4,7 +4,10 @@ Tammy Norie Unsinkability Plan
 
 :Author: Richard Brooksby <rptb1+tammy-norie@pobox.com>
 :Date: 2019-11-14
-:Copyright: See section `C. Copyright and Licence`_
+:Copyright: `CC BY-NC-SA 4.0`_
+:Tag: plan.unsinkability
+
+.. _CC BY-NC-SA 4.0: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 1. Introduction
@@ -12,9 +15,25 @@ Tammy Norie Unsinkability Plan
 
 This document explains how and why I intend to make Tammy Norie unsinkable.
 
+The document uses the conventions of an engineering project at my
+company, `Ravenbrook`_.  In particular:
+
+- It uses tagged statements (with dots) as cross-references.
+
+- Comment *about* the document that aren't *part* of it are enclosed
+  in square brackets.  These are often notes of things that need
+  further work.
+
+I've included a brief explanation of the purpose of each section so
+that you can get the idea.
+
+.. _Ravenbrook: https://www.ravenbrook.com/
+
 
 2. Goals
 ========
+
+_`.goals`: The goals section explains the purposes of the project.
 
 _`.goal.survival`
 
@@ -34,10 +53,15 @@ _`.goal.benefits`
 3. Requirements
 ===============
 
+_`.requirements`: The requirements section defines what would achieve
+the `.goals`_ in a measurable way, but does *not* presuppose *how* to
+achieve them.  They can be used to evaluate whether a design and
+implementation are successful.
+
 _`.req.haven`
 
   Boat remains a safe haven in the case of a hole in the hull which
-  can't be fixed for days.
+  can't be fixed for many days.  [Ref to Adrift for 72 days.]
 
 _`.req.chop`
 
@@ -101,16 +125,20 @@ _`.req.safe`
 4. Design
 =========
 
+_`.design`: The design section explains *how* the `.requirements`_ can
+be met to achieve the `.goals`_.
 
-Overview
---------
 
-Use closed-cell foam to displace over 1 tonne of seawater, making the
+4.1. Overview
+-------------
+
+Use closed-cell foam to displace over 1 tonne [why?] of seawater, making the
 boat bouyant even if totally submerged.  [What is the margin of
 error?]
 
-Most of the foam will be stuck to the interior of the boat as a
-lining, also providing insulation and padding for comfort.
+Most of the foam will be stuck [how?] to the interior of the boat as a
+lining, also providing insulation and padding for comfort
+(`.goal.benefits`_).
 
 The interior cushions will also be replaced with closed-cell foam
 cushions, so that they cannot take up water.  These will be secured to
@@ -498,19 +526,11 @@ B. Document History
 ==========  ====   ============================================================
 2019-11-14  RB_    Brainstormed with Dad.
                    Lots of brain dumping about potential volumes for foam.
+2019-11-24  RB_    Added measurements made on 2019-11-23/24.
+                   Added new volumes discovered while making measurements.
+                   Added introduction and explanation of sections to make
+                   document more accessible to people who aren't familiar with
+                   the structure.
 ==========  ====   ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
-
-
-C. Copyright and Licence
-========================
-
-Copyright © Richard Brooksby.  This document is provided "as is",
-without any express or implied warranty. In no event will the authors
-be held liable for any damages arising from the use of this document.
-
-This work is licensed under a `Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International License`_.
-
-.. _`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License`: http://creativecommons.org/licenses/by-nc-sa/4.0/
