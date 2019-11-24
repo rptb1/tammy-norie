@@ -206,8 +206,8 @@ _`.vol.quarter-berth`
   comfort and buoyancy.  The berth is also home to clothing and
   equipment bags when I'm not in it.
 
-  I need to do some experiments to see how much space I need for
-  comfortable fidgeting while sleeping. [TODO]
+  [TODO: experiments to see how much space I need for comfortable
+  fidgeting while sleeping.]
 
 _`.vol.coamings`
 
@@ -357,25 +357,31 @@ _`.vol.interior-lockers`
 
 _`.vol.forward-bulkhead`
 
-  [TBD]
+  The bulkhead between the cabin and the anchor locker located in the
+  bow.
+
+  [TODO: description and analysis, reference to Roger Taylor's
+  collision bulkhead modification]
 
 _`.vol.starboard-aft-bulkhead`
 
   The small bulkhead between the cabin and the cockpit that is
   currently used to mount some equipment.
 
-  [TBD]
+  [TODO: compromise between current use and foam]
 
 _`.vol.port-aft-bulkhead`
 
   The small bulkhead between the heads compartment and the cockpit on
   which the compass, log, and depth instruments are mounted.
 
-  [TBD]
+  [TODO: describe how access to instruments and wiring will be
+  retained]
 
 _`.vol.anchor-locker`
 
-  [TBD]
+  [TODO: consider if it is sensible to use this at all, reference to
+  Roger Taylor's collision bulkhead modification]
 
 _`.vol.heads-bulkhead`
 
@@ -497,9 +503,15 @@ A. References
 
 .. [RT2007] "Voyages of a Simple Sailor"; Roger Taylor; 2007.
 
+     "A watertight bulkhead was put in just forward of the forward end
+     of the coach-roof.  Apart from the chain locker, the whole area
+     forward of the bulkhead was filled tight with closed-cell foam."
+     (Section 3 chapter 2 paragraph 2)
+
      "My calculations suggested that by them Mingming had about 150%
      of the floatation required to keep her where one would like to be
-     kept |--| on the surface of the ocean." (Section 3 chapter 2.)
+     kept |--| on the surface of the ocean." (Section 3 chapter 2
+     paragraph 3)
 
 .. [AH2015] Commnent on "Redecoration", from the `Tammy Norie blog`_;
    Annie Hill; 2015-06-12;
