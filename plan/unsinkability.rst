@@ -1,3 +1,5 @@
+.. -*- coding: utf-8 -*-
+
 ==============================
 Tammy Norie Unsinkability Plan
 ==============================
@@ -99,7 +101,7 @@ _`.req.access`:
 
   _`.req.access.wiring`
 
-    Must allow inspection and maintenance of electrical wiring |--|
+    Must allow inspection and maintenance of electrical wiring —
     instrument, radio antenna, and lighting.
 
   _`.req.access.deck-fittings`
@@ -145,8 +147,8 @@ cushions, so that they cannot take up water.  These will be secured to
 the interior by some means so that they do not detach when the boat is
 flooded [what means?].
 
-Many accessible unused voids will be filled with foam |--| particularly
-the `.vol.coamings`_ |--| but not voids that are needed for drainage or
+Many accessible unused voids will be filled with foam — particularly
+the `.vol.coamings`_ — but not voids that are needed for drainage or
 access.
 
 Additional precautions include storing as much as possible in
@@ -396,13 +398,13 @@ These are approximate dimensions based on measurements made on
 2019-11-23/24.  [Link to scans of notes?]
 
 ================================  =========  ======  =========================
-Reference                         Areas      Depth   Volume / cm3
+Reference                         Areas      Depth   Volume / cm³
 ================================  =========  ======  =========================
 `.vol.anchor-locker`_
-`.vol.ceiling`_ forward             45x85cm    10mm    3825
-`.vol.ceiling`_ starboard          50x232cm    10mm   11600
-`.vol.ceiling`_ port               50x160cm    10mm    8000
-`.vol.ceiling`_ top               100x200cm    10mm   13000 (minus hatches)
+`.vol.ceiling`_ forward             45×85cm    10mm    3825
+`.vol.ceiling`_ starboard          50×232cm    10mm   11600
+`.vol.ceiling`_ port               50×160cm    10mm    8000
+`.vol.ceiling`_ top               100×200cm    10mm   13000 (minus hatches)
 `.vol.coamings`_
 `.vol.cockpit-locker`_
 `.vol.cushions`_                              100mm
@@ -412,12 +414,12 @@ Reference                         Areas      Depth   Volume / cm3
 `.vol.port-aft-bulkhead`_
 `.vol.quarter-berth`_
 `.vol.quarter-locker`_
-`.vol.sides`_ port                48x205cm     20mm   19680
-`.vol.sides`_ starboard           48x214cm     20mm   20554
+`.vol.sides`_ port                48×205cm     20mm   19680
+`.vol.sides`_ starboard           48×214cm     20mm   20554
 `.vol.starboard-aft-bulkhead`_
 `.vol.under-cockpit`_
 `.idea.fixed-cushions`_ liner f   11500cm2     20mm   23000
-`.idea.fixed-cushions`_ liner s   136x56cm     20mm   15232
+`.idea.fixed-cushions`_ liner s   136×56cm     20mm   15232
 Total                                                114891
 ================================  =========  ======  =========================
 
@@ -444,7 +446,7 @@ _`.idea.fewer-cushions`
 _`.idea.chesterfield`
 
   Some kind of fasteners to tighten the surface lining against the
-  foam "stuffing" and so produce an attractive effect like a
+  foam “stuffing” and so produce an attractive effect like a
   Chesterfield sofa, as well as securing the foam.  The fasteners
   would need to flexible and not have sharp edges, especially on the
   ceiling.  Probably needs prototyping.
@@ -501,37 +503,37 @@ Notes
 A. References
 =============
 
-.. [RT2007] "Voyages of a Simple Sailor"; Roger Taylor; 2007.
+.. [RT2007] “Voyages of a Simple Sailor”; Roger Taylor; 2007.
 
-     "A watertight bulkhead was put in just forward of the forward end
+     “A watertight bulkhead was put in just forward of the forward end
      of the coach-roof.  Apart from the chain locker, the whole area
-     forward of the bulkhead was filled tight with closed-cell foam."
+     forward of the bulkhead was filled tight with closed-cell foam.”
      (Section 3 chapter 2 paragraph 2)
 
-     "My calculations suggested that by them Mingming had about 150%
+     “My calculations suggested that by them Mingming had about 150%
      of the floatation required to keep her where one would like to be
-     kept |--| on the surface of the ocean." (Section 3 chapter 2
+     kept — on the surface of the ocean.” (Section 3 chapter 2
      paragraph 3)
 
-.. [AH2015] Commnent on "Redecoration", from the `Tammy Norie blog`_;
+.. [AH2015] Commnent on “Redecoration”, from the `Tammy Norie blog`_;
    Annie Hill; 2015-06-12;
    <https://tammynorie.wordpress.com/2015/06/09/redecoration/#comment-333>.
 
-     "I had the misfortune to spend seven years living on a boat with
+     “I had the misfortune to spend seven years living on a boat with
      closed-cell foam cushions. I’m naturally well padded, but I have
      to say they were some of the most uncomfortable seats I’ve ever
-     had to live with."
+     had to live with.”
 
-.. [RB2015] "Redecoration", from the `Tammy Norie blog`_; Richard
+.. [RB2015] “Redecoration”, from the `Tammy Norie blog`_; Richard
    Brooksby; 2019-06-09;
    <https://tammynorie.wordpress.com/2015/06/09/redecoration/>.
         
-     "My goal is to displace over 1m³ of water with foam, providing
+     “My goal is to displace over 1m³ of water with foam, providing
      over 1t of buoyancy. That should make Tammy Norie
      unsinkable. I’ve calculated that 10mm of foam on all the surfaces
      I’ve just painted, plus the cushions, add up to about 1m³, and
      that’s not counting the locker interiors or any other voids, so
-     it’s quite achievable."
+     it’s quite achievable.”
 
 .. _Tammy Norie blog: https://tammynorie.wordpress.com/     
 
@@ -551,5 +553,3 @@ B. Document History
 ==========  ====   ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
-
-.. |--| unicode:: U+02014 .. em dash
