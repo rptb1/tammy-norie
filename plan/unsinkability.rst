@@ -503,11 +503,65 @@ England, CV11 6GX.  Tel: 02477 670370, Mob: 07476 064038.
 6. Schedule
 ===========
 
+_`.schedule`: The schedule describes *when* things are planned to occur.
+
 2019-11-17 : Planning
     Initial outline plan and schedule.
 
 2019-11 : Design and measurement
     Lorem ipsum dolor sit et amet.
+
+
+7. Journal
+==========
+
+_`.journal`: The journal describes *what* and *when* actually occurred
+while implementing the plan.
+
+2019-11-14
+
+  After refining my big to-do list for the Tammy Norie project, I
+  realised that the unsinkability project was too complicated to
+  manage with a simple to-do list and decided to write a document.
+  That turned into “Tammy Norie Unsinkability Plan” (this document)
+  which rapidly grew to a length and level of detail that surprised
+  me.  I have been thinking about this project for many years and have
+  accumulated a lot of ideas.  On top of that, when I started thinking
+  about the volumes inside the boat I realised that there were a lot
+  of wrinkles and that writing them up would help a great deal with
+  execution and increase the chance of completing the project during
+  the winter of 2019/2020.
+
+  As part of a general plan for the winter I constructed a tent around
+  Tammy Norie in my parents' driveway using a 10×10m clear tarpaulin
+  on a frame jury-rigged from Dad's party gazebo.  This will allow me
+  to disgorge the contents of Tammy Norie onto the deck without them
+  getting wet during the winter.  It will also help with two other
+  projects:
+
+  1. Drying out the hull in preparation for a layer of epoxy to
+     prevent osmosis.  [ref?]
+
+  2. Removing the deck fittings, many of which are held in by
+     self-tapping screws, and drying out the deck core before
+     replacing them using machine screws and nuts, to prevent deck
+     core rot.  [ref Pascoe, Mads]
+
+
+2019-11-24
+
+  Measured foam volumes and took photographs for `.vol.sides`_, liner,
+  `.vol.ceiling`_, `.vol.under-cockpit`_, `.vol.heads-bulkhead`_,
+  `.vol.starboard-aft-bulkhead`_, `.vol.port-aft-bulkhead`_,
+  `.vol.coamings`_, `.vol.quarter-berth`_, `.vol.forward-bulkhead`_,
+  `.vol.cockpit-locker`_.  [TODO: Scan results.]
+
+  Extensive updates to this document including preparation for
+  publishing via GitHub so that it can be critiqued by interested
+  folks from the `Tammy Norie blog`_, the `JRA forums`_, mailing
+  lists, etc.
+
+.. _JRA forums: https://junkrigassociation.org/technical_forum
 
 
 A. References
