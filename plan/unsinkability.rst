@@ -146,7 +146,7 @@ the interior by some means so that they do not detach when the boat is
 flooded [what means?].
 
 Many accessible unused voids will be filled with foam |--| particularly
-the `.vol.coamings`_ |--| but not void that are needed for drainage or
+the `.vol.coamings`_ |--| but not voids that are needed for drainage or
 access.
 
 Additional precautions include storing as much as possible in
