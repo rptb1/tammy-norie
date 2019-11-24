@@ -569,6 +569,17 @@ managing my effort carefully to see what I can achieve.
     2. Measure volumes (`.plan.measure`_)
     3. Select initial volumes
     4. Order initial materials (`.plan.order-mats`_)
+    5. Make battery compartment (`.plan.battery`_)
+    6. Remove deck fittings (`.plan.strip-deck`_)
+    7. Order fasteners for chesterfield (`.plan.try-chesterfield`_)
+
+2019-12-03/06 : (at 1TR)
+
+    [To be decided]
+
+2019-12-12/17 : (at 245)
+
+    [To be decided]
 
 
 7. Journal
