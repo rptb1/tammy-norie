@@ -349,29 +349,43 @@ _`.vol.anchor-locker`
 
   [TBD]
 
+_`.vol.heads-bulkhead`
+
+  The forward bulkhead of heads is a large blank wall that could
+  easily be covered to a depth of 20-30mm.
 
     
 Dimensions
 ----------
 
-================================  =======  =====  ===
-Reference                         Areas    Depth  Volume
-================================  =======  =====  ===
+These are approximate dimensions based on measurements made on
+2019-11-23/24.  [Link to scans of notes?]
+
+================================  =========  ======  =========================
+Reference                         Areas      Depth   Volume / cm3
+================================  =========  ======  =========================
 `.vol.anchor-locker`_
-`.vol.ceiling`_
+`.vol.ceiling`_ forward             45x85cm    10mm    3825
+`.vol.ceiling`_ starboard          50x232cm    10mm   11600
+`.vol.ceiling`_ port               50x160cm    10mm    8000
+`.vol.ceiling`_ top               100x200cm    10mm   13000 (minus hatches)
 `.vol.coamings`_
 `.vol.cockpit-locker`_
-`.vol.cushions`_                   100mm
+`.vol.cushions`_                              100mm
 `.vol.engine-locker`_
 `.vol.forward-bulkhead`_
 `.vol.interior-lockers`_
 `.vol.port-aft-bulkhead`_
 `.vol.quarter-berth`_
 `.vol.quarter-locker`_
-`.vol.sides`_                       20mm
+`.vol.sides`_ port                48x205cm     20mm   19680
+`.vol.sides`_ starboard           48x214cm     20mm   20554
 `.vol.starboard-aft-bulkhead`_
 `.vol.under-cockpit`_
-================================  =======  =====  ===
+`.idea.fixed-cushions`_ liner f   11500cm2     20mm   23000
+`.idea.fixed-cushions`_ liner s   136x56cm     20mm   15232
+Total                                                114891
+================================  =========  ======  =========================
 
 
 Notes
