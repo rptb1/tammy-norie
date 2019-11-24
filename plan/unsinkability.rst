@@ -134,9 +134,9 @@ be met to achieve the `.goals`_.
 4.1. Overview
 -------------
 
-Use closed-cell foam to displace over 1 tonne [why?] of seawater,
-making the boat bouyant even if totally submerged [RB2015]_ [RT2007]_.
-[What is the margin of error?]
+_`.design.displace`: Use closed-cell foam to displace over 1 tonne
+[why?] of seawater, making the boat bouyant even if totally submerged
+[RB2015]_ [RT2007]_.  [What is the margin of error?]
 
 Most of the foam will be stuck [how?] to the interior of the boat as a
 lining, also providing insulation and padding for comfort
@@ -478,7 +478,7 @@ _`.idea.test`
 Suppliers
 ---------
 
-_`Lux Distribution` <https://www.carinsulation.co.uk/>, Unit 3 Watling
+_`.supplier.lux`: _`Lux Distribution` <https://www.carinsulation.co.uk/>, Unit 3 Watling
 Court, Attleborough Fields Ind Estate, Nuneaton, Warwickshire,
 England, CV11 6GX.  Tel: 02477 670370, Mob: 07476 064038.
 
@@ -486,36 +486,95 @@ England, CV11 6GX.  Tel: 02477 670370, Mob: 07476 064038.
 5. Plan
 =======
 
-- Initial plan and schedule.
-- Measure boat for materials. @TammyNorie
-- Make battery compartment using foam sample. @TammyNorie
-- Find vinyl samples in boxes. @1TR
-- Investigate suitable fasteners for `.idea.chesterfield`_.
-- Experiment with `.idea.chesterfield`_ with foam sample and vinyl on
+_`.plan`: The plan section contains a list of concrete steps that I
+plan to take to implement the design.  Each step should have a fairly
+predictable duration.  Note that the plan section does not say when
+things will happen (see `.schedule`_).  The plan is only roughly in
+order, but all steps are written after steps they require.
+
+_`.plan.plan`
+
+  Initial plan and schedule.
+
+_`.plan.clear-out`
+
+  Clear out enough stuff from the boat to get access to the surfaces
+  and volumes.
+
+_`.plan.measure`
+
+  Measure boat for materials and to ensure that there is enough volume
+  to `.design.displace`_ enough volume.
+
+_`.plan.battery`
+
+  Make battery compartment using 1m²×30mm foam sample that I already
+  have from `.supplier.lux`_ in order to learn about handling the
+  foam, its adhesion, etc.  (And of course to mount the battery!)
+
+_`.plan.find-vinyl`
+
+  Find vinyl headlining offcuts in crates I have at home, prior to
+  `.plan.try-chesterfield`_.
+
+_`.plan.find-fasteners`
+
+  Investigate suitable fasteners for `.idea.chesterfield`_.
+
+_`.plan.try-chesterfield`
+
+  Experiment with `.idea.chesterfield`_ with foam sample and vinyl on
   backing board.
-- Remove deck fittings to allow core to dry. [Ref details for this project.]
-- Order materials (in phases?)
-- Clear out boat.
-- Prepare surfaces.
-- [TBD]
+
+_`.plan.strip-deck`
+
+  Remove deck fittings to allow core to dry. [Ref details for this
+  project.]
+
+_`.plan.order-mats`
+
+  Order first batch of materials.
+
+_`.plan.surface-prep`
+
+  Prepare surfaces according to the experience from `.plan.battery`_.
+
+_`.plan.more`
+
+  Plan further steps.
 
 
 6. Schedule
 ===========
 
-_`.schedule`: The schedule describes *when* things are planned to occur.
+_`.schedule`: The schedule describes *when* things from `.plan`_ are
+scheduled to occur.  It is subject to continuous change in the light
+of what actually occurs (see `.journal`_).
 
-2019-11-17 : Planning
-    Initial outline plan and schedule.
+I'm quite limited with scheduling since I am disabled with `ME/CFS`_,
+which is not only both physically and mentally debilitating, but
+unpredictable.  In many ways this schedule will be an exercise in
+managing my effort carefully to see what I can achieve.
 
-2019-11 : Design and measurement
-    Lorem ipsum dolor sit et amet.
+.. _`ME/CFS`: https://en.wikipedia.org/wiki/ME/CFS
+
+2019-11-17 : Planning (at 1TR)
+
+    Initial plan and schedule (`.plan.plan`_).  Allot time to the
+    project on my calendar.
+
+2019-11-24/28 : Design and measurement (at 245)
+
+    1. Clear out boat (`.plan.clear-out`_)
+    2. Measure volumes (`.plan.measure`_)
+    3. Select initial volumes
+    4. Order initial materials (`.plan.order-mats`_)
 
 
 7. Journal
 ==========
 
-_`.journal`: The journal describes *what* and *when* actually occurred
+_`.journal`: The journal describes *what* actually occurred and *when*
 while implementing the plan.
 
 2019-11-14
