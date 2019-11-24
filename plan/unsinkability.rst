@@ -132,9 +132,9 @@ be met to achieve the `.goals`_.
 4.1. Overview
 -------------
 
-Use closed-cell foam to displace over 1 tonne [why?] of seawater, making the
-boat bouyant even if totally submerged.  [What is the margin of
-error?]
+Use closed-cell foam to displace over 1 tonne [why?] of seawater,
+making the boat bouyant even if totally submerged [RB2015]_ [RT2007]_.
+[What is the margin of error?]
 
 Most of the foam will be stuck [how?] to the interior of the boat as a
 lining, also providing insulation and padding for comfort
@@ -194,7 +194,7 @@ _`.vol.cushions`
   tend to take up moisture over time.
 
   Annie Hill warns that closed-cell foam cushions can be uncomfortably
-  hard [ref?  It's a comment on the blog.].
+  hard [AH2015]_.
 
 _`.vol.quarter-berth`
 
@@ -495,10 +495,14 @@ Notes
 A. References
 =============
 
-.. [RT] Roger Taylor's foam lining of Mingming [ref?].
+.. [RT2007] "Voyages of a Simple Sailor"; Roger Taylor; 2007.
 
-.. [AH-2015-06-12] Commnent on "Redecoration", from the `Tammy Norie
-   blog`_; Annie Hill; 2015-06-12;
+     "My calculations suggested that by them Mingming had about 150%
+     of the floatation required to keep her where one would like to be
+     kept |--| on the surface of the ocean." (Section 3 chapter 2.)
+
+.. [AH2015] Commnent on "Redecoration", from the `Tammy Norie blog`_;
+   Annie Hill; 2015-06-12;
    <https://tammynorie.wordpress.com/2015/06/09/redecoration/#comment-333>.
 
      "I had the misfortune to spend seven years living on a boat with
@@ -506,8 +510,9 @@ A. References
      to say they were some of the most uncomfortable seats I’ve ever
      had to live with."
 
-.. [RB-2015-06-09] "Redecoration", from the `Tammy Norie blog`_; Richard Brooksby;
-   2019-06-09; <https://tammynorie.wordpress.com/2015/06/09/redecoration/>.
+.. [RB2015] "Redecoration", from the `Tammy Norie blog`_; Richard
+   Brooksby; 2019-06-09;
+   <https://tammynorie.wordpress.com/2015/06/09/redecoration/>.
         
      "My goal is to displace over 1m³ of water with foam, providing
      over 1t of buoyancy. That should make Tammy Norie
