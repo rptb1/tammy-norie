@@ -733,7 +733,10 @@ while implementing the plan.
 2019-11-25
 
   Finished measuring volumes (except `.vol.anchor-locker`_, which is
-  an unlikey one).
+  an unlikey one).  These need writing up in this document, and the
+  whole lot need to be gone over more carefully.  I've had a horrible
+  thought — did I accidentally make my original esimate using 10cm of
+  foam instead of 10mm?
 
 
 A. References
