@@ -139,17 +139,17 @@ _`.design.displace`
   Attach `closed-cell foam`_ to the hull so that over 1 tonne of
   seawater would be dispalced by the air in the foam even if the boat is fully
   submerged, creating an upthrust greater than the weight of the boat
-  [Newbridge1982]_ [RB2015]_ [RT2007]_.
-
-  Newbridge claim the Coromandel weighs 2000lbs (908kg) laden
-  [Newbridge1982]_ and so I'm using this as a guide.  I intend to
-  measure the actual weight of Tammy Norie with her equipment in the
-  spring of 2020 using a pubic weighbridge.  Tammy has quite a lot of
-  gear aboard in preparation for single-handed distance sailing, so
-  there may be a surprise and a need for more floatation.  [TODO:
-  Explain contingencies.]
+  [RB2015]_ [RT2007]_.
 
 .. _closed-cell foam: https://en.wikipedia.org/wiki/Foam#Solid_foams
+
+  Newbridge claim the Coromandel weighs 2000lbs (908kg) laden
+  [Newbridge1982]_ and so I'm using this as a guide.  The lack of
+  precision in the 2000lb figure suggests an error of at least ±10%.
+  I intend to measure the actual weight of Tammy Norie
+  (`.plan.weighbridge`_).  Tammy has quite a lot of gear aboard in
+  preparation for single-handed distance sailing, so there may be a
+  surprise and a need for more floatation.  [TODO: Contingency plan.]
 
 _`.design.lining`
 
@@ -589,12 +589,12 @@ _`.plan.surface-prep`
 
 _`.plan.weighbridge`
 
-  Visit a public weighbridge with the boat on her trailer before
-  launch, then again with just the trailer after launch, in order to
-  find out the real weight and required volume of floatation.  Compare
-  to actual volume and make further plans as necessary.  This can't
-  happen until launch in Spring 2020.  There is a weighbridge at
-  `.supplier.veolia`_.
+  Visit a public weighbridge with the boat on her trailer (all
+  equipment laoded) before launch, then again with just the trailer
+  after launch, in order to find out the real weight and required
+  volume of floatation.  Compare to actual volume and make further
+  plans as necessary.  This can't happen until launch in Spring 2020.
+  There is a weighbridge at `.supplier.veolia`_.
 
 _`.plan.more`
 
