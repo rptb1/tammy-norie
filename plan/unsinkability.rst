@@ -18,7 +18,7 @@ Tammy Norie Unsinkability Plan
 This document explains how and why I intend to make Tammy Norie unsinkable.
 
 The document uses the conventions of an engineering project at my
-company, `Ravenbrook`_.  In particular:
+company, `Ravenbrook`_ [RB1998]_.  In particular:
 
 - It uses tagged statements (with dots) as cross-references.
 
@@ -134,35 +134,48 @@ be met to achieve the `.goals`_.
 4.1. Overview
 -------------
 
-_`.design.displace`: Use closed-cell foam to displace over 1 tonne
-[why?] of seawater, making the boat bouyant even if totally submerged
-[RB2015]_ [RT2007]_.  [What is the margin of error?]
+_`.design.displace`
 
-Most of the foam will be stuck [how?] to the interior of the boat as a
-lining, also providing insulation and padding for comfort
-(`.goal.benefits`_).
+  Use closed-cell foam to displace over 1 tonne [why?] of seawater,
+  making the boat bouyant even if totally submerged [RB2015]_
+  [RT2007]_.  [What is the margin of error?]
 
-The interior cushions will also be replaced with closed-cell foam
-cushions, so that they cannot take up water.  These will be secured to
-the interior by some means so that they do not detach when the boat is
-flooded [what means?].
+_`.design.lining`
 
-Many accessible unused voids will be filled with foam — particularly
-the `.vol.coamings`_ — but not voids that are needed for drainage or
-access.
+  Most of the foam will be stuck [how?] to the interior of the boat as
+  a lining, also providing insulation and padding for comfort
+  (`.goal.benefits`_).
 
-Additional precautions include storing as much as possible in
-watertight containers and bags which are half-filled with air.
+_`.design.cushions`
 
-The foam will need to be covered with a lining to protect its surface
-and to reflect light, since it is usually matt black.  Conventional
-vinyl headlining material is probably the right thing.
+  The interior cushions will also be replaced with closed-cell foam
+  cushions, so that they cannot take up water.  These will be secured
+  to the interior by some means so that they do not detach when the
+  boat is flooded [what means?].
+
+_`.design.voids`
+
+  Many accessible unused voids will be filled with foam — particularly
+  the `.vol.coamings`_ — but not voids that are needed for drainage or
+  access.
+
+_`.design.containers`
+
+  Additional precautions include storing as much as possible in
+  watertight containers and bags which are half-filled with air.
+
+_`.design.cover`
+
+  The foam will need to be covered with a lining to protect its
+  surface and to reflect light, since it is usually matt black.
+  Conventional vinyl headlining material is probably the right thing.
 
 
-Volumes
--------
+4.2. Volumes
+------------
 
-These are the volumes within the boat where air can be replaced by foam.
+_`.vol`: These are the volumes in the boat where closed-cell foam can
+be fitted, so that water cannot replace the air and sink the boat.
 
 _`.vol.sides`
 
@@ -484,7 +497,7 @@ _`.idea.test`
   This would only be a partial test.  It would probably be best to do
   it in clean fresh water, to reduce the effort of drying and cleaning
   up afterwards.  Warm dry weather would be good for the same reason.
-  Salt water is 2.7% denser than fresh, so displacing it is more
+  Sea water is 2-4% denser than fresh [1], so displacing it is more
   effective, and a test in fresh water is more rigorous.  It would
   also be sensble to do it somewhere that the boat can be recovered in
   some reasonably cheap way if she does *not* float.  For example,
@@ -657,18 +670,6 @@ while implementing the plan.
 A. References
 =============
 
-.. [RT2007] “Voyages of a Simple Sailor”;
-   Roger Taylor; 2007.
-
-     “A watertight bulkhead was put in just forward of the forward end
-     of the coach-roof.  Apart from the chain locker, the whole area
-     forward of the bulkhead was filled tight with closed-cell foam.”
-     (§3 ch.2 ¶2)
-
-     “My calculations suggested that by them Mingming had about 150%
-     of the floatation required to keep her where one would like to be
-     kept — on the surface of the ocean.” (§3 ch.2 ¶3)
-
 .. [AH2015] Commnent on “Redecoration”, from the `Tammy Norie blog`_;
    Annie Hill; 2015-06-12;
    <https://tammynorie.wordpress.com/2015/06/09/redecoration/#comment-333>.
@@ -677,6 +678,9 @@ A. References
      closed-cell foam cushions. I’m naturally well padded, but I have
      to say they were some of the most uncomfortable seats I’ve ever
      had to live with.”
+
+.. [RB1998] “Rules for all documents”; Richard Brooksby; Ravenbrook
+   Limited; 1998-06-03; <https://info.ravenbrook.com/rule/generic/>.
 
 .. [RB2015] “Redecoration”, from the `Tammy Norie blog`_; Richard
    Brooksby; 2019-06-09;
@@ -688,6 +692,18 @@ A. References
      I’ve just painted, plus the cushions, add up to about 1m³, and
      that’s not counting the locker interiors or any other voids, so
      it’s quite achievable.”
+
+.. [RT2007] “Voyages of a Simple Sailor”;
+   Roger Taylor; 2007.
+
+     “A watertight bulkhead was put in just forward of the forward end
+     of the coach-roof.  Apart from the chain locker, the whole area
+     forward of the bulkhead was filled tight with closed-cell foam.”
+     (§3 ch.2 ¶2)
+
+     “My calculations suggested that by them Mingming had about 150%
+     of the floatation required to keep her where one would like to be
+     kept — on the surface of the ocean.” (§3 ch.2 ¶3)
 
 .. _Tammy Norie blog: https://tammynorie.wordpress.com/     
 
@@ -707,3 +723,9 @@ B. Document History
 ==========  ====   ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
+
+
+C. Footnotes
+============   
+
+.. [1] according to Wolfram Alpha
