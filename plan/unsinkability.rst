@@ -415,8 +415,8 @@ _`.vol.heads-bulkhead`
   easily be covered to a depth of 20-30mm.
 
     
-Dimensions
-----------
+4.3. Dimensions
+---------------
 
 These are approximate dimensions based on measurements made on
 2019-11-23/24.  [Link to scans of notes?]
@@ -468,8 +468,8 @@ Total                                                 773798
    58300 54120 28620 11877 9951 9951 11877)
 
 
-Notes
------
+4.4. Ideas
+----------
 
 _`.idea.cushion-straps`
 
@@ -519,8 +519,8 @@ _`.idea.test`
   make for an interesting article, photos, and a video!
 
 
-Suppliers
----------
+4.5. Suppliers
+--------------
 
 _`.supplier.lux`: _`Lux Distribution`
 <https://www.carinsulation.co.uk/>, Unit 3 Watling Court, Attleborough
