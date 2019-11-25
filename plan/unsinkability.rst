@@ -136,9 +136,20 @@ be met to achieve the `.goals`_.
 
 _`.design.displace`
 
-  Use closed-cell foam to displace over 1 tonne [why?] of seawater,
-  making the boat bouyant even if totally submerged [RB2015]_
-  [RT2007]_.  [What is the margin of error?]
+  Attach `closed-cell foam`_ to the hull so that over 1 tonne of
+  seawater would be dispalced by the air in the foam even if the boat is fully
+  submerged, creating an upthrust greater than the weight of the boat
+  [Newbridge1982]_ [RB2015]_ [RT2007]_.
+
+  Newbridge claim the Coromandel weighs 2000lbs (908kg) laden
+  [Newbridge1982]_ and so I'm using this as a guide.  I intend to
+  measure the actual weight of Tammy Norie with her equipment in the
+  spring of 2020 using a pubic weighbridge.  Tammy has quite a lot of
+  gear aboard in preparation for single-handed distance sailing, so
+  there may be a surprise and a need for more floatation.  [TODO:
+  Explain contingencies.]
+
+.. _closed-cell foam: https://en.wikipedia.org/wiki/Foam#Solid_foams
 
 _`.design.lining`
 
@@ -511,9 +522,13 @@ _`.idea.test`
 Suppliers
 ---------
 
-_`.supplier.lux`: _`Lux Distribution` <https://www.carinsulation.co.uk/>, Unit 3 Watling
-Court, Attleborough Fields Ind Estate, Nuneaton, Warwickshire,
-England, CV11 6GX.  Tel: 02477 670370, Mob: 07476 064038.
+_`.supplier.lux`: _`Lux Distribution`
+<https://www.carinsulation.co.uk/>, Unit 3 Watling Court, Attleborough
+Fields Ind Estate, Nuneaton, Warwickshire, England, CV11 6GX.  Tel:
+02477 670370, Mob: 07476 064038.
+
+_`.supplier.veolia`: Veolia Otterbourne, Poles Lane, Otterbourne,
+SO21 2EA <https://goo.gl/maps/D8Fi8ZKhJ8ih2SyB7>.  Tel: 01962 764000.
 
 
 5. Plan
@@ -571,6 +586,15 @@ _`.plan.order-mats`
 _`.plan.surface-prep`
 
   Prepare surfaces according to the experience from `.plan.battery`_.
+
+_`.plan.weighbridge`
+
+  Visit a public weighbridge with the boat on her trailer before
+  launch, then again with just the trailer after launch, in order to
+  find out the real weight and required volume of floatation.  Compare
+  to actual volume and make further plans as necessary.  This can't
+  happen until launch in Spring 2020.  There is a weighbridge at
+  `.supplier.veolia`_.
 
 _`.plan.more`
 
@@ -678,6 +702,12 @@ A. References
      closed-cell foam cushions. I’m naturally well padded, but I have
      to say they were some of the most uncomfortable seats I’ve ever
      had to live with.”
+
+.. [Newbridge1982] Newbridge Coromandel specification; Newbridge Boats
+   Limited; 1982 (date uncertain);
+   <https://corribee.files.wordpress.com/2009/06/20090629_coromandelbrochure_markdeverell2.pdf>.
+
+     “Displacement laden: 2,000lbs (908 kg)”
 
 .. [RB1998] “Rules for all documents”; Richard Brooksby; Ravenbrook
    Limited; 1998-06-03; <https://info.ravenbrook.com/rule/generic/>.
