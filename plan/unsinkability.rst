@@ -72,11 +72,24 @@ _`.req.chop`
 
 _`.req.suitable`
 
-  Suitable for Tammy Norie.
+  Suitable for Tammy Norie [TODO: clarify -- is this just time and
+  cost?].
+
+_`.req.preserve`
+
+  Does not permanently change the fundamental nature of Tammy Norie as
+  an example of a well-preserved Newbridge Coromandel in near-original
+  condition.
+
+_`.req.useful`
+
+  Does not significantly limit Tammy Norie's usefulness as a coastal
+  cruiser for friends and family, even while it makes her safer as an
+  ocean-going passagemaker.
 
 _`.req.time`
 
-  Can be fitted by me in reasonable time [clarify].
+  Can be fitted by me in reasonable time [TODO: clarify].
 
 _`.req.cost`
 
@@ -84,7 +97,7 @@ _`.req.cost`
 
 _`.req.maintainable`
 
-  Maintainable.
+  Maintainable [TODO: clarify].
 
 _`.req.removable`
 
@@ -386,8 +399,12 @@ _`.vol.forward-bulkhead`
   The bulkhead between the cabin and the anchor locker located in the
   bow.
 
-  [TODO: description and analysis, reference to Roger Taylor's
-  collision bulkhead modification]
+  On Mingming and Mingming 2, Roger Taylor added a second “watertight
+  bulkhead” or “collision bulkhead” with foam between it and the
+  anchor locker [RT2007]_.  This could work on Tammy Norie, except it
+  would considerably reduce the size of the forward bunks and make it
+  much less easy to have guests on board, and so does not satisfy
+  `.req.useful`_ or `.req.preserve`_.  [TODO: Ask Roger about this.]
 
 _`.vol.starboard-aft-bulkhead`
 
@@ -705,6 +722,12 @@ while implementing the plan.
 
   2. Re-draw my measurement diagrams more carefully and check my
      current calculations.
+
+
+2019-11-25
+
+  Finished measuring volumes (except `.vol.anchor-locker`_, which is
+  an unlikey one).
 
 
 A. References
