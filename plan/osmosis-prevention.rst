@@ -55,6 +55,10 @@ _`.req.maintainable`
 4. Design
 =========
 
+
+4.1. Overview
+-------------
+
 _`.design.barrier`: Apply an epoxy-based barrier coat to Tammy Norie's
 hull below the waterline.  Epoxy is much [ref?] less permeable to
 water than polyester, and this should reduce the possibility of the
@@ -70,6 +74,12 @@ and outside of the hull.  [NOTE: Conflicts with
 interior sides.]
 
 .. _plan.unsinkability.design.displace: unsinkability.html#.design.displace
+
+
+4.2. Suppliers
+--------------
+
+.supplier.smith: <http://www.smithandcompany.org/>.
 
 
 5. Plan
@@ -104,6 +114,29 @@ A. References
 .. [Smith2003] “The Real Story of Osmosis Blistering: Treatment, Cure
    and Prevention”; Steve Smith; Smith & Co.; 2003-03;
    <http://www.smithandcompany.org/GRP/GRP.html>.
+
+     “I am actually the guy who discovered what was causing gel-coat
+     blisters, when the boat manufacturers were denying that there was
+     any such thing.”
+
+     “I developed the Barrier Coat Technology in 1975 and hulls
+     correctly done since that time have shown no further damage.”
+
+     “If water evaporates off the inner hull surface of a fiberglass
+     hull boat faster than it can diffuse through the barrier paint
+     coating, this results in a very low moisture content in the
+     laminate.”
+
+     “One significant feature of my discoveries in the refurbishment
+     of older GRP hulls is that it is utterly unnecessary to dry the
+     hull for months with a dehumidifier tent, etc.” [TODO:
+     Investigate this further.]
+
+     “Moving air evaporates water faster than anything else, and the
+     removal of excess water in the laminate is the key to a more
+     successful blister repair, whether one uses the fanciest epoxies
+     or the cheapest polyester.  With adequate ventilation most hulls
+     are adequately dry in a few weeks...”
 
 .. [SailLife] Link to Mads work on osmosis in Athena's hull [TODO:
               Decide how to link it.]
