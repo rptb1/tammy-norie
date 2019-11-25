@@ -6,8 +6,9 @@ This repository contains documents for projects relating to the
 sailing yacht `Tammy Norie`_, a `Newbridge Coromandel`_ sailed by
 Richard Brooksby.
 
-The documents here are always works in progress.  If you are looking
-to read about Tammy Norie and her progress you might find the blog at
+*The documents here are not intended to be entertaining.* The
+documents here are always works in progress.  If you are looking to
+read about Tammy Norie and her progress you might find the blog at
 <https://tammynorie.wordpress.com/> more accessible.
 
 However, you are welcome to browse these documents and submit feedback
