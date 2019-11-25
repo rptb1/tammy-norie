@@ -2,9 +2,11 @@
 Tammy Norie Document Licence
 ============================
 
-Documents and other materials in this Git repository are licensed
+Documents and other materials in `this Git repository`_ are licensed
 under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 International (CC BY-NC-SA 4.0) licence.
+
+.. _this Git repository: https://github.com/rptb1/tammy-norie
 
 This is a human-readable summary of (and not a substitute for) the
 license_.
@@ -49,5 +51,5 @@ Notices:
   rights such as publicity, privacy, or moral rights may limit how you
   use the material.
 
-This document is available in other languages at
+This summary is available in other languages at
 <https://creativecommons.org/licenses/by-nc-sa/4.0/>.
