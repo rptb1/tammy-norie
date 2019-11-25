@@ -397,31 +397,51 @@ Dimensions
 These are approximate dimensions based on measurements made on
 2019-11-23/24.  [Link to scans of notes?]
 
-================================  =========  ======  =========================
-Reference                         Areas      Depth   Volume / cm³
-================================  =========  ======  =========================
+================================  ==========  ======  =========================
+Reference                          Areas      Depth   Volume / cm³
+================================  ==========  ======  =========================
 `.vol.anchor-locker`_
-`.vol.ceiling`_ forward             45×85cm    10mm    3825
-`.vol.ceiling`_ starboard          50×232cm    10mm   11600
-`.vol.ceiling`_ port               50×160cm    10mm    8000
-`.vol.ceiling`_ top               100×200cm    10mm   13000 (minus hatches)
-`.vol.coamings`_
-`.vol.cockpit-locker`_
-`.vol.cushions`_                              100mm
+`.vol.ceiling`_ forward              45×85cm    20mm    7650
+`.vol.ceiling`_ starboard           50×232cm    20mm   23200
+`.vol.ceiling`_ port                50×160cm    20mm   16000
+`.vol.ceiling`_ top                100×200cm    10mm   13000 (minus hatches)
+`.vol.coamings`_ starboard          36×135cm    20cm   97200
+`.vol.coamings`_ port               36×114cm    20cm   82080
+`.vol.cockpit-locker`_ hull        107×114cm    30mm   36594
+`.vol.cockpit-locker`_ b.h. f        74×40cm    30mm    8880
+`.vol.cockpit-locker`_ b.h. a        56x52cm    30mm    8736
+`.vol.cushions`_ port f f           36×120cm    10cm   43200
+`.vol.cushions`_ port f a            48×70cm    10cm   33600
+`.vol.cushions`_ starboard f f      36×120cm    10cm   43200
+`.vol.cushions`_ starboard f a       48×70cm    10cm   33600
+`.vol.cushions`_ starboard q a      53×110cm    10cm   58300
+`.vol.cushions`_ starboard s         55×40cm    10cm   22000
+`.vol.cushions`_ starboard q f       66×82cm    10cm   54120
+`.vol.cushions`_ infill              53×54cm    10cm   28620
 `.vol.engine-locker`_
-`.vol.forward-bulkhead`_
+`.vol.forward-bulkhead`_           ½×78×62cm    30mm    7254
+`.vol.heads-bulkhead`_ lower      pi/4*78²cm    30mm   14327
+`.vol.heads-bulkhead`_ upper      pi/4*57²cm    30mm    7651
 `.vol.interior-lockers`_
-`.vol.port-aft-bulkhead`_
+`.vol.port-aft-bulkhead`_            58×43cm    30mm    7482
+`.vol.quarter-berth`_ side          50×195cm    20mm   19500
 `.vol.quarter-berth`_
 `.vol.quarter-locker`_
-`.vol.sides`_ port                48×205cm     20mm   19680
-`.vol.sides`_ starboard           48×214cm     20mm   20554
-`.vol.starboard-aft-bulkhead`_
-`.vol.under-cockpit`_
-`.idea.fixed-cushions`_ liner f   11500cm²     20mm   23000
-`.idea.fixed-cushions`_ liner s   136×56cm     20mm   15232
-Total                                                114891
-================================  =========  ======  =========================
+`.vol.sides`_ port                 48×205cm     20mm   19680
+`.vol.sides`_ starboard            48×214cm     20mm   20554
+`.vol.starboard-aft-bulkhead`_      58×43cm     30mm    7482
+`.vol.under-cockpit`_ top          37×107cm     30mm   11877
+`.vol.under-cockpit`_ starboard    31×107cm     30mm    9951 *
+`.vol.under-cockpit`_ port         31×107cm     30mm    9951 *
+`.vol.under-cockpit`_ base         37×107cm     30mm   11877 *
+`.idea.fixed-cushions`_ liner f    11500cm²     20mm   23000
+`.idea.fixed-cushions`_ liner s    136×56cm     20mm   15232
+Total                                                 773798
+================================  ==========  ======  =========================
+
+.. (+ 7650 23200 16000 13000 97200 82080 19680 20554 23000 15232 36594
+   8880 8736 7254 19500 7482 7482 14327 7651 43200 33600 43200 33600
+   58300 54120 28620 11877 9951 9951 11877)
 
 
 Notes
@@ -683,7 +703,7 @@ B. Document History
                    Added new volumes discovered while making measurements.
                    Added introduction and explanation of sections to make
                    document more accessible to people who aren't familiar with
-                   the structure.
+                   the structure.  Expanded plan and schedule.
 ==========  ====   ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
