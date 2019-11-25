@@ -696,6 +696,16 @@ while implementing the plan.
 
 .. _JRA forums: https://junkrigassociation.org/technical_forum
 
+  At this stage the volumes do not seem to be reaching anywhere near
+  my estimate from [RB2015]_ so something is wrong and I must
+  investigate.  This might just be due to tiredness and `ME/CFS`_
+  brain fog.  I will:
+
+  1. Try to rediscover the basis for my estimate.
+
+  2. Re-draw my measurement diagrams more carefully and check my
+     current calculations.
+
 
 A. References
 =============
