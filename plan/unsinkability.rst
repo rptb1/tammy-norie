@@ -638,6 +638,12 @@ managing my effort carefully to see what I can achieve.
 
     [To be decided]
 
+2020-02/03 : (at 245)
+
+    1. Weigh and launch (`.plan.weighbridge`_)
+    2. Plan to add even more floatation if required [TODO: link to
+       contingency plan]
+
 
 7. Journal
 ==========
