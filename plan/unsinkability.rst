@@ -181,9 +181,15 @@ _`.design.voids`
 
   Many accessible unused voids will be filled with foam — particularly
   the `.vol.coamings`_ — but not voids that are needed for drainage or
-  access.
+  access, or voids from which airtight containers can't escape (see
+  `.design.containers`_).
 
 _`.design.containers`
+
+  It's not as useful as you might think to fill inaccessible voids
+  with closed-cell foam where airtight containers (such as empty
+  plastic bottles) will do. As long as they can't escape. Foam is good
+  for surfaces.
 
   Additional precautions include storing as much as possible in
   watertight containers and bags which are half-filled with air.
