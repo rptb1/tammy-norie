@@ -101,7 +101,8 @@ _`.req.maintainable`
 
 _`.req.removable`
 
-  Can be removed and replaced with reasonable cost and effort.
+  Can be removed and replaced with reasonable cost and effort.  [How
+  does this compromise bonding?]
 
 _`.req.access`:
 
@@ -458,14 +459,14 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.ceiling`_ port                50×160cm    30mm    24000  [TODO: windows]
 `.vol.ceiling`_ top                100×200cm    20mm    26000  inc. hatches
 `.vol.ceiling`_ heads top            32×70cm    20mm     4480
-`.vol.ceiling`_ heeads port          48×70cm    30mm    10080
-`.vol.coamings`_ starboard          36×135cm    20cm    97200
-`.vol.coamings`_ port               36×114cm    20cm    82080
+`.vol.ceiling`_ heeads port          48×70cm    30mm    10080  minus shelf
+`.vol.coamings`_ starboard          36×135cm    20cm    97200  use bottles?
+`.vol.coamings`_ port               36×114cm    20cm    82080  use bottles?
 `.vol.cockpit-locker`_ hull        107×114cm    30mm    36594
 `.vol.cockpit-locker`_ forward       74×40cm    30mm     8880
 `.vol.cockpit-locker`_ aft           56×52cm    30mm     8736
 `.vol.cockpit-locker`_ starboard    52×114cm    30mm    17784
-`.vol.cockpit-locker`_ lid           33×84cm    30mm     8316  Tapered volume
+`.vol.cockpit-locker`_ lid           33×84cm    30mm     8316  tapered volume
 `.vol.cushions`_ port f f           36×120cm    10cm    43200
 `.vol.cushions`_ port f a            48×70cm    10cm    33600
 `.vol.cushions`_ starboard f f      36×120cm    10cm    43200
@@ -478,38 +479,46 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.engine-locker`_ port           40×35cm    30mm     4200
 `.vol.engine-locker`_ hull           43×64cm    30mm     8256
 `.vol.engine-locker`_ coaming        15×46cm    18cm    13248
-`.vol.engine-locker`_ fuel tank      32×17cm    20cm    10880
-`.vol.engine-locker`_ transom       ¼π×46²cm    30mm     4983
-`.vol.forward-bulkhead`_           ½×78×62cm    30mm     7254
-`.vol.heads-bulkhead`_ lower        ¼π×78²cm    30mm    14327
-`.vol.heads-bulkhead`_ upper        ¼π×57²cm    30mm     7651
-`.vol.interior-lockers`_                                       Use containers
+`.vol.engine-locker`_ fuel tank      32×17cm    20cm    10880  [2]
+`.vol.engine-locker`_ transom       ¼π×46²cm    30mm     4983  quarter circle
+`.vol.forward-bulkhead`_           ½×78×62cm    30mm     7254  triangle
+`.vol.heads-bulkhead`_ lower        ¼π×78²cm    30mm    14327  quarter circle
+`.vol.heads-bulkhead`_ upper        ¼π×57²cm    30mm     7651  quarter circle
+`.vol.interior-lockers`_                                       use containers
 `.vol.port-aft-bulkhead`_            58×43cm    30mm     7482
-`.vol.quarter-berth`_ hull          50×195cm    20mm    19500
+`.vol.quarter-berth`_ hull          50×195cm    30mm    29250
 `.vol.quarter-berth`_ ceiling       42×133cm    30mm    16758
 `.vol.quarter-berth`_ bulkhead u    32×115cm    30mm    11040
-`.vol.quarter-berth`_ bulkhead l    17×115cm   120mm    23460
-`.vol.quarter-berth`_ locker        55×115cm    10mm     6325
+`.vol.quarter-berth`_ bulkhead l    17×115cm   120mm    23460  cuboid recess
+`.vol.quarter-berth`_ locker        55×115cm    10mm     6325  quarter spheroid
 `.vol.quarter-locker`_ hull          89×86cm    30mm    22962
 `.vol.quarter-locker`_ coaming       14×96cm    18cm    24192
 `.vol.quarter-locker`_ lid           44×63cm    30mm     8316
 `.vol.quarter-locker`_ starboard     36×74cm    30mm     7992
-`.vol.quarter-locker`_ transom      ¼π×30²cm    30mm     2119
-`.vol.quarter-locker`_ forward      ¼π×80²cm    30mm    15072
+`.vol.quarter-locker`_ transom      ¼π×30²cm    30mm     2119  quarter circle
+`.vol.quarter-locker`_ forward      ¼π×80²cm    30mm    15072  quarter circle
 `.vol.sides`_ port                  48×205cm    30mm    29520
 `.vol.sides`_ starboard             48×214cm    30mm    30816
 `.vol.sides`_ heads                  44×98cm    30mm    12936
-`.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482
+`.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482  [3]
 `.vol.under-cockpit`_ top           37×107cm    30mm    11877
-`.vol.under-cockpit`_ starboard     31×107cm    30mm     9951  [TODO: check]
-`.vol.under-cockpit`_ port          31×107cm    30mm     9951  [TODO: check]
-`.vol.under-cockpit`_ base          37×107cm    30mm    11877  [TODO: check]
-Total                                                 1059348  ± 10%
+`.vol.under-cockpit`_ starboard     31×107cm    30mm     9951
+`.vol.under-cockpit`_ port          31×107cm    30mm     9951
+`.vol.under-cockpit`_ hull          37×107cm    30mm    11877  [4]
+Total                                                 1069068  ± 10%
 ================================  ==========  ======  =======  ================
 
+.. [2] cuboid blocks to wedge in the fuel tank
+
+.. [3] The `.vol.starboard-aft-bulkhead`_ may have to be thinner to
+       accommodate the equipment mounts, but it's quite a small volume
+       anyway.
+
+.. [4] Might be a good idea to leave this exposed.
+       
 .. (+ 11475 38400 24000 26000 4480 10080 97200 82080 36594 8880 8736
    17784 8316 43200 33600 43200 33600 58300 22000 54120 28620 8316
-   4200 8256 13248 10880 4983 7254 14327 7651 12936 7482 19500 16758
+   4200 8256 13248 10880 4983 7254 14327 7651 12936 7482 29250 16758
    11040 23460 6235 22962 24192 8316 7992 2119 15072 29520 30816 7482
    11877 9951 9951 11877)
 
