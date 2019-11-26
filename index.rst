@@ -19,3 +19,17 @@ in `issues at GitHub`_.
 .. _`Tammy Norie`: https://tammynorie.wordpress.com/
 .. _`Newbridge Coromandel`: https://corribee.org/history/coromandel/
 .. _`issues at GitHub`: https://github.com/rptb1/tammy-norie/issues
+
+Most active documents as of 2019-11:
+
+`Unsinkability plan`_
+
+  explains how and why I intend to make Tammy Norie unsinkable
+
+.. _Unsinkability plan: plan/unsinkability.rst
+
+`Osmosis prevention plan`_
+
+  how and why I intend to protect Tammy Norie's hull against osmosis
+
+.. _Osmosis prevention plan: plan/osmosis-prevention.rst
