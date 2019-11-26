@@ -116,7 +116,7 @@ winter.
 6. Schedule
 ===========
 
-_`.schedule.2019-11`:
+_`.schedule.2019-10/11`:
 
   1. Lift boat.
   2. Scrape barnacles.
@@ -130,12 +130,39 @@ _`.schedule.2019-11`:
 7. Journal
 ==========
 
-_`.journal-2019-11-23`
+_`.journal.2019-10-25/27`
+
+  Lifted Tammy Norie and moved to 245.  Cleaning.
+
+_`.journal.2019-11-12`
+
+  Scraped barnacles.  Goodbye my pets.
+
+  Scraped sections of antifouling and found that it came off quite
+  easily using a stainless-steel decorating scraper.  I estimate that
+  removing all of it will only take a couple of mornings.
+
+  Measured moisture at various points using the moisture meter [ref?]
+  and noted it on the hull with a marker pen.
+
+.. figure:: IMG_20191112_125839.jpg
+   :scale: 20%
+   :align: center
+   :figwidth: 80%
+
+   Scraped area of the rudder skeg with moisture measurement.
+
+_`.journal.2019-11-14`
+
+  Erected tent frame using a jury-rigged gazebo frame and a 10m×10m
+  tarpaulin for £60 from eBay [link?].
+
+_`.journal.2019-11-23`
 
   Fixed up tent frame.  Several of the joints from the gazebo frame
   had come apart.  Tightened the guy ropes holding things together.
-  Pushed water from the sagging parts of the tarpaulin.  TODO: Tape
-  joints.
+  Pushed water from the sagging parts of the tarpaulin.  [TODO: Tape
+  joints.]
 
   Sponged water from bilge and bilge in front of the mast, where it
   was very dirty.
