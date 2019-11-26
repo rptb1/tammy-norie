@@ -152,7 +152,7 @@ _`.design.displace`
   Attach `closed-cell foam`_ to the hull so that over 1 tonne of
   seawater would be dispalced by the air in the foam even if the boat is fully
   submerged, creating an upthrust greater than the weight of the boat
-  [RB2015]_ [RT2007]_.
+  [RB20150609]_ [RT2007]_.
 
 .. _closed-cell foam: https://en.wikipedia.org/wiki/Foam#Solid_foams
 
@@ -457,13 +457,15 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.ceiling`_ starboard           50×232cm    30mm    38400  [TODO: windows]
 `.vol.ceiling`_ port                50×160cm    30mm    24000  [TODO: windows]
 `.vol.ceiling`_ top                100×200cm    20mm    26000  inc. hatches
+`.vol.ceiling`_ heads top            32x70cm    20mm     4480
+`.vol.ceiling`_ heeads port          48x70cm    30mm    10080
 `.vol.coamings`_ starboard          36×135cm    20cm    97200
 `.vol.coamings`_ port               36×114cm    20cm    82080
 `.vol.cockpit-locker`_ hull        107×114cm    30mm    36594
 `.vol.cockpit-locker`_ forward       74×40cm    30mm     8880
 `.vol.cockpit-locker`_ aft           56x52cm    30mm     8736
-`.vol.cockpit-locker`_ starboard
-`.vol.cockpit-locker`_ lid
+`.vol.cockpit-locker`_ starboard    52×114cm    30mm    17784
+`.vol.cockpit-locker`_ lid           33×84cm    30mm     8316  Tapered volume
 `.vol.cushions`_ port f f           36×120cm    10cm    43200
 `.vol.cushions`_ port f a            48×70cm    10cm    33600
 `.vol.cushions`_ starboard f f      36×120cm    10cm    43200
@@ -481,7 +483,7 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.forward-bulkhead`_           ½×78×62cm    30mm     7254
 `.vol.heads-bulkhead`_ lower      pi/4*78²cm    30mm    14327
 `.vol.heads-bulkhead`_ upper      pi/4*57²cm    30mm     7651
-`.vol.interior-lockers`_
+`.vol.interior-lockers`_                                       Use containers
 `.vol.port-aft-bulkhead`_            58×43cm    30mm     7482
 `.vol.quarter-berth`_ hull          50×195cm    20mm    19500
 `.vol.quarter-berth`_ ceiling       42×133cm    30mm    16758
@@ -492,22 +494,24 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.quarter-locker`_ coaming       14x96cm    18cm    24192
 `.vol.quarter-locker`_ lid           44×63cm    30mm     8316
 `.vol.quarter-locker`_ starboard     36×74cm    30mm     7992
-`.vol.quarter-locker`_ transom     pi/4*30²m    30mm     2119
-`.vol.quarter-locker`_ forward     pi/4*80²m    30mm    15072
+`.vol.quarter-locker`_ transom    pi/4*30²cm    30mm     2119
+`.vol.quarter-locker`_ forward    pi/4*80²cm    30mm    15072
 `.vol.sides`_ port                  48×205cm    30mm    29520
 `.vol.sides`_ starboard             48×214cm    30mm    30816
+`.vol.sides`_ heads                  44×98cm    30mm    12936
 `.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482
 `.vol.under-cockpit`_ top           37×107cm    30mm    11877
 `.vol.under-cockpit`_ starboard     31×107cm    30mm     9951  [TODO: check]
 `.vol.under-cockpit`_ port          31×107cm    30mm     9951  [TODO: check]
 `.vol.under-cockpit`_ base          37×107cm    30mm    11877  [TODO: check]
-Total                                                 1005722  ± 10%
+Total                                                 1059348  ± 10%
 ================================  ==========  ======  =======  ================
 
-.. (+ 11475 38400 24000 26000 97200 82080 36594 8880 8736 43200 33600
-   43200 33600 58300 22000 54120 28620 8316 4200 8256 13248 10880 4983
-   7254 14327 7651 7482 19500 16758 11040 23460 6235 22962 24192 8316
-   7992 2119 15072 29520 30816 7482 11877 9951 9951 11877)
+.. (+ 11475 38400 24000 26000 4480 10080 97200 82080 36594 8880 8736
+   17784 8316 43200 33600 43200 33600 58300 22000 54120 28620 8316
+   4200 8256 13248 10880 4983 7254 14327 7651 12936 7482 19500 16758
+   11040 23460 6235 22962 24192 8316 7992 2119 15072 29520 30816 7482
+   11877 9951 9951 11877)
 
 
 Contingency
@@ -752,7 +756,7 @@ _`.journal.2019-11-24`
 .. _JRA forums: https://junkrigassociation.org/technical_forum
 
   At this stage the volumes do not seem to be reaching anywhere near
-  my estimate from [RB2015]_ so something is wrong and I must
+  my estimate from [RB20150609]_ so something is wrong and I must
   investigate.  This might just be due to tiredness and `ME/CFS`_
   brain fog.  I will:
 
@@ -782,10 +786,10 @@ _`.journal.2019-11-26`
 
   This confirms my suspicions of `.journal.2019-11-26`_ that my
   original esimate was wrong, and that I'll have to find more surfaces
-  and voids than I mentioned in [RB2015]_.  This is also confirmed by
+  and voids than I mentioned in [RB20150609]_.  This is also confirmed by
   the calculations in § `4.3. Dimensions`_.
 
-  I've reached about 1m³ by adding the remaining measured volumes and
+  I've reached 1m³ by adding the remaining measured volumes and
   thickening the foam on `.vol.ceiling`_.  This demonstrates
   feasibility at least!
 
@@ -797,6 +801,10 @@ _`.journal.2019-11-26`
   coamings with air bottles instead of foam, since they do not need to
   be insulated or padded.  At this stage it's probably worth reviewing
   all the volumes to see what could be replaced by air bottles.
+
+  There is other floatation that is not accounted for: the mast is
+  partially filled with bubble-wrap [RB20150902] and the deck is a
+  balsa sandwich.  [TODO: Write these up.]
 
 
 A. References
@@ -820,7 +828,7 @@ A. References
 .. [RB1998] “Rules for all documents”; Richard Brooksby; Ravenbrook
    Limited; 1998-06-03; <https://info.ravenbrook.com/rule/generic/>.
 
-.. [RB2015] “Redecoration”, from the `Tammy Norie blog`_; Richard
+.. [RB20150609] “Redecoration”, from the `Tammy Norie blog`_; Richard
    Brooksby; 2019-06-09;
    <https://tammynorie.wordpress.com/2015/06/09/redecoration/>.
         
@@ -830,6 +838,16 @@ A. References
      I’ve just painted, plus the cushions, add up to about 1m³, and
      that’s not counting the locker interiors or any other voids, so
      it’s quite achievable.”
+
+.. [RB20150902] “Radio mast bubbles”, from the `Tammy Norie blog`_;
+   Richard Brooksby; 2015-09-02;
+   <https://tammynorie.wordpress.com/2015/09/02/radio-mast-bubbles/>
+
+     “The top section of the mast weighs about 30kg. A quick
+     calculation gave its interior volume as about 40 litres. If it
+     were completely sealed, it would float! That was not likely to be
+     possible, but I did think about packing it with closed cell foam,
+     or air-filled bags. Then I realised I could use bubble wrap.”
 
 .. [RT2007] “Voyages of a Simple Sailor”;
    Roger Taylor; 2007.
