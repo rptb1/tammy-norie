@@ -479,7 +479,7 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.engine-locker`_ port           40×35cm    30mm     4200
 `.vol.engine-locker`_ hull           43×64cm    30mm     8256
 `.vol.engine-locker`_ coaming        15×46cm    18cm    13248
-`.vol.engine-locker`_ fuel tank      32×17cm    20cm    10880  [2]
+`.vol.engine-locker`_ fuel tank      32×17cm    20cm    10880  [#fueltank]
 `.vol.engine-locker`_ transom       ¼π×46²cm    30mm     4983  quarter circle
 `.vol.forward-bulkhead`_           ½×78×62cm    30mm     7254  triangle
 `.vol.heads-bulkhead`_ lower        ¼π×78²cm    30mm    14327  quarter circle
@@ -500,21 +500,21 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.sides`_ port                  48×205cm    30mm    29520
 `.vol.sides`_ starboard             48×214cm    30mm    30816
 `.vol.sides`_ heads                  44×98cm    30mm    12936
-`.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482  [3]
+`.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482  [#sab]
 `.vol.under-cockpit`_ top           37×107cm    30mm    11877
 `.vol.under-cockpit`_ starboard     31×107cm    30mm     9951
 `.vol.under-cockpit`_ port          31×107cm    30mm     9951
-`.vol.under-cockpit`_ hull          37×107cm    30mm    11877  [4]
+`.vol.under-cockpit`_ hull          37×107cm    30mm    11877  [#vuch]
 Total                                                 1069068  ± 10%
 ================================  ==========  ======  =======  ================
 
-.. [2] cuboid blocks to wedge in the fuel tank
+.. [#fueltank] cuboid blocks to wedge in the fuel tank
 
-.. [3] The `.vol.starboard-aft-bulkhead`_ may have to be thinner to
-       accommodate the equipment mounts, but it's quite a small volume
-       anyway.
+.. [#sab] The `.vol.starboard-aft-bulkhead`_ may have to be thinner to
+          accommodate the equipment mounts, but it's quite a small
+          volume anyway.
 
-.. [4] Might be a good idea to leave this exposed.
+.. [#vuch] Might be a good idea to leave this exposed.
        
 .. (+ 11475 38400 24000 26000 4480 10080 97200 82080 36594 8880 8736
    17784 8316 43200 33600 43200 33600 58300 22000 54120 28620 8316
@@ -576,7 +576,7 @@ _`.idea.test`
   This would only be a partial test.  It would probably be best to do
   it in clean fresh water, to reduce the effort of drying and cleaning
   up afterwards.  Warm dry weather would be good for the same reason.
-  Sea water is 2-4% denser than fresh [1], so displacing it is more
+  Sea water is 2-4% denser than fresh [#wolfram], so displacing it is more
   effective, and a test in fresh water is more rigorous.  It would
   also be sensble to do it somewhere that the boat can be recovered in
   some reasonably cheap way if she does *not* float.  For example,
@@ -600,7 +600,7 @@ _`.idea.foam-in-bags`
   as Bernie points out, for fabricating shaped objects.  I think I
   will add this to my kit as well.
 
-.. [1] according to Wolfram Alpha
+.. [#wolfram] according to Wolfram Alpha
 
 
 4.5. Suppliers
