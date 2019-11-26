@@ -685,12 +685,12 @@ managing my effort carefully to see what I can achieve.
 
 .. _`ME/CFS`: https://en.wikipedia.org/wiki/ME/CFS
 
-_`.plan.2019-11-17` : Planning (at 1TR)
+_`.schedule.2019-11-17` : Planning (at 1TR)
 
     Initial plan and schedule (`.plan.plan`_).  Allot time to the
     project on my calendar.
 
-_`.plan.2019-11-24/28` : Design and measurement (at 245)
+_`.schedule.2019-11-24/28` : Design and measurement (at 245)
 
     1. Clear out boat (`.plan.clear-out`_)
     2. Measure volumes (`.plan.measure`_)
@@ -700,15 +700,15 @@ _`.plan.2019-11-24/28` : Design and measurement (at 245)
     6. Remove deck fittings (`.plan.strip-deck`_)
     7. Order fasteners for chesterfield (`.plan.try-chesterfield`_)
 
-_`.plan.2019-12-03/06` : (at 1TR)
+_`.schedule.2019-12-03/06` : (at 1TR)
 
     [To be decided]
 
-_`.plan.2019-12-12/17` : (at 245)
+_`.schedule.2019-12-12/17` : (at 245)
 
     [To be decided]
 
-_`.plan.2020-02/03` : (at 245)
+_`.schedule.2020-02/03` : (at 245)
 
     1. Weigh and launch (`.plan.weighbridge`_)
     2. Plan to add even more floatation if required [TODO: link to
