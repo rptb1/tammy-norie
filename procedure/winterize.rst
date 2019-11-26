@@ -1,9 +1,15 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
 =======================
 Tammy Norie Winterizing
 =======================
 
 :Author: Richard Brooksby <rptb1+tammy-norie@pobox.com>
 :Date: 2019-11-13
+:Tag: proc.winterize
+:Copyright: `CC BY-NC-SA 4.0`_
+
+.. _CC BY-NC-SA 4.0: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 1. Introduction

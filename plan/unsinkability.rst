@@ -1,4 +1,4 @@
-.. -*- coding: utf-8 -*-
+.. -*- mode: rst; coding: utf-8 -*-
 
 ==============================
 Tammy Norie Unsinkability Plan
@@ -586,6 +586,8 @@ _`.idea.test`
   to being a test of the design, this would be fun and interesting and
   make for an interesting article, photos, and a video!
 
+.. [1] according to Wolfram Alpha
+
 
 4.5. Suppliers
 --------------
@@ -888,9 +890,3 @@ B. Document History
 ==========  ====   ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
-
-
-C. Footnotes
-============   
-
-.. [1] according to Wolfram Alpha
