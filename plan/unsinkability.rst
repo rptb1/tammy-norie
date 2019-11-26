@@ -586,6 +586,18 @@ _`.idea.test`
   to being a test of the design, this would be fun and interesting and
   make for an interesting article, photos, and a video!
 
+_`.idea.foam-in-bags`
+
+  This is an excellent idea from Bernie Branfield:
+
+    “I carry a can of builders foam and a couple of heavy duty bags as
+    part of my emergency kit. So far I have only used them to make a
+    cockpit seat!” — Facebook comment, 2019-11-26
+
+  This is a great way to generate extra flotation while at sea, and,
+  as Bernie points out, for fabricating shaped objects.  I think I
+  will add this to my kit as well.
+
 .. [1] according to Wolfram Alpha
 
 
