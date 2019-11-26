@@ -457,13 +457,13 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.ceiling`_ starboard           50×232cm    30mm    38400  [TODO: windows]
 `.vol.ceiling`_ port                50×160cm    30mm    24000  [TODO: windows]
 `.vol.ceiling`_ top                100×200cm    20mm    26000  inc. hatches
-`.vol.ceiling`_ heads top            32x70cm    20mm     4480
-`.vol.ceiling`_ heeads port          48x70cm    30mm    10080
+`.vol.ceiling`_ heads top            32×70cm    20mm     4480
+`.vol.ceiling`_ heeads port          48×70cm    30mm    10080
 `.vol.coamings`_ starboard          36×135cm    20cm    97200
 `.vol.coamings`_ port               36×114cm    20cm    82080
 `.vol.cockpit-locker`_ hull        107×114cm    30mm    36594
 `.vol.cockpit-locker`_ forward       74×40cm    30mm     8880
-`.vol.cockpit-locker`_ aft           56x52cm    30mm     8736
+`.vol.cockpit-locker`_ aft           56×52cm    30mm     8736
 `.vol.cockpit-locker`_ starboard    52×114cm    30mm    17784
 `.vol.cockpit-locker`_ lid           33×84cm    30mm     8316  Tapered volume
 `.vol.cushions`_ port f f           36×120cm    10cm    43200
@@ -477,12 +477,12 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.engine-locker`_ lid            44×63cm    30mm     8316
 `.vol.engine-locker`_ port           40×35cm    30mm     4200
 `.vol.engine-locker`_ hull           43×64cm    30mm     8256
-`.vol.engine-locker`_ coaming        15x46cm    18cm    13248
-`.vol.engine-locker`_ fuel tank      32x17cm    20cm    10880
-`.vol.engine-locker`_ transom     pi/4×46²cm    30mm     4983
+`.vol.engine-locker`_ coaming        15×46cm    18cm    13248
+`.vol.engine-locker`_ fuel tank      32×17cm    20cm    10880
+`.vol.engine-locker`_ transom       ¼π×46²cm    30mm     4983
 `.vol.forward-bulkhead`_           ½×78×62cm    30mm     7254
-`.vol.heads-bulkhead`_ lower      pi/4*78²cm    30mm    14327
-`.vol.heads-bulkhead`_ upper      pi/4*57²cm    30mm     7651
+`.vol.heads-bulkhead`_ lower        ¼π×78²cm    30mm    14327
+`.vol.heads-bulkhead`_ upper        ¼π×57²cm    30mm     7651
 `.vol.interior-lockers`_                                       Use containers
 `.vol.port-aft-bulkhead`_            58×43cm    30mm     7482
 `.vol.quarter-berth`_ hull          50×195cm    20mm    19500
@@ -491,11 +491,11 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.quarter-berth`_ bulkhead l    17×115cm   120mm    23460
 `.vol.quarter-berth`_ locker        55×115cm    10mm     6325
 `.vol.quarter-locker`_ hull          89×86cm    30mm    22962
-`.vol.quarter-locker`_ coaming       14x96cm    18cm    24192
+`.vol.quarter-locker`_ coaming       14×96cm    18cm    24192
 `.vol.quarter-locker`_ lid           44×63cm    30mm     8316
 `.vol.quarter-locker`_ starboard     36×74cm    30mm     7992
-`.vol.quarter-locker`_ transom    pi/4*30²cm    30mm     2119
-`.vol.quarter-locker`_ forward    pi/4*80²cm    30mm    15072
+`.vol.quarter-locker`_ transom      ¼π×30²cm    30mm     2119
+`.vol.quarter-locker`_ forward      ¼π×80²cm    30mm    15072
 `.vol.sides`_ port                  48×205cm    30mm    29520
 `.vol.sides`_ starboard             48×214cm    30mm    30816
 `.vol.sides`_ heads                  44×98cm    30mm    12936
