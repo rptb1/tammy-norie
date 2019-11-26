@@ -28,6 +28,11 @@ difficult, and time-consuming to treat.  It is also quite easy to
 prevent.  It therefore seems like a very good idea to take steps to
 prevent it!
 
+I highly recommend reading [Smith2003].  It is the most scientific and
+practical description of osmosis and how to prevent or treat it that I
+have found.  It is a welcome antidote to the rumours and superstition
+surrounding the problem.
+
 
 2. Goals
 ========
