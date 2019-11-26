@@ -490,7 +490,7 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.quarter-berth`_ ceiling       42×133cm    30mm    16758
 `.vol.quarter-berth`_ bulkhead u    32×115cm    30mm    11040
 `.vol.quarter-berth`_ bulkhead l    17×115cm   120mm    23460  cuboid recess
-`.vol.quarter-berth`_ locker        55×115cm    10mm     6325  quarter spheroid
+`.vol.quarter-berth`_ locker        55×115cm    10mm     6325  eighth spheroid
 `.vol.quarter-locker`_ hull          89×86cm    30mm    22962
 `.vol.quarter-locker`_ coaming       14×96cm    18cm    24192
 `.vol.quarter-locker`_ lid           44×63cm    30mm     8316
@@ -592,7 +592,9 @@ _`.idea.foam-in-bags`
 
     “I carry a can of builders foam and a couple of heavy duty bags as
     part of my emergency kit. So far I have only used them to make a
-    cockpit seat!” — Facebook comment, 2019-11-26
+    cockpit seat!” — `Facebook comment, 2019-11-26`_
+
+.. _`Facebook comment, 2019-11-26`: https://www.facebook.com/permalink.php?story_fbid=2479882315602365&id=1435460230044584&comment_id=2479999215590675&reply_comment_id=2480072452250018
 
   This is a great way to generate extra flotation while at sea, and,
   as Bernie points out, for fabricating shaped objects.  I think I
