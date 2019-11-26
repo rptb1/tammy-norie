@@ -441,54 +441,86 @@ _`.vol.heads-bulkhead`
 4.3. Dimensions
 ---------------
 
-These are approximate dimensions based on measurements made on
-2019-11-23/24.  [Link to scans of notes?]
+_`.dim`: These are the approximate dimensions of the `.vol`_ based on
+measurements made on 2019-11-23/25.  The purpose of this table is to
+estimate total displacement volume.  In many cases geometrical
+approximations have been used (such as averaging the ends of a
+trapezium) so this table should not be used to order sections of foam.
+[TODO: Link to scans of notes?]  [TODO: Consider the weight of the
+foam.]
+
+================================  ==========  ======  =======  ================
+Reference                          Areas      Depth   Vol/cm³  Note
+================================  ==========  ======  =======  ================
+`.vol.anchor-locker`_
+`.vol.ceiling`_ forward              45×85cm    30mm    11475  [TODO: windows]
+`.vol.ceiling`_ starboard           50×232cm    30mm    38400  [TODO: windows]
+`.vol.ceiling`_ port                50×160cm    30mm    24000  [TODO: windows]
+`.vol.ceiling`_ top                100×200cm    20mm    26000  inc. hatches
+`.vol.coamings`_ starboard          36×135cm    20cm    97200
+`.vol.coamings`_ port               36×114cm    20cm    82080
+`.vol.cockpit-locker`_ hull        107×114cm    30mm    36594
+`.vol.cockpit-locker`_ forward       74×40cm    30mm     8880
+`.vol.cockpit-locker`_ aft           56x52cm    30mm     8736
+`.vol.cockpit-locker`_ starboard
+`.vol.cockpit-locker`_ lid
+`.vol.cushions`_ port f f           36×120cm    10cm    43200
+`.vol.cushions`_ port f a            48×70cm    10cm    33600
+`.vol.cushions`_ starboard f f      36×120cm    10cm    43200
+`.vol.cushions`_ starboard f a       48×70cm    10cm    33600
+`.vol.cushions`_ starboard q a      53×110cm    10cm    58300
+`.vol.cushions`_ starboard s         55×40cm    10cm    22000
+`.vol.cushions`_ starboard q f       66×82cm    10cm    54120
+`.vol.cushions`_ infill              53×54cm    10cm    28620
+`.vol.engine-locker`_ lid            44×63cm    30mm     8316
+`.vol.engine-locker`_ port           40×35cm    30mm     4200
+`.vol.engine-locker`_ hull           43×64cm    30mm     8256
+`.vol.engine-locker`_ coaming        15x46cm    18cm    13248
+`.vol.engine-locker`_ fuel tank      32x17cm    20cm    10880
+`.vol.engine-locker`_ transom     pi/4×46²cm    30mm     4983
+`.vol.forward-bulkhead`_           ½×78×62cm    30mm     7254
+`.vol.heads-bulkhead`_ lower      pi/4*78²cm    30mm    14327
+`.vol.heads-bulkhead`_ upper      pi/4*57²cm    30mm     7651
+`.vol.interior-lockers`_
+`.vol.port-aft-bulkhead`_            58×43cm    30mm     7482
+`.vol.quarter-berth`_ hull          50×195cm    20mm    19500
+`.vol.quarter-berth`_ ceiling       42×133cm    30mm    16758
+`.vol.quarter-berth`_ bulkhead u    32×115cm    30mm    11040
+`.vol.quarter-berth`_ bulkhead l    17×115cm   120mm    23460
+`.vol.quarter-berth`_ locker        55×115cm    10mm     6325
+`.vol.quarter-locker`_ hull          89×86cm    30mm    22962
+`.vol.quarter-locker`_ coaming       14x96cm    18cm    24192
+`.vol.quarter-locker`_ lid           44×63cm    30mm     8316
+`.vol.quarter-locker`_ starboard     36×74cm    30mm     7992
+`.vol.quarter-locker`_ transom     pi/4*30²m    30mm     2119
+`.vol.quarter-locker`_ forward     pi/4*80²m    30mm    15072
+`.vol.sides`_ port                  48×205cm    30mm    29520
+`.vol.sides`_ starboard             48×214cm    30mm    30816
+`.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482
+`.vol.under-cockpit`_ top           37×107cm    30mm    11877
+`.vol.under-cockpit`_ starboard     31×107cm    30mm     9951  [TODO: check]
+`.vol.under-cockpit`_ port          31×107cm    30mm     9951  [TODO: check]
+`.vol.under-cockpit`_ base          37×107cm    30mm    11877  [TODO: check]
+Total                                                 1005722  ± 10%
+================================  ==========  ======  =======  ================
+
+.. (+ 11475 38400 24000 26000 97200 82080 36594 8880 8736 43200 33600
+   43200 33600 58300 22000 54120 28620 8316 4200 8256 13248 10880 4983
+   7254 14327 7651 7482 19500 16758 11040 23460 6235 22962 24192 8316
+   7992 2119 15072 29520 30816 7482 11877 9951 9951 11877)
+
+
+Contingency
 
 ================================  ==========  ======  =========================
 Reference                          Areas      Depth   Volume / cm³
 ================================  ==========  ======  =========================
-`.vol.anchor-locker`_
-`.vol.ceiling`_ forward              45×85cm    20mm    7650
-`.vol.ceiling`_ starboard           50×232cm    20mm   23200
-`.vol.ceiling`_ port                50×160cm    20mm   16000
-`.vol.ceiling`_ top                100×200cm    10mm   13000 (minus hatches)
-`.vol.coamings`_ starboard          36×135cm    20cm   97200
-`.vol.coamings`_ port               36×114cm    20cm   82080
-`.vol.cockpit-locker`_ hull        107×114cm    30mm   36594
-`.vol.cockpit-locker`_ b.h. f        74×40cm    30mm    8880
-`.vol.cockpit-locker`_ b.h. a        56x52cm    30mm    8736
-`.vol.cushions`_ port f f           36×120cm    10cm   43200
-`.vol.cushions`_ port f a            48×70cm    10cm   33600
-`.vol.cushions`_ starboard f f      36×120cm    10cm   43200
-`.vol.cushions`_ starboard f a       48×70cm    10cm   33600
-`.vol.cushions`_ starboard q a      53×110cm    10cm   58300
-`.vol.cushions`_ starboard s         55×40cm    10cm   22000
-`.vol.cushions`_ starboard q f       66×82cm    10cm   54120
-`.vol.cushions`_ infill              53×54cm    10cm   28620
-`.vol.engine-locker`_
-`.vol.forward-bulkhead`_           ½×78×62cm    30mm    7254
-`.vol.heads-bulkhead`_ lower      pi/4*78²cm    30mm   14327
-`.vol.heads-bulkhead`_ upper      pi/4*57²cm    30mm    7651
-`.vol.interior-lockers`_
-`.vol.port-aft-bulkhead`_            58×43cm    30mm    7482
-`.vol.quarter-berth`_ side          50×195cm    20mm   19500
-`.vol.quarter-berth`_
-`.vol.quarter-locker`_
-`.vol.sides`_ port                 48×205cm     20mm   19680
-`.vol.sides`_ starboard            48×214cm     20mm   20554
-`.vol.starboard-aft-bulkhead`_      58×43cm     30mm    7482
-`.vol.under-cockpit`_ top          37×107cm     30mm   11877
-`.vol.under-cockpit`_ starboard    31×107cm     30mm    9951 *
-`.vol.under-cockpit`_ port         31×107cm     30mm    9951 *
-`.vol.under-cockpit`_ base         37×107cm     30mm   11877 *
-`.idea.fixed-cushions`_ liner f    11500cm²     20mm   23000
-`.idea.fixed-cushions`_ liner s    136×56cm     20mm   15232
-Total                                                 773798
+`.idea.fixed-cushions`_ liner f     11500cm²    20mm   23000
+`.idea.fixed-cushions`_ liner s     136×56cm    20mm   15232
+Total                                                  38000 ± 10%
 ================================  ==========  ======  =========================
 
-.. (+ 7650 23200 16000 13000 97200 82080 19680 20554 23000 15232 36594
-   8880 8736 7254 19500 7482 7482 14327 7651 43200 33600 43200 33600
-   58300 54120 28620 11877 9951 9951 11877)
+.. (+ 23000 15232)
 
 
 4.4. Ideas
@@ -737,6 +769,34 @@ _`.journal.2019-11-25`
   whole lot need to be gone over more carefully.  I've had a horrible
   thought — did I accidentally make my original esimate using 10cm of
   foam instead of 10mm?
+
+
+_`.journal.2019-11-26`
+
+  NB writes:
+
+    “I’ve calculated that 10mm of foam on all the surfaces I’ve just
+    painted, plus the cushions, add up to about 1m³” suggests that you
+    painted nearly 100m². That's a lot. (In comparison: all the walls
+    in my living room add up to about 35m².)
+
+  This confirms my suspicions of `.journal.2019-11-26`_ that my
+  original esimate was wrong, and that I'll have to find more surfaces
+  and voids than I mentioned in [RB2015]_.  This is also confirmed by
+  the calculations in § `4.3. Dimensions`_.
+
+  I've reached about 1m³ by adding the remaining measured volumes and
+  thickening the foam on `.vol.ceiling`_.  This demonstrates
+  feasibility at least!
+
+  I think `.vol.sides`_ could be thicker instead to avoid reducing
+  headroom.
+
+  There are also voids that could be filled with air bottles that are
+  not accounted for.  It's probably more efficient to fill the
+  coamings with air bottles instead of foam, since they do not need to
+  be insulated or padded.  At this stage it's probably worth reviewing
+  all the volumes to see what could be replaced by air bottles.
 
 
 A. References
