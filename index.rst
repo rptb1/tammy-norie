@@ -14,7 +14,7 @@ read about Tammy Norie and her progress you might find the blog at
 <https://tammynorie.wordpress.com/> more accessible.
 
 However, you are welcome to browse these documents and submit feedback
-in `issues at GitHub`_.
+in `issues at GitHub`_ or by annotating documents and changes there.
 
 .. _`Tammy Norie`: https://tammynorie.wordpress.com/
 .. _`Newbridge Coromandel`: https://corribee.org/history/coromandel/
