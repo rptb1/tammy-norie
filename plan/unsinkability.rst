@@ -638,12 +638,12 @@ managing my effort carefully to see what I can achieve.
 
 .. _`ME/CFS`: https://en.wikipedia.org/wiki/ME/CFS
 
-2019-11-17 : Planning (at 1TR)
+_`.plan.2019-11-17` : Planning (at 1TR)
 
     Initial plan and schedule (`.plan.plan`_).  Allot time to the
     project on my calendar.
 
-2019-11-24/28 : Design and measurement (at 245)
+_`.plan.2019-11-24/28` : Design and measurement (at 245)
 
     1. Clear out boat (`.plan.clear-out`_)
     2. Measure volumes (`.plan.measure`_)
@@ -653,15 +653,15 @@ managing my effort carefully to see what I can achieve.
     6. Remove deck fittings (`.plan.strip-deck`_)
     7. Order fasteners for chesterfield (`.plan.try-chesterfield`_)
 
-2019-12-03/06 : (at 1TR)
+_`.plan.2019-12-03/06` : (at 1TR)
 
     [To be decided]
 
-2019-12-12/17 : (at 245)
+_`.plan.2019-12-12/17` : (at 245)
 
     [To be decided]
 
-2020-02/03 : (at 245)
+_`.plan.2020-02/03` : (at 245)
 
     1. Weigh and launch (`.plan.weighbridge`_)
     2. Plan to add even more floatation if required [TODO: link to
@@ -674,7 +674,7 @@ managing my effort carefully to see what I can achieve.
 _`.journal`: The journal describes *what* actually occurred and *when*
 while implementing the plan.
 
-2019-11-14
+_`.journal.2019-11-14`
 
   After refining my big to-do list for the Tammy Norie project, I
   realised that the unsinkability project was too complicated to
@@ -704,7 +704,7 @@ while implementing the plan.
      core rot.  [ref Pascoe, Mads]
 
 
-2019-11-24
+_`.journal.2019-11-24`
 
   Measured foam volumes and took photographs for `.vol.sides`_, liner,
   `.vol.ceiling`_, `.vol.under-cockpit`_, `.vol.heads-bulkhead`_,
@@ -730,7 +730,7 @@ while implementing the plan.
      current calculations.
 
 
-2019-11-25
+_`.journal.2019-11-25`
 
   Finished measuring volumes (except `.vol.anchor-locker`_, which is
   an unlikey one).  These need writing up in this document, and the
