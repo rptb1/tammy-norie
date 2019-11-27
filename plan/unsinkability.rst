@@ -966,27 +966,27 @@ A. References
 B. Document History
 ===================
 
-==========  ====   ============================================================
-2019-11-14  RB_    Brainstormed with Dad.
-                   Lots of brain dumping about potential volumes for foam.
-2019-11-24  RB_    Added measurements made on 2019-11-23/24.
-                   Added new volumes discovered while making measurements.
-                   Added introduction and explanation of sections to make
-                   document more accessible to people who aren't familiar with
-                   the structure.  Expanded plan and schedule.
-2019-11-25  RB_    More measurements.
-                   More structure and tagging and cross-referencing to meet rule.once.
-                   Explained the displacement target.
-                   Scheduled weighing.
-                   Clarified error assumptions.
-                   Wrote about probable error in original estimate.
-                   Added notes about Roger Taylor's bulkhead.
-                   Explained about airtight containers in inaccessible voids.
-2019-11-26  RB_    Added remaining measured volumes.
-                   Adjusted thicknesses to achieve target volume.
-                   Annotated volumes table with notes.
-                   Adding .idea.foam-in-bags, contributed by Bernie Branfield.
-2019-11-27  RB_    Writing up the building of the battery compartment.
-==========  ====   ============================================================
+==========  ====  ============================================================
+2019-11-14  RB_   Brainstormed with Dad.
+                  Lots of brain dumping about potential volumes for foam.
+2019-11-24  RB_   Added measurements made on 2019-11-23/24.
+                  Added new volumes discovered while making measurements.
+                  Added introduction and explanation of sections to make
+                  document more accessible to people who aren't familiar with
+                  the structure.  Expanded plan and schedule.
+2019-11-25  RB_   More measurements.
+                  More structure and tagging and cross-referencing to meet rule.once.
+                  Explained the displacement target.
+                  Scheduled weighing.
+                  Clarified error assumptions.
+                  Wrote about probable error in original estimate.
+                  Added notes about Roger Taylor's bulkhead.
+                  Explained about airtight containers in inaccessible voids.
+2019-11-26  RB_   Added remaining measured volumes.
+                  Adjusted thicknesses to achieve target volume.
+                  Annotated volumes table with notes.
+                  Adding .idea.foam-in-bags, contributed by Bernie Branfield.
+2019-11-27  RB_   Writing up the building of the battery compartment.
+==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
