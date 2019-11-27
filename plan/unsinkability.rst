@@ -4,10 +4,12 @@
 Tammy Norie Unsinkability Plan
 ==============================
 
+:Tag: plan.unsinkability
 :Author: Richard Brooksby <rptb1+tammy-norie@pobox.com>
 :Date: 2019-11-14
+:Readership: author, boat engineers, long distance solo sailors
+:Confidentiality: public
 :Copyright: `CC BY-NC-SA 4.0`_
-:Tag: plan.unsinkability
 
 .. _CC BY-NC-SA 4.0: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -15,7 +17,8 @@ Tammy Norie Unsinkability Plan
 1. Introduction
 ===============
 
-This document explains how and why I intend to make Tammy Norie unsinkable.
+This document explains how and why I intend to make Tammy Norie
+unsinkable.
 
 The document uses the conventions of an engineering project at my
 company, `Ravenbrook`_ [RB1998]_.  In particular:
@@ -151,9 +154,9 @@ be met to achieve the `.goals`_.
 _`.design.displace`
 
   Attach `closed-cell foam`_ to the hull so that over 1 tonne of
-  seawater would be dispalced by the air in the foam even if the boat is fully
-  submerged, creating an upthrust greater than the weight of the boat
-  [RB20150609]_ [RT2007]_.
+  seawater would be dispalced by the air in the foam even if the boat
+  is fully submerged, creating an upthrust greater than the weight of
+  the boat [RB20150609]_ [RT2007]_.
 
 .. _closed-cell foam: https://en.wikipedia.org/wiki/Foam#Solid_foams
 
@@ -329,9 +332,9 @@ _`.vol.quarter-locker`
   case, it would be very hard to line with foam.
 
   Currently I use this locked for a 50 litre spare water container,
-  the spare fuel tank, the inflatable dinghy, and various
-  flammable engine-related materials such as oil and carburettor cleaner,
-  as well as spare butane for the soldering iron.  It also houses the
+  the spare fuel tank, the inflatable dinghy, and various flammable
+  engine-related materials such as oil and carburettor cleaner, as
+  well as spare butane for the soldering iron.  It also houses the
   bilge pump handles, the hand pump, a drain unblocking water jet,
   funnel and tubing, and a few other gas- or fuel- related items.
 
@@ -392,11 +395,11 @@ _`.vol.interior-lockers`
   The forward triangle locker is also used for food storage.  It is
   quite accessible through a large lid and could be effectively lined.
 
-  It may be difficult and unnecessary to attach the foam very firmly to the hull
-  or liner in these voids, since it is very unlikely to escape in the
-  case of flooding.  In the case of the mast step, which is made of
-  wood that tends to get wet, it is probably best to allow air
-  circulation and encourage evapouration as much as possible.
+  It may be difficult and unnecessary to attach the foam very firmly
+  to the hull or liner in these voids, since it is very unlikely to
+  escape in the case of flooding.  In the case of the mast step, which
+  is made of wood that tends to get wet, it is probably best to allow
+  air circulation and encourage evapouration as much as possible.
   Certainly it's necessary to inspect the step regularly.
 
   See also compartmentalization of interior lockers task [ref?].
@@ -573,18 +576,24 @@ _`.idea.pad-eyes`
 _`.idea.test`
 
   Test the unsinkability of the boat by attempting to sink the boat.
-  This would only be a partial test.  It would probably be best to do
-  it in clean fresh water, to reduce the effort of drying and cleaning
-  up afterwards.  Warm dry weather would be good for the same reason.
-  Sea water is 2-4% denser than fresh [#wolfram], so displacing it is more
-  effective, and a test in fresh water is more rigorous.  It would
-  also be sensble to do it somewhere that the boat can be recovered in
-  some reasonably cheap way if she does *not* float.  For example,
-  somewhere that she'll rest on the bottom with her coach-roof at the
-  surface, so that we can deploy air bags to re-float her, or
-  somewhere that can be drained or a crane can be used.  In addition
-  to being a test of the design, this would be fun and interesting and
-  make for an interesting article, photos, and a video!
+  This would only be a partial test.
+
+  It would probably be best to do it in clean fresh water, to reduce
+  the effort of drying and cleaning up afterwards.  Warm dry weather
+  would be good for the same reason.  Sea water is 2-4% denser than
+  fresh [#wolfram], so displacing it is more effective, and a test in
+  fresh water is more rigorous.
+
+  It would also be sensble to do it somewhere that the boat can be
+  recovered in some reasonably cheap way if she does *not* float.  For
+  example, somewhere that she'll rest on the bottom with her
+  coach-roof at the surface, so that we can deploy air bags to
+  re-float her, or somewhere that can be drained or a crane can be
+  used.
+
+  In addition to being a test of the design, this would be fun and
+  interesting and make for an interesting article, photos, and a
+  video!
 
 _`.idea.foam-in-bags`
 
@@ -811,8 +820,8 @@ _`.journal.2019-11-26`
 
   This confirms my suspicions of `.journal.2019-11-26`_ that my
   original esimate was wrong, and that I'll have to find more surfaces
-  and voids than I mentioned in [RB20150609]_.  This is also confirmed by
-  the calculations in § `4.3. Dimensions`_.
+  and voids than I mentioned in [RB20150609]_.  This is also confirmed
+  by the calculations in § `4.3. Dimensions`_.
 
   I've reached 1m³ by adding the remaining measured volumes and
   thickening the foam on `.vol.ceiling`_.  This demonstrates
@@ -828,8 +837,13 @@ _`.journal.2019-11-26`
   all the volumes to see what could be replaced by air bottles.
 
   There is other floatation that is not accounted for: the mast is
-  partially filled with bubble-wrap [RB20150902] and the deck is a
+  partially filled with bubble-wrap [RB20150902]_ and the deck is a
   balsa sandwich.  [TODO: Write these up.]
+
+  Published links to this and other plans on GitHub_ and the `Tammy
+  Norie blog`_ [RB20191126]_.
+
+.. _GitHub: https://github.com/rptb1/tammy-norie
 
 
 A. References
@@ -873,6 +887,15 @@ A. References
      were completely sealed, it would float! That was not likely to be
      possible, but I did think about packing it with closed cell foam,
      or air-filled bags. Then I realised I could use bubble wrap.”
+
+.. [RB20191126] “Project documents and unsinkability”, from the `Tammy Norie blog`_;
+   Richard Brooksby; 2019-11-26;
+   <https://tammynorie.wordpress.com/2019/11/26/project-documents-and-unsinkability/>
+
+     “I decided to publish them so that other people could benefit
+     from seeing the projects develop, and how I approach these kinds
+     of engineering problems. I’m also hoping that interested folks
+     might have suggestions or spot mistakes before I make them!”
 
 .. [RT2007] “Voyages of a Simple Sailor”;
    Roger Taylor; 2007.
