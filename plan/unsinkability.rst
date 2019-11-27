@@ -9,7 +9,8 @@ Tammy Norie Unsinkability Plan
 :Date: 2019-11-14
 :Readership: author, boat engineers, long distance solo sailors
 :Confidentiality: public
-:Copyright: `CC BY-NC-SA 4.0`_
+:Copyright: Copyright 2019 Richard Brooksby
+:License: `CC BY-NC-SA 4.0`_
 
 .. _CC BY-NC-SA 4.0: http://creativecommons.org/licenses/by-nc-sa/4.0/
 

@@ -1,15 +1,19 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
 =======================
 Rules for all documents
 =======================
 
+:Tag: rule.generic
 :Author: Richard Brooksby <rb@ravenbrook.com>
 :Organization: Ravenbrook Limited
 :Date: 1998-06-30
-:Revision: $Id: //info.ravenbrook.com/rule/generic.rst#5 $
 :Readership: anyone
 :Confidentiality: public
-:Copyright: Copyright 1998-2015 Ravenbrook Limited
-:License: http://creativecommons.org/licenses/by-sa/4.0/
+:Copyright: Copyright 1998-2019 Ravenbrook Limited
+:License: `CC BY-NC-SA 4.0`_
+
+.. _CC BY-NC-SA 4.0: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 1. Introduction
