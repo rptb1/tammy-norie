@@ -21,7 +21,7 @@ This document explains how and why I intend to make Tammy Norie
 unsinkable.
 
 The document uses the conventions of an engineering project at my
-company, `Ravenbrook`_ [RB1998]_.  In particular:
+company, `Ravenbrook`_ [RB-1998]_.  In particular:
 
 - It uses tagged statements (with dots) as cross-references.
 
@@ -156,12 +156,12 @@ _`.design.displace`
   Attach `closed-cell foam`_ to the hull so that over 1 tonne of
   seawater would be dispalced by the air in the foam even if the boat
   is fully submerged, creating an upthrust greater than the weight of
-  the boat [RB20150609]_ [RT2007]_.
+  the boat [RB-2015-06-09]_ [RT-2007]_.
 
 .. _closed-cell foam: https://en.wikipedia.org/wiki/Foam#Solid_foams
 
   Newbridge claim the Coromandel weighs 2000lbs (908kg) laden
-  [Newbridge1982]_ and so I'm using this as a guide.  The lack of
+  [Newbridge-1982]_ and so I'm using this as a guide.  The lack of
   precision in the 2000lb figure suggests an error of at least ±10%.
   I intend to measure the actual weight of Tammy Norie
   (`.plan.weighbridge`_).  Tammy has quite a lot of gear aboard in
@@ -243,7 +243,7 @@ _`.vol.cushions`
   tend to take up moisture over time.
 
   Annie Hill warns that closed-cell foam cushions can be uncomfortably
-  hard [AH2015]_.
+  hard [AH-2015]_.
 
 _`.vol.quarter-berth`
 
@@ -411,7 +411,7 @@ _`.vol.forward-bulkhead`
 
   On Mingming and Mingming 2, Roger Taylor added a second “watertight
   bulkhead” or “collision bulkhead” with foam between it and the
-  anchor locker [RT2007]_.  This could work on Tammy Norie, except it
+  anchor locker [RT-2007]_.  This could work on Tammy Norie, except it
   would considerably reduce the size of the forward bunks and make it
   much less easy to have guests on board, and so does not satisfy
   `.req.useful`_ or `.req.preserve`_.  [TODO: Ask Roger about this.]
@@ -790,7 +790,7 @@ _`.journal.2019-11-24`
 .. _JRA forums: https://junkrigassociation.org/technical_forum
 
   At this stage the volumes do not seem to be reaching anywhere near
-  my estimate from [RB20150609]_ so something is wrong and I must
+  my estimate from [RB-2015-06-09]_ so something is wrong and I must
   investigate.  This might just be due to tiredness and `ME/CFS`_
   brain fog.  I will:
 
@@ -820,7 +820,7 @@ _`.journal.2019-11-26`
 
   This confirms my suspicions of `.journal.2019-11-26`_ that my
   original esimate was wrong, and that I'll have to find more surfaces
-  and voids than I mentioned in [RB20150609]_.  This is also confirmed
+  and voids than I mentioned in [RB-2015-06-09]_.  This is also confirmed
   by the calculations in § `4.3. Dimensions`_.
 
   I've reached 1m³ by adding the remaining measured volumes and
@@ -837,16 +837,16 @@ _`.journal.2019-11-26`
   all the volumes to see what could be replaced by air bottles.
 
   There is other floatation that is not accounted for: the mast is
-  partially filled with bubble-wrap [RB20150902]_ and the deck is a
+  partially filled with bubble-wrap [RB-2015-09-02]_ and the deck is a
   balsa sandwich.  [TODO: Write these up.]
 
   Published links to this and other plans on GitHub_ and the `Tammy
-  Norie blog`_ [RB20191126]_.
+  Norie blog`_ [RB-2019-11-26]_.
 
 .. _GitHub: https://github.com/rptb1/tammy-norie
 
 
-_`.journal.2019-11-27`_
+_`.journal.2019-11-27`
 
   Made battery compartment (`.plan.battery`_) but did not stick it in
   place.  Discoveries:
@@ -871,8 +871,10 @@ _`.journal.2019-11-27`_
 A. References
 =============
 
-.. [AH2015] Commnent on “Redecoration”, from the `Tammy Norie blog`_;
-   Annie Hill; 2015-06-12;
+.. [AH-2015]
+   Commnent on “Redecoration”, from the `Tammy Norie blog`_;
+   Annie Hill;
+   2015-06-12;
    <https://tammynorie.wordpress.com/2015/06/09/redecoration/#comment-333>.
 
      “I had the misfortune to spend seven years living on a boat with
@@ -880,17 +882,25 @@ A. References
      to say they were some of the most uncomfortable seats I’ve ever
      had to live with.”
 
-.. [Newbridge1982] Newbridge Coromandel specification; Newbridge Boats
-   Limited; 1982 (date uncertain);
+.. [Newbridge-1982]
+   Untitled Newbridge Coromandel specification;
+   Newbridge Boats Limited;
+   1982 (date uncertain);
    <https://corribee.files.wordpress.com/2009/06/20090629_coromandelbrochure_markdeverell2.pdf>.
 
      “Displacement laden: 2,000lbs (908 kg)”
 
-.. [RB1998] “Rules for all documents”; Richard Brooksby; Ravenbrook
-   Limited; 1998-06-03; <https://info.ravenbrook.com/rule/generic/>.
+.. [RB-1998]
+   “Rules for all documents”;
+   Richard Brooksby;
+   Ravenbrook Limited;
+   1998-06-03;
+   <https://info.ravenbrook.com/rule/generic/>.
 
-.. [RB20150609] “Redecoration”, from the `Tammy Norie blog`_; Richard
-   Brooksby; 2019-06-09;
+.. [RB-2015-06-09]
+   “Redecoration”, from the `Tammy Norie blog`_;
+   Richard Brooksby;
+   2019-06-09;
    <https://tammynorie.wordpress.com/2015/06/09/redecoration/>.
         
      “My goal is to displace over 1m³ of water with foam, providing
@@ -900,8 +910,10 @@ A. References
      that’s not counting the locker interiors or any other voids, so
      it’s quite achievable.”
 
-.. [RB20150902] “Radio mast bubbles”, from the `Tammy Norie blog`_;
-   Richard Brooksby; 2015-09-02;
+.. [RB-2015-09-02]
+   “Radio mast bubbles”, from the `Tammy Norie blog`_;
+   Richard Brooksby;
+   2015-09-02;
    <https://tammynorie.wordpress.com/2015/09/02/radio-mast-bubbles/>
 
      “The top section of the mast weighs about 30kg. A quick
@@ -910,8 +922,10 @@ A. References
      possible, but I did think about packing it with closed cell foam,
      or air-filled bags. Then I realised I could use bubble wrap.”
 
-.. [RB20191126] “Project documents and unsinkability”, from the `Tammy Norie blog`_;
-   Richard Brooksby; 2019-11-26;
+.. [RB-2019-11-26]
+   “Project documents and unsinkability”, from the `Tammy Norie blog`_;
+   Richard Brooksby;
+   2019-11-26;
    <https://tammynorie.wordpress.com/2019/11/26/project-documents-and-unsinkability/>
 
      “I decided to publish them so that other people could benefit
@@ -919,8 +933,10 @@ A. References
      of engineering problems. I’m also hoping that interested folks
      might have suggestions or spot mistakes before I make them!”
 
-.. [RT2007] “Voyages of a Simple Sailor”;
-   Roger Taylor; 2007.
+.. [RT-2007]
+   “Voyages of a Simple Sailor”;
+   Roger Taylor;
+   2007.
 
      “A watertight bulkhead was put in just forward of the forward end
      of the coach-roof.  Apart from the chain locker, the whole area
