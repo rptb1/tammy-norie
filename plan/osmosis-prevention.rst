@@ -60,13 +60,23 @@ _`.goal.antifoul`
 
 _`.req.effective`
 
+  Must be effective.  [TODO: Work out how to quanitify and test this.]
+
 _`.req.time`
+
+  Must be possible in reasonable time [TODO: quanify]
 
 _`.req.cost`
 
+  Must have reasonable cost [TODO: quantify]
+
 _`.req.durable`
 
+  Must last a long time without further maintenance [why?] [TODO: quantify]
+
 _`.req.maintainable`
+
+  The cost of maintenance must be low [TODO: quantify]
 
 
 4. Design
@@ -165,7 +175,7 @@ _`.design.drain.under-berth`
 4.2. Suppliers
 --------------
 
-.supplier.smith: Smith & Co. <http://www.smithandcompany.org/>.  Their
+_`.supplier.smith`: Smith & Co. <http://www.smithandcompany.org/>.  Their
 web site does not mention any marine products and they may have been
 superceded.
 
