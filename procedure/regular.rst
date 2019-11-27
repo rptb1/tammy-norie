@@ -36,3 +36,11 @@ Inspect fog horn gas cannisters +TammyNorie @ashore +regular
 Inspect fire extinguisher +TammyNorie @ashore +regular
 2019-08-27 Inspect rudder to determine tang corrosion  +TammyNorie @ashore
 2019-11-12 Inspect engine impeller +regular +TammyNorie
+
+
+2.2 Other
+---------
+Service engine, especially valve seats +TammyNorie @ashore +regular
+Inspect through-hulls +TammyNorie @ashore +regular
+Swing compass +TammyNorie @water +regular
+2019-11-12 Inspect engine impeller +regular +TammyNorie
