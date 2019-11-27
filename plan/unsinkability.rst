@@ -214,9 +214,10 @@ _`.design.cover`
 _`.vol`: These are the volumes in the boat where closed-cell foam can
 be fitted, so that water cannot replace the air and sink the boat.
 
-.. attention:: [I have a lot of photographs that will help make this
+.. attention:: [I have a lot of photographs (see
+               `.journal.2019-11-24`_) that will help make this
                section a lot clearer.  I hope to edit them and link
-               them from here before 2019-11-12-01.]
+               them from here before 2019-12-01.]
 
 _`.vol.sides`
 
