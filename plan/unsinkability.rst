@@ -294,9 +294,9 @@ _`.vol.under-cockpit`
   are held firmly.  For example, the tupperware tubs of fasteners,
   electrical parts, etc. could be jammed in effectively.
 
-  The bottom of this compartment is a channel (with the bilge pump hose
-  in it) that acts as a drain forward to the bilge.  It's probably
-  best to leave this exposed.
+  _`.vol.under-cockpit.channel`: The bottom of this compartment is a
+  channel (with the bilge pump hose in it) that acts as a drain
+  forward to the bilge.  It's probably best to leave this exposed.
 
 _`.vol.engine-locker`
 
@@ -844,6 +844,28 @@ _`.journal.2019-11-26`
   Norie blog`_ [RB20191126]_.
 
 .. _GitHub: https://github.com/rptb1/tammy-norie
+
+
+_`.journal.2019-11-27`_
+
+  Made battery compartment (`.plan.battery`_) but did not stick it in
+  place.  Discoveries:
+
+    1. You can draw plans on the paper backing of the foam in pencil.
+
+    2. The foam is easy to cut with scissors.  It can be cut with a
+       knife, but even blunt scissors do a better job.
+
+    3. The foam is good at staying in place when it is jammed in by
+       its edges.
+
+    4. `.vol.under-cockpit.channel`_ is quite wet and dirty,
+       especially forward at the lower end.  It does not drain in to
+       the main bilge at its lowest point, and so is accumulating
+       water and dirt.  [TODO: Make an action to improve this.]
+
+    5. Working in a 25×30cm dark space where you can't bend your
+       elbows is quite challenging.
 
 
 A. References
