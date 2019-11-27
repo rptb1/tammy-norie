@@ -4,9 +4,11 @@
 Tammy Norie Regular Procedures
 ==============================
 
+:Tag: proc.regular
 :Author: Richard Brooksby <rptb1+tammy-norie@pobox.com>
 :Date: 2019-11-13
-:Tag: proc.regular
+:Readership: author
+:Confidentiality: public
 :Copyright: `CC BY-NC-SA 4.0`_
 
 .. _CC BY-NC-SA 4.0: http://creativecommons.org/licenses/by-nc-sa/4.0/

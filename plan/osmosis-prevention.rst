@@ -4,10 +4,12 @@
 Tammy Norie Osmosis Prevention Plan
 ===================================
 
+:Tag: plan.osmosis-prevention
 :Author: Richard Brooksby <rptb1+tammy-norie@pobox.com>
 :Date: 2019-11-25
+:Readership: author, boat engineers
+:Confidentiality: public
 :Copyright: `CC BY-NC-SA 4.0`_
-:Tag: plan.osmosis-prevention
 
 .. _CC BY-NC-SA 4.0: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
