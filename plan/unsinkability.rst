@@ -489,7 +489,7 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.engine-locker`_ port           40×35cm    30mm     4200
 `.vol.engine-locker`_ hull           43×64cm    30mm     8256
 `.vol.engine-locker`_ coaming        15×46cm    18cm    13248
-`.vol.engine-locker`_ fuel tank      32×17cm    20cm    10880  [#fueltank]
+`.vol.engine-locker`_ fuel tank      32×17cm    20cm    10880  [#fueltank]_
 `.vol.engine-locker`_ transom       ¼π×46²cm    30mm     4983  quarter circle
 `.vol.forward-bulkhead`_           ½×78×62cm    30mm     7254  triangle
 `.vol.heads-bulkhead`_ lower        ¼π×78²cm    30mm    14327  quarter circle
@@ -510,11 +510,11 @@ Reference                          Areas      Depth   Vol/cm³  Note
 `.vol.sides`_ port                  48×205cm    30mm    29520
 `.vol.sides`_ starboard             48×214cm    30mm    30816
 `.vol.sides`_ heads                  44×98cm    30mm    12936
-`.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482  [#sab]
+`.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482  [#sab]_
 `.vol.under-cockpit`_ top           37×107cm    30mm    11877
 `.vol.under-cockpit`_ starboard     31×107cm    30mm     9951
 `.vol.under-cockpit`_ port          31×107cm    30mm     9951
-`.vol.under-cockpit`_ hull          37×107cm    30mm    11877  [#vuch]
+`.vol.under-cockpit`_ hull          37×107cm    30mm    11877  [#vuch]_
 Total                                                 1069068  ± 10%
 ================================  ==========  ======  =======  ================
 
@@ -588,7 +588,7 @@ _`.idea.test`
   It would probably be best to do it in clean fresh water, to reduce
   the effort of drying and cleaning up afterwards.  Warm dry weather
   would be good for the same reason.  Sea water is 2-4% denser than
-  fresh [#wolfram], so displacing it is more effective, and a test in
+  fresh [#wolfram]_, so displacing it is more effective, and a test in
   fresh water is more rigorous.
 
   It would also be sensble to do it somewhere that the boat can be
