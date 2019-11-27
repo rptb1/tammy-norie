@@ -867,6 +867,17 @@ _`.journal.2019-11-27`
     5. Working in a 25×30cm dark space where you can't bend your
        elbows is quite challenging.
 
+    6. Smooth plastic surfaces (such as the battery case) do not slide
+       over the foam surface at all easily.  In fact, the non-slip
+       mats used for crockery have a similar feel.  This may be useful
+       when using `.design.containers`_ in combination with the foam.
+
+    I stuck an offcut of the foam to a rough part of the ceiling using
+    its own adhesive in order to test the bond.  I deliberately did
+    not prepare or clean the surface first.  I'll check the bonding in
+    a couple of weeks.  I'll also try to remove it to check
+    `.req.removable`_.
+
 
 A. References
 =============
