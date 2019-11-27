@@ -22,13 +22,15 @@ This document explains how and why I intend to make Tammy Norie
 unsinkable.
 
 The document uses the conventions of an engineering project at my
-company, `Ravenbrook`_ [RB-1998]_.  In particular:
+company, `Ravenbrook`_, follwing rule.generic [RB-1998]_.  In
+particular:
 
-- It uses tagged statements (with dots) as cross-references.
+- It uses tagged statements (with dots) as cross-references
+  (rule.generic.ident, rule.generic.once).
 
 - Comment *about* the document that aren't *part* of it are enclosed
-  in square brackets.  These are often notes of things that need
-  further work.
+  in square brackets (rule.generic.note).  These are often notes of
+  things that need further work.
 
 I've included a brief explanation of the purpose of each section so
 that you can get the idea.
@@ -907,7 +909,8 @@ A. References
    Richard Brooksby;
    Ravenbrook Limited;
    1998-06-03;
-   <https://info.ravenbrook.com/rule/generic/>.
+   <https://info.ravenbrook.com/rule/generic/> (original, private);
+   <https://github.com/rptb1/tammy-norie/blob/master/rule/generic.rst> (project copy).
 
 .. [RB-2015-06-09]
    “Redecoration”, from the `Tammy Norie blog`_;
