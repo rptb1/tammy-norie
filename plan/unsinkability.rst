@@ -558,7 +558,7 @@ _`.idea.fixed-cushions`
 
   What if the cabin liner has a layer of foam glued to the top in
   addition to cushions.  The cushions could be more conventional,
-  possibly solving Annie Hill's objection [ref?].
+  possibly solving Annie Hill's objection [AH-2015]_.
 
 _`.idea.fewer-cushions`
 
@@ -773,13 +773,12 @@ _`.journal.2019-11-14`
   projects:
 
   1. Drying out the hull in preparation for a layer of epoxy to
-     prevent osmosis.  [ref?]
+     prevent osmosis [RB-2019-11-25]_.
 
   2. Removing the deck fittings, many of which are held in by
      self-tapping screws, and drying out the deck core before
      replacing them using machine screws and nuts, to prevent deck
-     core rot.  [ref Pascoe, Mads]
-
+     core rot [Pascoe-2000]_.  [ref? Mads]
 
 _`.journal.2019-11-24`
 
@@ -908,6 +907,16 @@ A. References
 
      “Displacement laden: 2,000lbs (908 kg)”
 
+.. [Pascoe-2000]
+   “Attaching Hardware to Your Boat”;
+   David Pascoe;
+   2000-08-14;
+   <https://www.yachtsurvey.com/hardware_attachments.htm>.
+
+     “Taking the quick and easy way out by just ramming in a few
+     screws through a cored structure can and does cause thousands of
+     dollars of unexpected damage.”
+
 .. [RB-1998]
    “Rules for all documents”;
    Richard Brooksby;
@@ -940,6 +949,12 @@ A. References
      were completely sealed, it would float! That was not likely to be
      possible, but I did think about packing it with closed cell foam,
      or air-filled bags. Then I realised I could use bubble wrap.”
+
+.. [RB-2019-11-25]
+   “Tammy Norie Osmosis Prevention Plan” (plan.osmosis-prevention);
+   Richard Brooksby;
+   2019-11-25;
+   <https://github.com/rptb1/tammy-norie/blob/master/plan/osmosis-prevention.rst>
 
 .. [RB-2019-11-26]
    “Project documents and unsinkability”, from the `Tammy Norie blog`_;
