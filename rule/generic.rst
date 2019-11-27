@@ -335,16 +335,17 @@ A. References
 B. Document History
 -------------------
 
-- 2001-04-22 GDR_ Created based on [RB-1998-06-30]_.
-
-- 2001-06-07 GDR_ Added `.standard`_ rule.
-
-- 2001-07-11 GDR_ Moved rules ref-contents, ref-name and ref-sort from
-  XHTML ruleset because they apply to all documents, not just XHTML
-  documents.
-
-- 2015-12-15 RB_ Converted to ReStructuredText and released under
-  Creative Commons license.
+==========  ====  ============================================================
+2001-04-22  GDR_  Created based on [RB-1998-06-30]_.
+2001-06-07  GDR_  Added `.standard`_ rule.
+2001-07-11  GDR_  Moved rules ref-contents, ref-name and ref-sort from
+                  XHTML ruleset because they apply to all documents, not just XHTML
+                  documents.
+2015-12-15  RB_   Converted to ReStructuredText and released under
+                  Creative Commons license.
+2019-11-27  RB_   Copying to Tammy Norie project documentation repository and
+                  adapting slightly for consistency with other documents there.
+==========  ====  ============================================================
 
 .. _GDR: mailto:gdr@ravenbrook.com
 .. _RB: mailto:rb@ravenbrook.com
