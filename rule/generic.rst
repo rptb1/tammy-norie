@@ -24,6 +24,15 @@ document covers almost any work product, including source code. The
 rules are intended for use with an inspection procedure [Gilb-1995]_ but
 can also be used for general guidance and review.
 
+[This document is part of a set of documents mainted at Ravenbrook_ as
+part of our `continual improvement process`_ but copied to the Tammy
+Norie project repository for reference.  Ravenbrook_ has further rule
+sets that apply more specific rules to documents like source code,
+procedures, etc.  RB 2019-11-27]
+
+.. _Ravenbrook: https://www.ravenbrook.com/
+.. _continual improvement process: https://en.wikipedia.org/wiki/Continual_improvement_process
+
 
 2. Rules
 --------
