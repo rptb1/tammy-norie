@@ -305,6 +305,8 @@ _`.vol.under-cockpit`
   _`.vol.under-cockpit.channel`: The bottom of this compartment is a
   channel (with the bilge pump hose in it) that acts as a drain
   forward to the bilge.  It's probably best to leave this exposed.
+  [TODO: ref to plan.osmosis-prevention about drying the inside of the
+  hull]
 
 _`.vol.engine-locker`
 
@@ -405,10 +407,18 @@ _`.vol.interior-lockers`
 
   It may be difficult and unnecessary to attach the foam very firmly
   to the hull or liner in these voids, since it is very unlikely to
-  escape in the case of flooding.  In the case of the mast step, which
-  is made of wood that tends to get wet, it is probably best to allow
-  air circulation and encourage evapouration as much as possible.
-  Certainly it's necessary to inspect the step regularly.
+  escape in the case of flooding.
+
+  - In the case of the mast step, which is made of wood that tends to
+    get wet, it is probably best to allow air circulation and
+    encourage evaporation as much as possible.  Certainly it's
+    necessary to inspect the step regularly.
+
+  - In the case of the interior lockers, it is probably best to allow
+    air circulation and encourage evaporation in order to prevent
+    osmosis (plan.osmosis-prevention.design.evaporate)
+    [RB-2019-11-25]_.  [TODO: What about other areas below the
+    waterline, such as in the lockers?]
 
   See also compartmentalization of interior lockers task [ref?].
 
@@ -806,7 +816,6 @@ _`.journal.2019-11-24`
   2. Re-draw my measurement diagrams more carefully and check my
      current calculations.
 
-
 _`.journal.2019-11-25`
 
   Finished measuring volumes (except `.vol.anchor-locker`_, which is
@@ -952,7 +961,7 @@ A. References
      or air-filled bags. Then I realised I could use bubble wrap.”
 
 .. [RB-2019-11-25]
-   “Tammy Norie Osmosis Prevention Plan” (plan.osmosis-prevention);
+   _`plan.osmosis-prevention`: “Tammy Norie Osmosis Prevention Plan”;
    Richard Brooksby;
    2019-11-25;
    <https://github.com/rptb1/tammy-norie/blob/master/plan/osmosis-prevention.rst>
