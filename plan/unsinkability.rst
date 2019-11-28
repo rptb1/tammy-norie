@@ -752,19 +752,20 @@ _`.schedule.2019-11-24/28` : Design and measurement (at 245)
 
     1. Clear out boat (`.plan.clear-out`_)
     2. Measure volumes (`.plan.measure`_)
-    3. Select initial volumes
-    4. Order initial materials (`.plan.order-mats`_)
-    5. Make battery compartment (`.plan.battery`_)
-    6. Remove deck fittings (`.plan.strip-deck`_)
-    7. Order fasteners for chesterfield (`.plan.try-chesterfield`_)
+    3. Make battery compartment (`.plan.battery`_)
+    4. Order fasteners for chesterfield (`.plan.try-chesterfield`_)
 
 _`.schedule.2019-12-03/06` : (at 1TR)
 
-    [To be decided]
+    1. Select initial volumes
+    2. Order initial materials (`.plan.order-mats`_)
+    [More to be decided]
 
 _`.schedule.2019-12-12/17` : (at 245)
 
-    [To be decided]
+    1. Remove deck fittings (`.plan.strip-deck`_)
+    2. Fit foam to initial volumes.
+    [More to be decided]
 
 _`.schedule.2020-02/03` : (at 245)
 
@@ -978,8 +979,24 @@ _`.journal.2019-11-28`
   I will also investigate some of the specialist `.supplier.lux`_
   products for lining engine compartments, etc.
 
-  That puts material cost at about GBP 715 so far, well with
-  `.req.cost`_.
+  That puts material cost at about GBP 715 so far, well within
+  `.req.cost`_.  However that does not include cushion upholstery.
+
+  Thinking about an incremental plan.  I may not be physically able to
+  do as much as I'd like to due to disability, so I should focus on
+  what brings the biggest benefit first.  I doubt that I'll be making
+  any ocean crossings in 2020, but I would like the boat to be more
+  comfortable and well-insulated.  So it would make sense to
+  concentrate on the cabin first.
+
+  I'm going to give this some thought and so have not yet an order for
+  the initial materials.  I'm deferring this to
+  `.schedule.2019-12-03/06`_.
+
+  I removed some of the deck fittings but it turned out to be a longer
+  job than I expected.  Many of the fasteners have not moved
+  since 1983.  Also, I'm tired out and have to watch my health.  So I
+  decided to defer this task to `.schedule.2019-12-12/17`_.
 
 
 A. References
@@ -1109,6 +1126,7 @@ B. Document History
 2019-11-28  RB_   Researched and documented headlining suppliers.
                   Calculated approximate area to cover.
                   Calculated foam and total material cost.
+                  Updating schedule at the end of `.schedule.2019-11-24/28`_.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
