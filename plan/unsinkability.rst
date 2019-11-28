@@ -633,6 +633,20 @@ _`.idea.foam-in-bags`
 4.5. Suppliers
 --------------
 
+_`.supplier.c-and-j`: C & J Marine Ltd <https://www.cjmarine.co.uk/>,
+Clay Lane, Chichester, West Sussex, PO19 3JG.  Tel: 01243 785485.
+Email: sales@cjmarine.co.uk.
+
+_`.supplier.kayospruce`: Kayospruce <https://www.kayospruce.com/>, 2
+Cockerell Close, Segensworth West, Fareham, Hampshire, PO15 5SR.
+Tel: +44 1489 581696.  Fax: +44 1489 573489.  Email:
+sales@sailcloth.co.uk.
+
+_`.supplier.livedale`: Livedale Foam and Sundries
+<http://www.livedale.co.uk/>, Unit D Enterprise Court, Seaman Way,
+Ince, Wigan, Lancashire, WN2 2AG.  Tel: 01942 825144.  Fax:
+01942 825523.
+
 _`.supplier.lux`: _`Lux Distribution`
 <https://www.carinsulation.co.uk/>, Unit 3 Watling Court, Attleborough
 Fields Ind Estate, Nuneaton, Warwickshire, England, CV11 6GX.  Tel:
@@ -894,6 +908,51 @@ _`.journal.2019-11-27`
     a couple of weeks.  I'll also try to remove it to check
     `.req.removable`_.
 
+_`.journal.2019-11-28`
+
+  Telephoned `.supplier.lux`_ for advice about bonding headlining
+  material to the upper surface of the foam.  They recommended spray
+  adhesive such as the usual 3M adhesive used for attaching
+  headlining.  They also gave me some tips on making best use of the
+  self-adhesive layer already on the foam:
+
+    1. Avoid stretching the foam so that it does not creep.
+
+    2. Be careful to avoid air bubbles.  This may be an issue around
+       the mounting blocks glued to the sides of the hull.
+
+  Searched eBay for headlining material and found `perforated cream
+  vinyl`_ from `.supplier.livedale`_.  I called them for a sample and
+  asked about the adhesive they offer with their eBay listings.  They
+  said it is their own brand of spray adhesive and that it would be
+  good for attaching the headlining to the foam.  I asked what area
+  each tin covered and they were not able to say right away, but that
+  the tins were 500ml each.  I'll compare this to 3M's tin size and
+  perhaps ask again by mail.
+
+.. _perforated cream vinyl: https://www.ebay.co.uk/itm/Perforated-vinyl-Faux-Leather-Headlining-Black-Grey-white-Cream-54-wide/172005169267
+
+  Note that I want material that does not have a “scrim” backing,
+  because it will have a very thick foam backing, and the scrim can
+  only make bonding more difficult.
+
+  Also ordered a sample of `“marine” headlining`_ from
+  `.supplier.c-and-j`_ although all their headlinings look very
+  blue-grey on my screen and they didn't answer the phone.  The brand
+  name and colour selection also suggests that they are just reselling
+  `.supplier.kayospruce`_ material.
+
+.. _`“marine” headlining`: https://www.ebay.co.uk/itm/Upholstery-Lining-Vinyl-Faux-Leather-Finish-Various-Colours-137cm-Wide/123635832619
+
+  Also called `.supplier.kayospruce`_ who will sell me 1.37m×1m of the
+  same Nautilex material for GBP 11.90 + VAT, unbacked.  They
+  recommended their Kayobond STAB general purpose aerosol for sticking
+  it to foam (they have a different product for sticking the backed
+  material to a hull).  It comes in 500ml can that will cover 6-8m² at
+  a price of GBP 6.24 + VAT per can.  They were excellent on the
+  phone.  They are local.  They're sending me a sample book.
+
+
 
 A. References
 =============
@@ -1019,6 +1078,7 @@ B. Document History
                   Annotated volumes table with notes.
                   Adding .idea.foam-in-bags, contributed by Bernie Branfield.
 2019-11-27  RB_   Writing up the building of the battery compartment.
+2019-11-28  RB_   Researched and documented headlining suppliers.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
