@@ -471,63 +471,63 @@ trapezium) so this table should not be used to order sections of foam.
 [TODO: Link to scans of notes?]  [TODO: Consider the weight of the
 foam.]
 
-================================  ==========  ======  =======  ================
-Reference                          Areas      Depth   Vol/cm³  Note
-================================  ==========  ======  =======  ================
+================================  ==========  =======  ======  =======  ================
+Reference                          Areas      Cov/cm²  Depth   Vol/cm³  Note
+================================  ==========  =======  ======  =======  ================
 `.vol.anchor-locker`_
-`.vol.ceiling`_ forward              45×85cm    30mm    11475  [TODO: windows]
-`.vol.ceiling`_ starboard           50×232cm    30mm    38400  [TODO: windows]
-`.vol.ceiling`_ port                50×160cm    30mm    24000  [TODO: windows]
-`.vol.ceiling`_ top                100×200cm    20mm    26000  inc. hatches
-`.vol.ceiling`_ heads top            32×70cm    20mm     4480
-`.vol.ceiling`_ heeads port          48×70cm    30mm    10080  minus shelf
-`.vol.coamings`_ starboard          36×135cm    20cm    97200  use bottles?
-`.vol.coamings`_ port               36×114cm    20cm    82080  use bottles?
-`.vol.cockpit-locker`_ hull        107×114cm    30mm    36594
-`.vol.cockpit-locker`_ forward       74×40cm    30mm     8880
-`.vol.cockpit-locker`_ aft           56×52cm    30mm     8736
-`.vol.cockpit-locker`_ starboard    52×114cm    30mm    17784
-`.vol.cockpit-locker`_ lid           33×84cm    30mm     8316  tapered volume
-`.vol.cushions`_ port f f           36×120cm    10cm    43200
-`.vol.cushions`_ port f a            48×70cm    10cm    33600
-`.vol.cushions`_ starboard f f      36×120cm    10cm    43200
-`.vol.cushions`_ starboard f a       48×70cm    10cm    33600
-`.vol.cushions`_ starboard q a      53×110cm    10cm    58300
-`.vol.cushions`_ starboard s         55×40cm    10cm    22000
-`.vol.cushions`_ starboard q f       66×82cm    10cm    54120
-`.vol.cushions`_ infill              53×54cm    10cm    28620
-`.vol.engine-locker`_ lid            44×63cm    30mm     8316
-`.vol.engine-locker`_ port           40×35cm    30mm     4200
-`.vol.engine-locker`_ hull           43×64cm    30mm     8256
-`.vol.engine-locker`_ coaming        15×46cm    18cm    13248
-`.vol.engine-locker`_ fuel tank      32×17cm    20cm    10880  [#fueltank]_
-`.vol.engine-locker`_ transom       ¼π×46²cm    30mm     4983  quarter circle
-`.vol.forward-bulkhead`_           ½×78×62cm    30mm     7254  triangle
-`.vol.heads-bulkhead`_ lower        ¼π×78²cm    30mm    14327  quarter circle
-`.vol.heads-bulkhead`_ upper        ¼π×57²cm    30mm     7651  quarter circle
-`.vol.interior-lockers`_                                       use containers
-`.vol.port-aft-bulkhead`_            58×43cm    30mm     7482
-`.vol.quarter-berth`_ hull          50×195cm    30mm    29250
-`.vol.quarter-berth`_ ceiling       42×133cm    30mm    16758
-`.vol.quarter-berth`_ bulkhead u    32×115cm    30mm    11040
-`.vol.quarter-berth`_ bulkhead l    17×115cm   120mm    23460  cuboid recess
-`.vol.quarter-berth`_ locker        55×115cm    10mm     6325  eighth spheroid
-`.vol.quarter-locker`_ hull          89×86cm    30mm    22962
-`.vol.quarter-locker`_ coaming       14×96cm    18cm    24192
-`.vol.quarter-locker`_ lid           44×63cm    30mm     8316
-`.vol.quarter-locker`_ starboard     36×74cm    30mm     7992
-`.vol.quarter-locker`_ transom      ¼π×30²cm    30mm     2119  quarter circle
-`.vol.quarter-locker`_ forward      ¼π×80²cm    30mm    15072  quarter circle
-`.vol.sides`_ port                  48×205cm    30mm    29520
-`.vol.sides`_ starboard             48×214cm    30mm    30816
-`.vol.sides`_ heads                  44×98cm    30mm    12936
-`.vol.starboard-aft-bulkhead`_       58×43cm    30mm     7482  [#sab]_
-`.vol.under-cockpit`_ top           37×107cm    30mm    11877
-`.vol.under-cockpit`_ starboard     31×107cm    30mm     9951
-`.vol.under-cockpit`_ port          31×107cm    30mm     9951
-`.vol.under-cockpit`_ hull          37×107cm    30mm    11877  [#vuch]_
-Total                                                 1069068  ± 10%
-================================  ==========  ======  =======  ================
+`.vol.ceiling`_ forward              45×85cm     3825    30mm    11475  [TODO: windows]
+`.vol.ceiling`_ starboard           50×232cm    11600    30mm    38400  [TODO: windows]
+`.vol.ceiling`_ port                50×160cm     8000    30mm    24000  [TODO: windows]
+`.vol.ceiling`_ top                100×200cm    20000    20mm    26000  inc. hatches
+`.vol.ceiling`_ heads top            32×70cm     2240    20mm     4480
+`.vol.ceiling`_ heads port           48×70cm     3360    30mm    10080  minus shelf
+`.vol.coamings`_ starboard          36×135cm             20cm    97200  use bottles?
+`.vol.coamings`_ port               36×114cm             20cm    82080  use bottles?
+`.vol.cockpit-locker`_ hull        107×114cm             30mm    36594
+`.vol.cockpit-locker`_ forward       74×40cm             30mm     8880
+`.vol.cockpit-locker`_ aft           56×52cm             30mm     8736
+`.vol.cockpit-locker`_ starboard    52×114cm             30mm    17784
+`.vol.cockpit-locker`_ lid           33×84cm             30mm     8316  tapered volume
+`.vol.cushions`_ port f f           36×120cm             10cm    43200
+`.vol.cushions`_ port f a            48×70cm             10cm    33600
+`.vol.cushions`_ starboard f f      36×120cm             10cm    43200
+`.vol.cushions`_ starboard f a       48×70cm             10cm    33600
+`.vol.cushions`_ starboard q a      53×110cm             10cm    58300
+`.vol.cushions`_ starboard s         55×40cm             10cm    22000
+`.vol.cushions`_ starboard q f       66×82cm             10cm    54120
+`.vol.cushions`_ infill              53×54cm             10cm    28620
+`.vol.engine-locker`_ lid            44×63cm             30mm     8316
+`.vol.engine-locker`_ port           40×35cm             30mm     4200
+`.vol.engine-locker`_ hull           43×64cm             30mm     8256
+`.vol.engine-locker`_ coaming        15×46cm             18cm    13248
+`.vol.engine-locker`_ fuel tank      32×17cm             20cm    10880  [#fueltank]_
+`.vol.engine-locker`_ transom       ¼π×46²cm             30mm     4983  quarter circle
+`.vol.forward-bulkhead`_           ½×78×62cm     2170    30mm     7254  triangle
+`.vol.heads-bulkhead`_ lower        ¼π×78²cm     4776    30mm    14327  quarter circle
+`.vol.heads-bulkhead`_ upper        ¼π×57²cm     2550    30mm     7651  quarter circle
+`.vol.interior-lockers`_                                                use containers
+`.vol.port-aft-bulkhead`_            58×43cm     2494    30mm     7482
+`.vol.quarter-berth`_ hull          50×195cm     9750    30mm    29250
+`.vol.quarter-berth`_ ceiling       42×133cm     5586    30mm    16758
+`.vol.quarter-berth`_ bulkhead u    32×115cm     3680    30mm    11040
+`.vol.quarter-berth`_ bulkhead l    17×115cm     1955   120mm    23460  cuboid recess
+`.vol.quarter-berth`_ locker        55×115cm             10mm     6325  eighth spheroid
+`.vol.quarter-locker`_ hull          89×86cm             30mm    22962
+`.vol.quarter-locker`_ coaming       14×96cm             18cm    24192
+`.vol.quarter-locker`_ lid           44×63cm             30mm     8316
+`.vol.quarter-locker`_ starboard     36×74cm             30mm     7992
+`.vol.quarter-locker`_ transom      ¼π×30²cm             30mm     2119  quarter circle
+`.vol.quarter-locker`_ forward      ¼π×80²cm             30mm    15072  quarter circle
+`.vol.sides`_ port                  48×205cm     9840    30mm    29520
+`.vol.sides`_ starboard             48×214cm    10272    30mm    30816
+`.vol.sides`_ heads                  44×98cm     4312    30mm    12936
+`.vol.starboard-aft-bulkhead`_       58×43cm     2494    30mm     7482  [#sab]_
+`.vol.under-cockpit`_ top           37×107cm             30mm    11877
+`.vol.under-cockpit`_ starboard     31×107cm             30mm     9951
+`.vol.under-cockpit`_ port          31×107cm             30mm     9951
+`.vol.under-cockpit`_ hull          37×107cm             30mm    11877  [#vuch]_
+Total                                          108604          1069068  ± 10%
+================================  ==========  =======  ======  =======  ================
 
 .. [#fueltank] cuboid blocks to wedge in the fuel tank
 
@@ -537,11 +537,14 @@ Total                                                 1069068  ± 10%
 
 .. [#vuch] Might be a good idea to leave this exposed.
        
-.. (+ 11475 38400 24000 26000 4480 10080 97200 82080 36594 8880 8736
-   17784 8316 43200 33600 43200 33600 58300 22000 54120 28620 8316
-   4200 8256 13248 10880 4983 7254 14327 7651 12936 7482 29250 16758
-   11040 23460 6235 22962 24192 8316 7992 2119 15072 29520 30816 7482
-   11877 9951 9951 11877)
+.. Volume (+ 11475 38400 24000 26000 4480 10080 97200 82080 36594 8880
+   8736 17784 8316 43200 33600 43200 33600 58300 22000 54120 28620
+   8316 4200 8256 13248 10880 4983 7254 14327 7651 12936 7482 29250
+   16758 11040 23460 6235 22962 24192 8316 7992 2119 15072 29520 30816
+   7482 11877 9951 9951 11877)
+
+.. Area (+ 3825 11600 8000 20000 2240 3360 2170 4476 2550 2494 9750
+   5586 3680 1955 9840 10272 4312 2494)
 
 
 Contingency
@@ -952,6 +955,14 @@ _`.journal.2019-11-28`
   a price of GBP 6.24 + VAT per can.  They were excellent on the
   phone.  They are local.  They're sending me a sample book.
 
+  Expanded the volumes table to include a column for the area to cover
+  with headlining, giving a total of approximately 11m².  This is not
+  yet planned carefully for cutting from the headlining roll, but
+  gives an estimate of cost.  Assuming about 30% loss from cutting, I
+  might require 11m of lining material, at a cost of GBP 150
+  (inc. VAT) from `.supplier.kayospruce`_.
+
+.. (* (/ (* 11 1.3) (* 1.37 1)) 11.90 1.2)
 
 
 A. References
@@ -1079,6 +1090,7 @@ B. Document History
                   Adding .idea.foam-in-bags, contributed by Bernie Branfield.
 2019-11-27  RB_   Writing up the building of the battery compartment.
 2019-11-28  RB_   Researched and documented headlining suppliers.
+                  Calculated approximate area to cover.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
