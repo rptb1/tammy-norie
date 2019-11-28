@@ -960,9 +960,26 @@ _`.journal.2019-11-28`
   yet planned carefully for cutting from the headlining roll, but
   gives an estimate of cost.  Assuming about 30% loss from cutting, I
   might require 11m of lining material, at a cost of GBP 150
-  (inc. VAT) from `.supplier.kayospruce`_.
+  (inc. VAT) from `.supplier.kayospruce`_.  On top of that, two tins
+  of spray glue will cost GBP 15.
 
-.. (* (/ (* 11 1.3) (* 1.37 1)) 11.90 1.2)
+.. cost calculation (* (/ (* 11 1.3) (* 1.37 1)) 11.90 1.2)
+
+  While I'm calculating costs, it seems like the bulk of the foam will
+  be made up of 30mm sections, which comes in `1m×4m rolls`_ for GBP
+  66.70 each.  To fill 1m³ will require approximately 8.4 rolls, so
+  that's GBP 555.  Although there will be losses due to cutting, all
+  the offcuts can be stuffed into voids aboard the boat, so they will
+  still be contributing to unsinkability.
+
+.. cost calculation (* (/ 1 (* 4 0.03)) 66.70)
+.. _`1m×4m rolls`: https://www.carinsulation.co.uk/product/30mm-closed-cell-foam-car-van-sound-deadening-thermal-insulation
+
+  I will also investigate some of the specialist `.supplier.lux`_
+  products for lining engine compartments, etc.
+
+  That puts material cost at about GBP 715 so far, well with
+  `.req.cost`_.
 
 
 A. References
@@ -1091,6 +1108,7 @@ B. Document History
 2019-11-27  RB_   Writing up the building of the battery compartment.
 2019-11-28  RB_   Researched and documented headlining suppliers.
                   Calculated approximate area to cover.
+                  Calculated foam and total material cost.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
