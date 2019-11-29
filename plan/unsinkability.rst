@@ -1158,6 +1158,41 @@ _`.journal.2019-11-27`
        mats used for crockery have a similar feel.  This may be useful
        when using `.design.containers`_ in combination with the foam.
 
+.. figure:: https://live.staticflickr.com/65535/49142469797_9b0f0ca53e.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The battery mount before making a compartment with closed-cell
+   foam.
+
+.. figure:: https://live.staticflickr.com/65535/49142269826_30073b9c46.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The volume in which the battery compartment will be made.  The
+   large pipe is for the bilge pump.  The small pipe is for the
+   auxiliary bilge pump.  The grey cable is for the battery terminals.
+   The white conduit carries wiring from the switch panel to the
+   stern.
+
+.. figure:: https://live.staticflickr.com/65535/49142270261_2fe8cc7acb.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The battery compartment foam.  The foam is not bonded to the boat,
+   allowing access for maintenance (`.req.access`_).
+
+.. figure:: https://live.staticflickr.com/65535/49142270071_469c928099.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The battery mounted in the foam compartment.  The battery moves
+   slightly in the compliant foam, but it's not going anywhere.
+
     I stuck an offcut of the foam to a rough part of the ceiling using
     its own adhesive in order to test the bond.  I deliberately did
     not prepare or clean the surface first.  I'll check the bonding in
@@ -1412,6 +1447,7 @@ B. Document History
 2019-11-29  RB_   Added notes from discussion with Richard Kistruck.
                   Added figures of photos showing most volumes.
                   Added scans of measurement notes.
+                  Added figures of photos of battery box building.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
