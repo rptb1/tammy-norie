@@ -76,6 +76,11 @@ _`.req.chop`
   If you break the boat into pieces, most of them float and some of
   them are liferafts.
 
+  My original spec was that if you cut the boat along any plane, both
+  halves float.  The idea of this being that it ensures the buoyancy
+  is evenly distributed.  It doesn't quite work for horizontal planes
+  though!  Perhaps there is something to retrieve from that.
+
 _`.req.suitable`
 
   Suitable for Tammy Norie [TODO: clarify -- is this just time and
@@ -998,6 +1003,36 @@ _`.journal.2019-11-28`
   since 1983.  Also, I'm tired out and have to watch my health.  So I
   decided to defer this task to `.schedule.2019-12-12/17`_.
 
+_`.journal.2019-11-29`
+
+  I explained some of this plan to my friend Richard Kistruck over
+  breakfast.  He has some very useful comments:
+
+  1. Once the boat is insulated the amount of condensation appearing
+     on the remaining cold spots is likely to increase: the hatch, the
+     windows, metal frames, etc.  Perhaps this is another good reason
+     (apart from plan.osmosis-prevention) not to insulate below the
+     waterline: cold surfaces in the bilge will act as a dehumidifier.
+
+  2. His experience with building an extension suggests that moist air
+     will creep through any joints and gaps in the foam and then
+     moisture will pool against the hull, causing multiple problems:
+     damaging the glue holding he foam to the hull, making osmosis
+     worse, generally making the boat hard to dry.  This suggests
+     taping over joints.  [TODO: plan taping over joints]
+
+  3. Where condensation accumulates above the foam, such as on the
+     windows, it will run down and pool on the upper surface.  This
+     suggests taping in an S-shape profile against the hull, top edge
+     of the foam, and inner edge of the foam (possibly over the vinyl)
+     so that water is guided over the inside of the vinyl.  There it
+     can evaporate or be sponged away.  On top of this, space for a
+     catch tray that can optionally hold soemthing absorbent might be
+     good.
+
+  Thinking about this later, is this an argument *for* or *against*
+  perforated vinyl headlining?
+
 
 A. References
 =============
@@ -1127,6 +1162,7 @@ B. Document History
                   Calculated approximate area to cover.
                   Calculated foam and total material cost.
                   Updating schedule at the end of `.schedule.2019-11-24/28`_.
+2019-11-29  RB_   Added notes from discussion with Richard Kistruck.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
