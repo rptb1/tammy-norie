@@ -764,12 +764,14 @@ _`.schedule.2019-12-03/06` : (at 1TR)
 
     1. Select initial volumes
     2. Order initial materials (`.plan.order-mats`_)
+
     [More to be decided]
 
 _`.schedule.2019-12-12/17` : (at 245)
 
     1. Remove deck fittings (`.plan.strip-deck`_)
     2. Fit foam to initial volumes.
+
     [More to be decided]
 
 _`.schedule.2020-02/03` : (at 245)
