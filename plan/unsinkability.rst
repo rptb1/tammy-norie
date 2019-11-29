@@ -231,6 +231,13 @@ _`.vol.sides`
   padded quite thickly but it would be nice to keep this fairly thin
   to avoid reducing the living area.
 
+.. figure:: https://live.staticflickr.com/65535/49141335498_12a8527742.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The starboard side of the cabin.
+
 _`.vol.ceiling`
 
   The boat interior ceiling, mostly comprising the underside of the
@@ -247,6 +254,49 @@ _`.vol.ceiling`
   this is to epoxy wooden blocks or strips to the ceiling to provide a
   purchase for some sort of screws or other fasteners (see
   `.idea.chesterfield`_).
+
+.. figure:: https://live.staticflickr.com/65535/49142028802_31d481011c.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The cabin ceiling looking forward.
+
+.. figure:: https://live.staticflickr.com/65535/49142029122_152ebf4bff.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The starboard side of the cabin ceiling.
+
+.. figure:: https://live.staticflickr.com/65535/49142029437_c1cda4d892.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The port side of the cabin ceiling.
+
+.. figure:: https://live.staticflickr.com/65535/49141829266_22a9caa85a.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The cabin ceiling looking aft.
+
+.. figure:: https://live.staticflickr.com/65535/49141336848_66ee5aa12d.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The cabin ceiling looking towards the port quarter and the heads
+   compartment, above the galley.
+
+.. figure:: https://live.staticflickr.com/65535/49141337058_acf4be967b.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The cabin ceiling looking towards the starboard quarter and the quarter berth.
 
 _`.vol.cushions`
 
@@ -271,6 +321,20 @@ _`.vol.quarter-berth`
   [TODO: experiments to see how much space I need for comfortable
   fidgeting while sleeping.]
 
+.. figure:: https://live.staticflickr.com/65535/49141830516_034d219d04.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The quarter berth.
+
+.. figure:: https://live.staticflickr.com/65535/49141831781_d8b2d8f7bb.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The locker under the quarter berth.
+
 _`.vol.coamings`
 
   The Coromandel has high and broad cockpit coamings that are part of
@@ -287,6 +351,13 @@ _`.vol.coamings`
   quite tightly and is unlikely to come loose.  On the other hand,
   they are quite high above the waterline and so will only provide
   floatation when the boat is very submerged.
+
+.. figure:: https://live.staticflickr.com/65535/49141830806_3e048ea930.jpg
+   :width: 281
+   :height: 500
+   :align: center
+
+   The starboard coaming above the quarter berth.
 
 _`.vol.under-cockpit`
 
@@ -313,6 +384,13 @@ _`.vol.under-cockpit`
   [TODO: ref to plan.osmosis-prevention about drying the inside of the
   hull]
 
+.. figure:: https://live.staticflickr.com/65535/49142032162_bbe0e2dfb5.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The volume under the cockpit.
+
 _`.vol.engine-locker`
 
   The starboard quarter locker holds the outboard engine, which
@@ -335,6 +413,36 @@ _`.vol.engine-locker`
   adhesive may not be enough to hold it in place.  It may be possible
   to epoxy wooden blocks to the bulkheads and screw the foam in place
   using large washers.
+
+  [TODO: Try a small section with glue in spring 2020?]
+
+.. figure:: https://live.staticflickr.com/65535/49141832801_9ab8a64ea8.jpg
+   :width: 281
+   :height: 500
+   :align: center
+
+   The engine locker.
+
+.. figure:: https://live.staticflickr.com/65535/49142033207_23d6c47924.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The starboard (hull) side of the engine locker.
+
+.. figure:: https://live.staticflickr.com/65535/49142033437_b7ce2137bc.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The port side of the engine locker.
+
+.. figure:: https://live.staticflickr.com/65535/49142033602_5ffde80865.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The fuel tank in place in the engine locker.
 
 _`.vol.quarter-locker`
 
@@ -359,6 +467,48 @@ _`.vol.quarter-locker`
 
   The aft part of this locker joins with part of the `.vol.coamings`_.
 
+.. figure:: https://live.staticflickr.com/65535/49142034022_af2a3428b8.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The quarter locker.
+
+.. figure:: https://live.staticflickr.com/65535/49141834131_f034412df1.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The quarter locker looking at the rudder post tube.
+
+.. figure:: https://live.staticflickr.com/65535/49142034332_de5e9d8b15.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The port (hull) side of the quarter locker.
+
+.. figure:: https://live.staticflickr.com/65535/49142034567_e36dc786b0.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The starboard side of the quarter locker.
+
+.. figure:: https://live.staticflickr.com/65535/49141834811_7989b4b003.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The aft (transom) side of the quarter locker.
+
+.. figure:: https://live.staticflickr.com/65535/49141833616_e3cc2c7ced.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The tunnel from the quarter locker beneath the engine locker.
+
 _`.vol.cockpit-locker`
 
   The port-side seat of the cockpit lifts to provide access to a large
@@ -382,6 +532,20 @@ _`.vol.cockpit-locker`
   clear.  It may also make sense to stuff spare foam in sheets under
   the heads compartment sole, but there is not a great deal of volume
   there.
+
+.. figure:: https://live.staticflickr.com/65535/49141832246_cc5fc48615.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The cockpit locker looking forward.
+
+.. figure:: https://live.staticflickr.com/65535/49141832521_610ef9f497.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The cockpit locker looking aft.
 
 _`.vol.interior-lockers`
 
@@ -426,6 +590,31 @@ _`.vol.interior-lockers`
     waterline, such as in the lockers?]
 
   See also compartmentalization of interior lockers task [ref?].
+
+.. figure:: https://live.staticflickr.com/65535/49141338303_94323a3e6a.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The mast step in the volume beneath the liner.  In the foreground
+   is the depth sounder oil pot.  In the top left is the log
+   paddlewheel through-hull fitting.
+
+.. figure:: https://live.staticflickr.com/65535/49141831331_f6dc18e75b.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The starboard locker beneath the liner.  (Photo not horizontal!)
+
+.. figure:: https://live.staticflickr.com/65535/49141831561_caca24a71b.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The port locker benath the liner.  (Photo no horizontal!)  On the
+   right is the log paddlewheel through-hull fitting.  The blue object
+   is the flexible water tank.
 
 _`.vol.forward-bulkhead`
 
@@ -578,6 +767,20 @@ _`.idea.fixed-cushions`
   What if the cabin liner has a layer of foam glued to the top in
   addition to cushions.  The cushions could be more conventional,
   possibly solving Annie Hill's objection [AH-2015]_.
+
+.. figure:: https://live.staticflickr.com/65535/49141337323_51385f3797.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The benches formed by the cabin liner, looking forward.
+
+.. figure:: https://live.staticflickr.com/65535/49141337548_2a4e18df62.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The bench formed by the cabin locker, looking aft towards the quarter berth.
 
 _`.idea.fewer-cushions`
 
@@ -1165,6 +1368,7 @@ B. Document History
                   Calculated foam and total material cost.
                   Updating schedule at the end of `.schedule.2019-11-24/28`_.
 2019-11-29  RB_   Added notes from discussion with Richard Kistruck.
+                  Added figures of photos showing most volumes.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
