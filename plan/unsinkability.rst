@@ -219,11 +219,6 @@ _`.design.cover`
 _`.vol`: These are the volumes in the boat where closed-cell foam can
 be fitted, so that water cannot replace the air and sink the boat.
 
-.. attention:: [I have a lot of photographs (see
-               `.journal.2019-11-24`_) that will help make this
-               section a lot clearer.  I hope to edit them and link
-               them from here before 2019-12-01.]
-
 _`.vol.sides`
 
   The boat interior sides.  This is the area of the hull that is
@@ -657,13 +652,21 @@ _`.vol.heads-bulkhead`
 4.3. Dimensions
 ---------------
 
-_`.dim`: These are the approximate dimensions of the `.vol`_ based on
-measurements made on 2019-11-23/25.  The purpose of this table is to
-estimate total displacement volume.  In many cases geometrical
-approximations have been used (such as averaging the ends of a
-trapezium) so this table should not be used to order sections of foam.
-[TODO: Link to scans of notes?]  [TODO: Consider the weight of the
-foam.]
+_`.dim`
+
+These are the approximate dimensions of the `.vol`_ based on
+measurements made on 2019-11-23/25 (`.dim.notes`_).  The purpose of
+this table is to estimate total displacement volume.  In many cases
+geometrical approximations have been used (such as averaging the ends
+of a trapezium) so this table should not be used to order sections of
+foam.  [TODO: Consider the weight of the foam.]
+
+
+Volumes table
+.............
+
+_`.dim.table`: ‘Cov’ indicates an area to be covered by vinyl
+headlining (`.design.cover`_).
 
 ================================  ==========  =======  ========  =======  ================
 Reference                          Areas/cm²  Cov/cm²  Depth/cm  Vol/cm³  Note
@@ -742,6 +745,7 @@ Total                                          108604            1069068  ± 10%
 
 
 Contingency
+...........
 
 ================================  ==========  ======  =========================
 Reference                          Areas      Depth   Volume / cm³
@@ -752,6 +756,42 @@ Total                                                  38000 ± 10%
 ================================  ==========  ======  =========================
 
 .. (+ 23000 15232)
+
+
+Measurement notes
+.................
+
+_`.dim.notes`: Here are scans of the notes I made while measuring the
+volumes in the boat.  Many of these were scribbled while my body was
+bent into awkwards shapes.
+
+.. figure:: https://live.staticflickr.com/65535/49142343657_a0e7a18407_z.jpg
+   :width: 449
+   :height: 640
+   :align: center
+
+   _`.dim.notes.1`: Foam Voids measurement notes page 1/4
+
+.. figure:: https://live.staticflickr.com/65535/49142343917_a7ecd98766_z.jpg
+   :width: 453
+   :height: 640
+   :align: center
+
+   _`.dim.notes.2`: Foam Voids measurement notes page 2/4
+
+.. figure:: https://live.staticflickr.com/65535/49141651928_5a609f1e40_z.jpg
+   :width: 453
+   :height: 640
+   :align: center
+
+   _`.dim.notes.3`: Foam Voids measurement notes page 3/4
+
+.. figure:: https://live.staticflickr.com/65535/49142145621_c351070406_z.jpg
+   :width: 453
+   :height: 640
+   :align: center
+
+   _`.dim.notes.4`: Foam Voids measurement notes page 4/4
 
 
 4.4. Ideas
@@ -1371,6 +1411,7 @@ B. Document History
                   Updating schedule at the end of `.schedule.2019-11-24/28`_.
 2019-11-29  RB_   Added notes from discussion with Richard Kistruck.
                   Added figures of photos showing most volumes.
+                  Added scans of measurement notes.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
