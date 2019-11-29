@@ -824,7 +824,9 @@ _`.idea.test`
   interesting and make for an interesting article, photos, and a
   video!
 
-.. [#wolfram] according to Wolfram Alpha
+.. [#wolfram] Wolfram Alpha query: `(density of sea water) / (density of fresh water)`_
+
+.. _`(density of sea water) / (density of fresh water)`: https://www.wolframalpha.com/input/?i=%28density+of+sea+water%29+%2F+%28density+of+fresh+water%29
 
 _`.idea.foam-in-bags`
 
