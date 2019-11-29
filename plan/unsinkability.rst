@@ -665,63 +665,63 @@ trapezium) so this table should not be used to order sections of foam.
 [TODO: Link to scans of notes?]  [TODO: Consider the weight of the
 foam.]
 
-================================  ==========  =======  ======  =======  ================
-Reference                          Areas      Cov/cm²  Depth   Vol/cm³  Note
-================================  ==========  =======  ======  =======  ================
+================================  ==========  =======  ========  =======  ================
+Reference                          Areas/cm²  Cov/cm²  Depth/cm  Vol/cm³  Note
+================================  ==========  =======  ========  =======  ================
 `.vol.anchor-locker`_
-`.vol.ceiling`_ forward              45×85cm     3825    30mm    11475  [TODO: windows]
-`.vol.ceiling`_ starboard           50×232cm    11600    30mm    38400  [TODO: windows]
-`.vol.ceiling`_ port                50×160cm     8000    30mm    24000  [TODO: windows]
-`.vol.ceiling`_ top                100×200cm    20000    20mm    26000  inc. hatches
-`.vol.ceiling`_ heads top            32×70cm     2240    20mm     4480
-`.vol.ceiling`_ heads port           48×70cm     3360    30mm    10080  minus shelf
-`.vol.coamings`_ starboard          36×135cm             20cm    97200  use bottles?
-`.vol.coamings`_ port               36×114cm             20cm    82080  use bottles?
-`.vol.cockpit-locker`_ hull        107×114cm             30mm    36594
-`.vol.cockpit-locker`_ forward       74×40cm             30mm     8880
-`.vol.cockpit-locker`_ aft           56×52cm             30mm     8736
-`.vol.cockpit-locker`_ starboard    52×114cm             30mm    17784
-`.vol.cockpit-locker`_ lid           33×84cm             30mm     8316  tapered volume
-`.vol.cushions`_ port f f           36×120cm             10cm    43200
-`.vol.cushions`_ port f a            48×70cm             10cm    33600
-`.vol.cushions`_ starboard f f      36×120cm             10cm    43200
-`.vol.cushions`_ starboard f a       48×70cm             10cm    33600
-`.vol.cushions`_ starboard q a      53×110cm             10cm    58300
-`.vol.cushions`_ starboard s         55×40cm             10cm    22000
-`.vol.cushions`_ starboard q f       66×82cm             10cm    54120
-`.vol.cushions`_ infill              53×54cm             10cm    28620
-`.vol.engine-locker`_ lid            44×63cm             30mm     8316
-`.vol.engine-locker`_ port           40×35cm             30mm     4200
-`.vol.engine-locker`_ hull           43×64cm             30mm     8256
-`.vol.engine-locker`_ coaming        15×46cm             18cm    13248
-`.vol.engine-locker`_ fuel tank      32×17cm             20cm    10880  [#fueltank]_
-`.vol.engine-locker`_ transom       ¼π×46²cm             30mm     4983  quarter circle
-`.vol.forward-bulkhead`_           ½×78×62cm     2170    30mm     7254  triangle
-`.vol.heads-bulkhead`_ lower        ¼π×78²cm     4776    30mm    14327  quarter circle
-`.vol.heads-bulkhead`_ upper        ¼π×57²cm     2550    30mm     7651  quarter circle
-`.vol.interior-lockers`_                                                use containers
-`.vol.port-aft-bulkhead`_            58×43cm     2494    30mm     7482
-`.vol.quarter-berth`_ hull          50×195cm     9750    30mm    29250
-`.vol.quarter-berth`_ ceiling       42×133cm     5586    30mm    16758
-`.vol.quarter-berth`_ bulkhead u    32×115cm     3680    30mm    11040
-`.vol.quarter-berth`_ bulkhead l    17×115cm     1955   120mm    23460  cuboid recess
-`.vol.quarter-berth`_ locker        55×115cm             10mm     6325  eighth spheroid
-`.vol.quarter-locker`_ hull          89×86cm             30mm    22962
-`.vol.quarter-locker`_ coaming       14×96cm             18cm    24192
-`.vol.quarter-locker`_ lid           44×63cm             30mm     8316
-`.vol.quarter-locker`_ starboard     36×74cm             30mm     7992
-`.vol.quarter-locker`_ transom      ¼π×30²cm             30mm     2119  quarter circle
-`.vol.quarter-locker`_ forward      ¼π×80²cm             30mm    15072  quarter circle
-`.vol.sides`_ port                  48×205cm     9840    30mm    29520
-`.vol.sides`_ starboard             48×214cm    10272    30mm    30816
-`.vol.sides`_ heads                  44×98cm     4312    30mm    12936
-`.vol.starboard-aft-bulkhead`_       58×43cm     2494    30mm     7482  [#sab]_
-`.vol.under-cockpit`_ top           37×107cm             30mm    11877
-`.vol.under-cockpit`_ starboard     31×107cm             30mm     9951
-`.vol.under-cockpit`_ port          31×107cm             30mm     9951
-`.vol.under-cockpit`_ hull          37×107cm             30mm    11877  [#vuch]_
-Total                                          108604          1069068  ± 10%
-================================  ==========  =======  ======  =======  ================
+`.vol.ceiling`_ forward                45×85     3825         3    11475  [TODO: windows]
+`.vol.ceiling`_ starboard             50×232    11600         3    38400  [TODO: windows]
+`.vol.ceiling`_ port                  50×160     8000         3    24000  [TODO: windows]
+`.vol.ceiling`_ top                  100×200    20000         2    26000  inc. hatches
+`.vol.ceiling`_ heads top              32×70     2240         2     4480
+`.vol.ceiling`_ heads port             48×70     3360         3    10080  minus shelf
+`.vol.coamings`_ starboard            36×135                 20    97200  use bottles?
+`.vol.coamings`_ port                 36×114                 20    82080  use bottles?
+`.vol.cockpit-locker`_ hull          107×114                  3    36594
+`.vol.cockpit-locker`_ forward         74×40                  3     8880
+`.vol.cockpit-locker`_ aft             56×52                  3     8736
+`.vol.cockpit-locker`_ starboard      52×114                  3    17784
+`.vol.cockpit-locker`_ lid             33×84                  3     8316  tapered volume
+`.vol.cushions`_ port f f             36×120                 10    43200
+`.vol.cushions`_ port f a              48×70                 10    33600
+`.vol.cushions`_ starboard f f        36×120                 10    43200
+`.vol.cushions`_ starboard f a         48×70                 10    33600
+`.vol.cushions`_ starboard q a        53×110                 10    58300
+`.vol.cushions`_ starboard s           55×40                 10    22000
+`.vol.cushions`_ starboard q f         66×82                 10    54120
+`.vol.cushions`_ infill                53×54                 10    28620
+`.vol.engine-locker`_ lid              44×63                  3     8316
+`.vol.engine-locker`_ port             40×35                  3     4200
+`.vol.engine-locker`_ hull             43×64                  3     8256
+`.vol.engine-locker`_ coaming          15×46                 18    13248
+`.vol.engine-locker`_ fuel tank        32×17                 20    10880  [#fueltank]_
+`.vol.engine-locker`_ transom         ¼π×46²                  3     4983  quarter circle
+`.vol.forward-bulkhead`_             ½×78×62     2170         3     7254  triangle
+`.vol.heads-bulkhead`_ lower          ¼π×78²     4776         3    14327  quarter circle
+`.vol.heads-bulkhead`_ upper          ¼π×57²     2550         3     7651  quarter circle
+`.vol.interior-lockers`_                                                  use containers
+`.vol.port-aft-bulkhead`_              58×43     2494         3     7482
+`.vol.quarter-berth`_ hull            50×195     9750         3    29250
+`.vol.quarter-berth`_ ceiling         42×133     5586         3    16758
+`.vol.quarter-berth`_ bulkhead u      32×115     3680         3    11040
+`.vol.quarter-berth`_ bulkhead l      17×115     1955        12    23460  cuboid recess
+`.vol.quarter-berth`_ locker          55×115                  1     6325  eighth spheroid
+`.vol.quarter-locker`_ hull            89×86                  3    22962
+`.vol.quarter-locker`_ coaming         14×96                 18    24192
+`.vol.quarter-locker`_ lid             44×63                  3     8316
+`.vol.quarter-locker`_ starboard       36×74                  3     7992
+`.vol.quarter-locker`_ transom        ¼π×30²                  3     2119  quarter circle
+`.vol.quarter-locker`_ forward        ¼π×80²                  3    15072  quarter circle
+`.vol.sides`_ port                    48×205     9840         3    29520
+`.vol.sides`_ starboard               48×214    10272         3    30816
+`.vol.sides`_ heads                    44×98     4312         3    12936
+`.vol.starboard-aft-bulkhead`_         58×43     2494         3     7482  [#sab]_
+`.vol.under-cockpit`_ top             37×107                  3    11877
+`.vol.under-cockpit`_ starboard       31×107                  3     9951
+`.vol.under-cockpit`_ port            31×107                  3     9951
+`.vol.under-cockpit`_ hull            37×107                  3    11877  [#vuch]_
+Total                                          108604            1069068  ± 10%
+================================  ==========  =======  ========  =======  ================
 
 .. [#fueltank] cuboid blocks to wedge in the fuel tank
 
