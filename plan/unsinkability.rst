@@ -824,6 +824,8 @@ _`.idea.test`
   interesting and make for an interesting article, photos, and a
   video!
 
+.. [#wolfram] according to Wolfram Alpha
+
 _`.idea.foam-in-bags`
 
   This is an excellent idea from Bernie Branfield:
@@ -837,8 +839,6 @@ _`.idea.foam-in-bags`
   This is a great way to generate extra flotation while at sea, and,
   as Bernie points out, for fabricating shaped objects.  I think I
   will add this to my kit as well.
-
-.. [#wolfram] according to Wolfram Alpha
 
 
 4.5. Suppliers
