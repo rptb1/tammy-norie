@@ -153,13 +153,13 @@ _`.idea.dome`
 A. References
 =============
 
-.. [RT] Roger Taylor's pods for Mingming and Mingming II.
+.. [RT] Roger Taylor's pods for Mingming and Mingming II.  [TODO: Find link.]
 
-.. [GW] Guy Waites' pod for Corribee Betsy.
+.. [GW] Guy Waites' pod for Corribee Betsy.  [TODO: Find link.]
 
-.. [??] Mai
+.. [??] Mai  [TODO: Find link.]
 
-.. [??] Havsfidra
+.. [??] Havsfidra  [TODO: Find link.]
 
 
 B. Document History
