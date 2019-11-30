@@ -1342,10 +1342,19 @@ _`.journal.2019-11-30`
 
   Imagining this scenario also reinforces my idea to fit a secondary
   manual bilge pump *inside* the cabin.  On my friends' boat Auriga,
-  they fitted a Lavac heads, which was pumped out by a large pump
-  mounted quite high up [TODO: ref to video].  They had a Y-valve on
+  they fitted a `Lavac toilet`_, which was pumped out by a large pump
+  mounted quite high up [RB-2014-07-08]_.  They had a Y-valve on
   this pump with a length of flying hose.  A pump in a similar
   position would make a lot of sense, with or without the head.
+
+.. _Lavac toilet: https://blakesandtaylors.co.uk/popular-toilet-272-p.asp
+
+.. figure:: vlcsnap-2019-11-30-14h46m01s908.jpg
+   :width: 457 
+   :height: 526
+   :align: center
+
+   Auriga's heads / auxilliary bilge pump
 
 
 A. References
@@ -1429,6 +1438,17 @@ A. References
      from seeing the projects develop, and how I approach these kinds
      of engineering problems. I’m also hoping that interested folks
      might have suggestions or spot mistakes before I make them!”
+
+.. [RB-2014-07-08]
+   “A tour of Auriga”, from the `Tammy Norie blog`_;
+   Richard Brooksby;
+   2014-07-08;
+   <https://tammynorie.wordpress.com/2014/07/08/a-tour-of-auriga/>
+   <https://youtu.be/kkV_w4okp2Q>
+
+     `RB: “That's a serious pump!”`_
+
+.. _`RB: “That's a serious pump!”`: https://youtu.be/kkV_w4okp2Q?t=199
 
 .. [RT-2007]
    “Voyages of a Simple Sailor”;
