@@ -1315,6 +1315,38 @@ _`.journal.2019-11-29`
   Thinking about this later, is this an argument *for* or *against*
   perforated vinyl headlining?
 
+_`.journal.2019-11-30`
+
+  I explained some of this plan to my friend Aaron Croucher over tea.
+  He asked some sensible questions about the scenario in which the
+  foam is keeping you alive.  I said that I imagined the boat could
+  still *mostly* sink, and that I might be in the cabin mostly full of
+  water, but with a significant air pocket, protected from the
+  elements outside while a storm passed.  The main immediate risks
+  would be drowning, exhaustion, and thirst.  Once the weather
+  subsides it might be possible to patch up the boat and start pumping
+  or bailing out water.
+
+  Then it occurred to me that if the boat is nearly completely
+  submerged, where can you pump out water *to*?  It's no good bailing
+  out water from a submerged cockpit, for example.  You might be able
+  to pump water out from the cabin (having fixed a hole) if you can
+  get the weatherboards in and create a good-enough seal to get ahead
+  with the bilge pump, but that would be tricky.
+
+  Clearly, you really want the cockpit coamings to be above the
+  waterline.  Then you can use something as simple as a bucket to get
+  water out of the boat and start to raise her up.  This puts even
+  greater emphasis on buoyancy in `.vol.coamings`_.  If Tammy Norie is
+  mostly submerged, it's better that she is bow-down and cockpit-up.
+
+  Imagining this scenario also reinforces my idea to fit a secondary
+  manual bilge pump *inside* the cabin.  On my friends' boat Auriga,
+  they fitted a Lavac heads, which was pumped out by a large pump
+  mounted quite high up [TODO: ref to video].  They had a Y-valve on
+  this pump with a length of flying hose.  A pump in a similar
+  position would make a lot of sense, with or without the head.
+
 
 A. References
 =============
@@ -1448,6 +1480,7 @@ B. Document History
                   Added figures of photos showing most volumes.
                   Added scans of measurement notes.
                   Added figures of photos of battery box building.
+2019-11-30  RB_   Added notes from discussion with Aaron Croucher.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
