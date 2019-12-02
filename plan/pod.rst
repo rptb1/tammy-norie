@@ -150,6 +150,14 @@ _`.idea.dome`
   for this.]
 
 
+.. figure:: pod.svg
+   :width: 455
+   :height: 423
+   :align: center
+
+   A vertical section showing how the pod would fit onto the existing companionway.
+
+
 A. References
 =============
 
@@ -167,6 +175,7 @@ B. Document History
 
 ==========  ====  ============================================================
 2019-11-28  RB_   Initial outline from memory.
+2019-12-02  RB_   Adding diagram showing how the pod would fit on the companionway.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
