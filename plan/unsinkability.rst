@@ -22,7 +22,7 @@ This document explains how and why I intend to make Tammy Norie
 unsinkable.
 
 The document uses the conventions of an engineering project at my
-company, `Ravenbrook`_, follwing rule.generic [RB-1998]_.  In
+company, `Ravenbrook`_, follwing `rule.generic`_ [RB-1998]_.  In
 particular:
 
 - It uses tagged statements (with dots) as cross-references
@@ -36,6 +36,7 @@ I've included a brief explanation of the purpose of each section so
 that you can get the idea.
 
 .. _Ravenbrook: https://www.ravenbrook.com/
+.. _`rule.generic`: https://github.com/rptb1/tammy-norie/blob/master/rule/generic.rst
 
 
 2. Goals
@@ -630,6 +631,13 @@ _`.vol.starboard-aft-bulkhead`
 
   [TODO: compromise between current use and foam]
 
+.. figure:: https://live.staticflickr.com/65535/49154448528_de929c32bf.jpg
+   :width: 500
+   :height: 281
+   :align: center
+
+   The starbard aft bulkhead, above the quarter berth.
+
 _`.vol.port-aft-bulkhead`
 
   The small bulkhead between the heads compartment and the cockpit on
@@ -654,12 +662,13 @@ _`.vol.heads-bulkhead`
 
 _`.dim`
 
-These are the approximate dimensions of the `.vol`_ based on
-measurements made on 2019-11-23/25 (`.dim.notes`_).  The purpose of
-this table is to estimate total displacement volume.  In many cases
-geometrical approximations have been used (such as averaging the ends
-of a trapezium) so this table should not be used to order sections of
-foam.  [TODO: Consider the weight of the foam.]
+  These are the approximate dimensions of the `.vol`_ based on
+  measurements made on 2019-11-23/25 (`.dim.notes`_).  The purpose of
+  this table is to estimate total displacement volume.  In many cases
+  geometrical approximations have been used (such as averaging the
+  ends of a trapezium) so this table should not be used to order
+  sections of foam.  [TODO: Consider the weight of the foam. Current
+  estimate is about 15kg.]
 
 
 Volumes table
@@ -732,7 +741,7 @@ Total                                          108604            1069068  ± 10%
           accommodate the equipment mounts, but it's quite a small
           volume anyway.
 
-.. [#vuch] Might be a good idea to leave this exposed.
+.. [#vuch] Might be a good idea to leave this exposed [why?].
        
 .. Volume (+ 11475 38400 24000 26000 4480 10080 97200 82080 36594 8880
    8736 17784 8316 43200 33600 43200 33600 58300 22000 54120 28620
@@ -1501,6 +1510,7 @@ B. Document History
                   Added scans of measurement notes.
                   Added figures of photos of battery box building.
 2019-11-30  RB_   Added notes from discussion with Aaron Croucher.
+2019-12-02  RB_   Minor fixes.  Found a photo of starboard aft bulkhead.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
