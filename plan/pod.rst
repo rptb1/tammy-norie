@@ -146,9 +146,7 @@ _`.idea.weatherboard-hatch`
 _`.idea.dome`
 
   Use a clear observation dome at the top of the pod to provide 360°
-  vision, as well as visibility of the rig.  [TODO: Dig up supplier
-  for this.]
-
+  vision, as well as visibility of the rig.
 
 .. figure:: pod.svg
    :width: 455
@@ -156,6 +154,15 @@ _`.idea.dome`
    :align: center
 
    A vertical section showing how the pod would fit onto the existing companionway.
+
+
+4.2. Suppliers
+--------------
+
+.supplier.port-synthetics: Port Synthetics
+<https://portsynthetics.co.uk/acrylic-domes/>, Unit 16 Aston Road,
+Waterlooville, Hampshire, PO7 7XG.  Tel +44 23 9266 9788.  Email:
+sales@portsynthetics.co.uk
 
 
 A. References
@@ -176,6 +183,7 @@ B. Document History
 ==========  ====  ============================================================
 2019-11-28  RB_   Initial outline from memory.
 2019-12-02  RB_   Adding diagram showing how the pod would fit on the companionway.
+                  Dug up supplier I found before for the dome.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
