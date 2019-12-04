@@ -1157,7 +1157,8 @@ _`.journal.2019-11-27`
     4. `.vol.under-cockpit.channel`_ is quite wet and dirty,
        especially forward at the lower end.  It does not drain in to
        the main bilge at its lowest point, and so is accumulating
-       water and dirt.  [TODO: Make an action to improve this.]
+       water and dirt.  [TODO: Make an action to improve this with a
+       limber hole.]
 
     5. Working in a 25×30cm dark space where you can't bend your
        elbows is quite challenging.
@@ -1364,6 +1365,17 @@ _`.journal.2019-11-30`
    :align: center
 
    Auriga's heads / auxilliary bilge pump
+
+_`.journal.2019-12-03`
+
+  There are other plans that interact with this one that need to be
+  considered:
+
+  1. Does the hull-deck joint need reinforcing?  It would be a shame
+     to have to peel off the foam to do this.  But even if I decide
+     not, it would make sense to position a joint between foam sheets
+     on the joint, possibly with some sort of gap to allow inspection
+     annually.
 
 
 A. References
