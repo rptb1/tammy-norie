@@ -18,6 +18,8 @@ Tammy Norie Regular Procedures
 1. Introduction
 ===============
 
+[TODO: Consider whether these are better described as checklists.]
+
 
 2. Procedure
 ============
