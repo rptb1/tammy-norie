@@ -232,7 +232,7 @@ _`.vol.sides`
    :height: 281
    :align: center
 
-   The starboard side of the cabin.
+   _`figure.side.starboard`: The starboard side of the cabin.
 
 _`.vol.ceiling`
 
@@ -910,7 +910,7 @@ Ince, Wigan, Lancashire, WN2 2AG.  Tel: 01942 825144.  Fax:
 01942 825523.
 
 _`.supplier.lux`: _`Lux Distribution`
-<https://www.carinsulation.co.uk/>, Unit 3 Watling Court, Attleborough
+<https://www.luxdistributionltd.co.uk/>, Unit 3 Watling Court, Attleborough
 Fields Ind Estate, Nuneaton, Warwickshire, England, CV11 6GX.  Tel:
 02477 670370, Mob: 07476 064038.
 
@@ -1377,6 +1377,24 @@ _`.journal.2019-12-03`
      on the joint, possibly with some sort of gap to allow inspection
      annually.
 
+_`.journal.2019-12-06`
+
+  I would like to have a way to lash down bags in the cabin.  Tammy
+  Norie has some wooden blocks glued to the hull, visible in
+  `figure.side.starboard`_.  There is also a wooden strip just above
+  the joint of the liner with the hull, also visible in
+  `figure.side.starboard`_.  These might be able to accept folding pad
+  eyes that could be used to lash down bags.
+
+  So I think I will cut a hole in the foam for each block initially,
+  so that it is accessible through the foam.  Then possibly a layer of
+  thin foam can be added in the hole separately. The vinyl will be
+  added on top, without a hole, and the pad eyes screwed through the
+  vinyl into the block.  This should lead to the pad eye being
+  recessed so that it is out of the way.  It has a secondary effect of
+  helping to secure the foam to the hull, in a similar manner to
+  `.idea.chesterfield`_.
+
 
 A. References
 =============
@@ -1523,6 +1541,7 @@ B. Document History
                   Added figures of photos of battery box building.
 2019-11-30  RB_   Added notes from discussion with Aaron Croucher.
 2019-12-02  RB_   Minor fixes.  Found a photo of starboard aft bulkhead.
+2019-12-06  RB_   Added notes about lashing bags with folding pad eyes.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
