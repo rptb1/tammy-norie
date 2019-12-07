@@ -1395,6 +1395,30 @@ _`.journal.2019-12-06`
   helping to secure the foam to the hull, in a similar manner to
   `.idea.chesterfield`_.
 
+  You can see Mads do something like this at
+  https://youtu.be/Ru6xqtb0BcI?list=PLQyv5OlNbA-o6qnrrBVRHDH816FozYm5y&t=213
+
+_`.journal.2019-12-07`
+
+  Ordering initial foam.  The initial plan is to insulate Tammy Norie
+  and make her comfortable, so the focus will be on the visible areas
+  that will be covered with vinyl.  The obvious places to start are
+  `.vol.sides`_ and `.vol.ceiling`_, followed by
+  `.vol.quarter-berth`_.
+
+  The 30mm foam is available in `1m×4m rolls`_.  Conveniently,
+  `.vol.sides`_ and the 30mm areas for `.vol.ceiling`_ are 50cm wide
+  or a little less, and will come nicely out of a 1m wide roll.
+
+.. ceiling starboard + side port (+ 232 205)
+
+.. ceiling port + side starboard (+ 160 214)
+
+
+.. _`1m×4m rolls`: https://www.carinsulation.co.uk/product/30mm-closed-cell-foam-car-van-sound-deadening-thermal-insulation
+
+  
+
 
 A. References
 =============
