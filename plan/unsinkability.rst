@@ -1395,8 +1395,18 @@ _`.journal.2019-12-06`
   helping to secure the foam to the hull, in a similar manner to
   `.idea.chesterfield`_.
 
-  You can see Mads do something like this at
-  https://youtu.be/Ru6xqtb0BcI?list=PLQyv5OlNbA-o6qnrrBVRHDH816FozYm5y&t=213
+  I found a video of Mads Dahlke (Sail Life) putting up a similar
+  closed-cell foam named Armaflex XG [Dahlke-2019]_.  He discusses the
+  pros and cons of foams and has selected 32mm foam for insulating his
+  boat, Athena.  You can see him cutting out squares for mounting
+  blocks.
+
+.. figure:: dahlke-2019-frame.jpg
+   :width: 560
+   :height: 482
+   :align: center
+
+   Mads Dahlke (Sail Life) fitting closed-cell foam to Athena.
 
 _`.journal.2019-12-07`
 
@@ -1433,6 +1443,15 @@ A. References
      closed-cell foam cushions. I’m naturally well padded, but I have
      to say they were some of the most uncomfortable seats I’ve ever
      had to live with.”
+
+.. [Dahlke-2019]
+   “Sail Life - New nav station part 2 (Armaflex insulation)” (video);
+   Mads Dahlke;
+   Sail Life;
+   2019-11-17;
+   <https://youtu.be/Ru6xqtb0BcI?list=PLQyv5OlNbA-o6qnrrBVRHDH816FozYm5y&t=213>.
+
+     “Let's go ahead and put up some insulation.”
 
 .. [Newbridge-1982]
    Untitled Newbridge Coromandel specification;
