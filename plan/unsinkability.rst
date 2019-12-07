@@ -974,6 +974,34 @@ _`.plan.surface-prep`
 
   Prepare surfaces according to the experience from `.plan.battery`_.
 
+_`.plan.initial`
+
+  [Describe initial trial.]
+
+_`.plan.inspect-initial`
+
+  Inspect the initial installation at intervals and check:
+
+  1. bonding between the foam and:
+     - rough fibreglass (e.g. `.vol.ceiling`_)
+     - gelcoated fibreglass (e.g. (`.vol.sides`_ in the heads)
+     - painted wood (e.g. `.vol.heads-bulkhead`_)
+     - wet areas (e.g. `.vol.engine-locker`_)
+     - gravity-challenged areas (e.g. `.vol.ceiling`_)
+
+  2. bonding between the foam and the vinyl in similar areas
+
+  3. bonding in taped edges
+
+  3. moisture
+
+     - on the surface of the vinyl
+     - between the vinyl and the foam
+     - between the foam and the surfaces
+     - along edges, especially where taped
+
+  4. mould growth
+     
 _`.plan.weighbridge`
 
   Visit a public weighbridge with the boat on her trailer (all
@@ -1428,10 +1456,45 @@ _`.journal.2019-12-07`
 
 .. ceiling port + side starboard (+ 160 214)
 
-
 .. _`1m×4m rolls`: https://www.carinsulation.co.uk/product/30mm-closed-cell-foam-car-van-sound-deadening-thermal-insulation
 
+  I've become concerned about the bonding between the foam and the
+  hull. The interior surfaces of the hull are quite rough, being
+  exposed fibreglass with no gelcoat.  I'm concerned that the foam
+  will only bond to the high spots, making the bond weak, and that
+  this will leave voids that might fill with moisture.  Does the
+  surface need filling before starting?
+
+  https://youtu.be/6-DfBIgthbg?t=94 using CascoFlex_ “It's recommended
+  for use aboard boats for putting up insulation.”  He warns that it's
+  hard to use outside the specified temperature range, specified as
+  18°C minimum in the `CascoFlex datasheet`_, so it could be hard to
+  apply in the winter.  For non-absorbent surfaces (closed-cell foam
+  to fibreglass could count) the datasheet recommends initial filling:
   
+    “Prime/fill the surface for improved adhesion and a better
+    result. If this is not possiblePrime/fill the surface for improved
+    adhesion and a better result. If this is not possible, it is
+    important to let the water in the adhesive evaporate as much as
+    possible before laying the carpet/mat and smoothing/rolling the
+    surface.”
+
+.. _CascoFlex: https://www.casco.eu/global/casco/?pc=106&p=756
+.. _CascoFlex datasheet: https://media-pms2.schoenox.net/casco/docs/cascoflex_eu_en_tds.pdf
+
+  It may be that a “crack-bridging waterproofing membrane” such as
+  AquaStop_ would be suitable.  I would probably need to talk to
+  technical experts at Casco.  I note that they are a part of the
+  `Sika Group`_, who also make the famous Sikaflex 291 found all over
+  boats everywhere.
+
+.. _AquaStop: https://www.casco.eu/global/casco/?pc=108&p=768
+.. _Sika Group: https://www.sika.com/
+
+  I think, though, that I will first try the foam with just its own
+  adhesive.  I must plan to test and inspect the results, and if it
+  fails I can look at better bonding.  For this purpose I have added
+  `.plan.inspect-initial`_.
 
 
 A. References
@@ -1447,6 +1510,20 @@ A. References
      closed-cell foam cushions. I’m naturally well padded, but I have
      to say they were some of the most uncomfortable seats I’ve ever
      had to live with.”
+
+.. [Dahlke-2015]
+   “Sail Life - Insulating my sailboat, part 1 of 2” (video);
+   Mads Dahlke;
+   Sail Life;
+   2015-06-05;
+   <https://youtu.be/6-DfBIgthbg?t=94>.
+
+     “For adhering the first layer — the roller-mat layer — to the
+     hull I'm going to be using this [indicates CascoFlex] kind of
+     glue.  It's a floor and wall adhesive and it's used for carpet
+     and stuff like that but it's recommended for use aboard boats for
+     putting up insulation.  This'll go on the hull and adhere the
+     roller-mat to the hull.”
 
 .. [Dahlke-2019]
    “Sail Life - New nav station part 2 (Armaflex insulation)” (video);
@@ -1589,6 +1666,8 @@ B. Document History
 2019-11-30  RB_   Added notes from discussion with Aaron Croucher.
 2019-12-02  RB_   Minor fixes.  Found a photo of starboard aft bulkhead.
 2019-12-06  RB_   Added notes about lashing bags with folding pad eyes.
+2019-12-07  RB_   Wrote up research into bonding.
+                  Added an inspection to the plan.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
