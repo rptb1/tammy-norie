@@ -1395,6 +1395,15 @@ _`.journal.2019-11-30`
 
    Auriga's heads / auxilliary bilge pump
 
+_`.journal.2019-12-01`
+
+  I started a thread, `Lining with closed-cell foam for floatation,
+  insulation, and safety`_, in the JRA tecnical forum, asking for
+  feedback on this plan.  I will need to return to review this
+  conversation.
+
+_`Lining with closed-cell foam for floatation, insulation, and safety`: https://junkrigassociation.org/technical_forum/8148577
+
 _`.journal.2019-12-03`
 
   There are other plans that interact with this one that need to be
