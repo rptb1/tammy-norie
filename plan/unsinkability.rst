@@ -1279,12 +1279,13 @@ _`.journal.2019-11-28`
   That puts material cost at about GBP 715 so far, well within
   `.req.cost`_.  However that does not include cushion upholstery.
 
-  Thinking about an incremental plan.  I may not be physically able to
-  do as much as I'd like to due to disability, so I should focus on
-  what brings the biggest benefit first.  I doubt that I'll be making
-  any ocean crossings in 2020, but I would like the boat to be more
-  comfortable and well-insulated.  So it would make sense to
-  concentrate on the cabin first.
+  Thinking about an incremental plan in order to select initial
+  volumes.  I may not be physically able to do as much as I'd like to
+  due to disability, so I should focus on what brings the biggest
+  benefit first.  I doubt that I'll be making any ocean crossings in
+  2020, but I would like the boat to be more comfortable and
+  well-insulated.  So it would make sense to concentrate on the cabin
+  first.
 
   I'm going to give this some thought and so have not yet an order for
   the initial materials.  I'm deferring this to
@@ -1410,15 +1411,18 @@ _`.journal.2019-12-06`
 
 _`.journal.2019-12-07`
 
-  Ordering initial foam.  The initial plan is to insulate Tammy Norie
-  and make her comfortable, so the focus will be on the visible areas
-  that will be covered with vinyl.  The obvious places to start are
-  `.vol.sides`_ and `.vol.ceiling`_, followed by
-  `.vol.quarter-berth`_.
+  Selecting initial volumes in order to order initial materials
+  (`.plan.order-mats`_).  Initially I plan to insulate Tammy Norie and
+  make her comfortable, so the focus will be on the visible areas that
+  will be covered with vinyl.  The obvious places to start are
+  `.vol.sides`_ and `.vol.ceiling`_, followed by `.vol.quarter-berth`_.
 
   The 30mm foam is available in `1m×4m rolls`_.  Conveniently,
-  `.vol.sides`_ and the 30mm areas for `.vol.ceiling`_ are 50cm wide
-  or a little less, and will come nicely out of a 1m wide roll.
+  `.vol.sides`_, the 30mm areas for `.vol.ceiling`_, and all exposed
+  parts of `.vol.quarter-berth`_ are 50cm wide or a little less, and
+  will come nicely out of a 1m wide roll.
+
+..   (+ 85 232 160 205 214 133 195)
 
 .. ceiling starboard + side port (+ 232 205)
 
