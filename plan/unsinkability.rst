@@ -1398,9 +1398,8 @@ _`.journal.2019-11-30`
 _`.journal.2019-12-01`
 
   I started a thread, `Lining with closed-cell foam for floatation,
-  insulation, and safety`_, in the JRA tecnical forum, asking for
-  feedback on this plan.  I will need to return to review this
-  conversation.
+  insulation, and safety`_, in the `JRA forums`_, asking for feedback
+  on this plan.  I will need to return to review this conversation.
 
 _`Lining with closed-cell foam for floatation, insulation, and safety`: https://junkrigassociation.org/technical_forum/8148577
 
@@ -1504,6 +1503,24 @@ _`.journal.2019-12-07`
   adhesive.  I must plan to test and inspect the results, and if it
   fails I can look at better bonding.  For this purpose I have added
   `.plan.inspect-initial`_.
+
+_`.journal.2019-12-09`
+
+  Ordered three off 1m×4m×30mm closed-cell foam from `.supplier.lux`_
+  at a cost of GBP 200.10.  Ordered a folding pad eye from YouBoat in
+  Gosport via eBay at a cost of GBP 6.49.
+
+  Scanned original measurements from 2015.  [TODO: Compare these with
+  current measurements.]
+
+.. figure:: SCAN0394.jpg
+
+   Original boat cushion measurements and list of buoyancy locations
+   from 2015.
+
+.. figure:: SCAN0396.jpg
+
+   Original lining measurements from 2015.
 
 
 A. References
@@ -1677,6 +1694,8 @@ B. Document History
 2019-12-06  RB_   Added notes about lashing bags with folding pad eyes.
 2019-12-07  RB_   Wrote up research into bonding.
                   Added an inspection to the plan.
+2019-12-09  RB_   Added notes on ordering foam and pad eye.
+                  Added scans of original measurements from 2015.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
