@@ -1508,7 +1508,7 @@ _`.journal.2019-12-09`
 
   Ordered three off 1m×4m×30mm closed-cell foam from `.supplier.lux`_
   at a cost of GBP 200.10.  Ordered a folding pad eye from YouBoat in
-  Gosport via eBay at a cost of GBP 6.49.
+  Gosport via eBay at a cost of GBP 6.49.  That's 0.36m³ so far.
 
   Scanned original measurements from 2015.  [TODO: Compare these with
   current measurements.]
