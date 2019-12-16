@@ -1047,12 +1047,13 @@ _`.schedule.2019-12-03/06` : (at 1TR)
     1. Select initial volumes
     2. Order initial materials (`.plan.order-mats`_)
 
-    [More to be decided]
-
 _`.schedule.2019-12-12/17` : (at 245)
 
     1. Remove deck fittings (`.plan.strip-deck`_)
-    2. Fit foam to initial volumes.
+
+_`.schedule.2020-01-07/17` : (at 245)
+
+    1. Fit foam to initial volumes.
 
     [More to be decided]
 
@@ -1522,6 +1523,34 @@ _`.journal.2019-12-09`
 
    Original lining measurements from 2015.
 
+_`.journal.2019-12-16`
+
+   Unfortunately health has slowed me down during
+   `.schedule.2019-12-12/17`_ and I have not been able to fit any
+   foam.  This has not been helped by the collapse of the tent
+   covering Tammy Norie on 2019-12-13.  Also, I've realized that more
+   preparation is required before I can fit foam:
+
+   - I probably need to bond some wood to the hull to provide
+     attachment for straps just above the liner.
+
+   - I need to figure out how to support the foam in the coamings
+     above the quarter berth.
+
+   However, I did have some successes:
+
+   1. The sample of "ivory" coloured vinyl from `.supplier.kayospruce`_
+      matched the deck gelcoat very well in daylight.
+
+   2. I visited `.supplier.kayospruce`_ who provided 2.5m of ivory
+      vinyl at a heavy discount, a can of glue [ref?], but I also
+      found an item called a “webbing bridge” that can provide a much
+      more compact means to attach straps than the pad eyes that I
+      originally planned.
+
+   3. Other tasks not directly related to this project, such as
+      lifting out the mast stub.
+
 
 A. References
 =============
@@ -1696,6 +1725,7 @@ B. Document History
                   Added an inspection to the plan.
 2019-12-09  RB_   Added notes on ordering foam and pad eye.
                   Added scans of original measurements from 2015.
+2019-12-16  RB_   Added notes about (lack of) progress.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
