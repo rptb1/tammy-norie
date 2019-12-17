@@ -1551,6 +1551,25 @@ _`.journal.2019-12-16`
    3. Other tasks not directly related to this project, such as
       lifting out the mast stub.
 
+_`.journal.2019-12-17`
+
+   I realized that I do not need to bond any new wooden blocks to the
+   hull to provide attachements for straps.  I can attach the lower
+   end of the webbing straps to the liner, for example by bolting
+   webbing bridges to the top of the liner near the hull.
+   Furthermore, webbing can be attached to loop over the cushions and
+   then be attached to the liner in the foot well, holding the
+   cushions down.  This is a key part of ensuring that the cushions
+   provide buoyancy low down in the boat [ref. JRA forum thread,
+   unsinkable yacht design, etc.].  It's simpler and more reversible
+   than bonding blocks to the hull, and it need not delay the fitting
+   of foam.
+
+   There are no signs of water pooling in the top of the tent this
+   morning after a night of light rain.
+
+
+
 
 A. References
 =============
@@ -1726,6 +1745,7 @@ B. Document History
 2019-12-09  RB_   Added notes on ordering foam and pad eye.
                   Added scans of original measurements from 2015.
 2019-12-16  RB_   Added notes about (lack of) progress.
+2019-12-17  RB_   Added journal notes about webbing straps for cushions.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
