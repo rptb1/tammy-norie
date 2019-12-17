@@ -1525,50 +1525,47 @@ _`.journal.2019-12-09`
 
 _`.journal.2019-12-16`
 
-   Unfortunately health has slowed me down during
-   `.schedule.2019-12-12/17`_ and I have not been able to fit any
-   foam.  This has not been helped by the collapse of the tent
-   covering Tammy Norie on 2019-12-13.  Also, I've realized that more
-   preparation is required before I can fit foam:
+  Unfortunately health has slowed me down during
+  `.schedule.2019-12-12/17`_ and I have not been able to fit any foam.
+  This has not been helped by the collapse of the tent covering Tammy
+  Norie on 2019-12-13.  Also, I've realized that more preparation is
+  required before I can fit foam:
 
-   - I probably need to bond some wood to the hull to provide
-     attachment for straps just above the liner.
+  - I probably need to bond some wood to the hull to provide
+    attachment for straps just above the liner.
 
-   - I need to figure out how to support the foam in the coamings
-     above the quarter berth.
+  - I need to figure out how to support the foam in the coamings above
+    the quarter berth.
 
-   However, I did have some successes:
+  However, I did have some successes:
 
-   1. The sample of "ivory" coloured vinyl from `.supplier.kayospruce`_
-      matched the deck gelcoat very well in daylight.
+  1. The sample of "ivory" coloured vinyl from `.supplier.kayospruce`_
+     matched the deck gelcoat very well in daylight.
 
-   2. I visited `.supplier.kayospruce`_ who provided 2.5m of ivory
-      vinyl at a heavy discount, a can of glue [ref?], but I also
-      found an item called a “webbing bridge” that can provide a much
-      more compact means to attach straps than the pad eyes that I
-      originally planned.
+  2. I visited `.supplier.kayospruce`_ who provided 2.5m of ivory
+     vinyl at a heavy discount, a can of glue [ref?], but I also found
+     an item called a “webbing bridge” that can provide a much more
+     compact means to attach straps than the pad eyes that I
+     originally planned.
 
-   3. Other tasks not directly related to this project, such as
-      lifting out the mast stub.
+  3. Other tasks not directly related to this project, such as lifting
+     out the mast stub.
 
 _`.journal.2019-12-17`
 
-   I realized that I do not need to bond any new wooden blocks to the
-   hull to provide attachements for straps.  I can attach the lower
-   end of the webbing straps to the liner, for example by bolting
-   webbing bridges to the top of the liner near the hull.
-   Furthermore, webbing can be attached to loop over the cushions and
-   then be attached to the liner in the foot well, holding the
-   cushions down.  This is a key part of ensuring that the cushions
-   provide buoyancy low down in the boat [ref. JRA forum thread,
-   unsinkable yacht design, etc.].  It's simpler and more reversible
-   than bonding blocks to the hull, and it need not delay the fitting
-   of foam.
+  I realized that I do not need to bond any new wooden blocks to the
+  hull to provide attachements for straps.  I can attach the lower end
+  of the webbing straps to the liner, for example by bolting webbing
+  bridges to the top of the liner near the hull.  Furthermore, webbing
+  can be attached to loop over the cushions and then be attached to
+  the liner in the foot well, holding the cushions down.  This is a
+  key part of ensuring that the cushions provide buoyancy low down in
+  the boat [ref. JRA forum thread, unsinkable yacht design, etc.].
+  It's simpler and more reversible than bonding blocks to the hull,
+  and it need not delay the fitting of foam.
 
-   There are no signs of water pooling in the top of the tent this
-   morning after a night of light rain.
-
-
+  There are no signs of water pooling in the top of the tent this
+  morning after a night of light rain.
 
 
 A. References
