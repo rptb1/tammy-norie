@@ -186,9 +186,12 @@ _`.design.lining`
 _`.design.cushions`
 
   The interior cushions will also be replaced with closed-cell foam
-  cushions, so that they cannot take up water.  These will be secured
-  to the interior by some means so that they do not detach when the
-  boat is flooded [what means?].
+  cushions, so that they cannot take up water.  These will be strapped
+  to the interior so that they do not detach when the boat is flooded
+  (`.idea.cushion-straps`_).  THe cushions will be made up of three or
+  four layers of the 30mm foam [ref?] that I'm using for lining.  They
+  will have a webbing tunnel sandwiched below the top layer, so that a
+  webbing strap can be passed through.
 
 _`.design.voids`
 
@@ -808,8 +811,8 @@ bent into awkwards shapes.
 
 _`.idea.cushion-straps`
 
-  Cushions could perhaps be made with webbing straps that attach to
-  pad eyes on the cabin liner.
+  Cushions could be made with webbing straps that attach to webbing
+  bridges on the cabin liner.  (Adopted into `.design.cushions`_.)
 
 _`.idea.fixed-cushions`
 
@@ -894,6 +897,10 @@ _`.idea.foam-in-bags`
 
 4.5. Suppliers
 --------------
+
+_`.supplier.capricorn-canvas`: Capricorn Canvas
+<https://en-gb.facebook.com/capricorncanvas/>, Stone Pier Yard, Shore
+Road, Warsash, Hampshire, SO31 9FR.  Tel: +44 7765 650017.
 
 _`.supplier.c-and-j`: C & J Marine Ltd <https://www.cjmarine.co.uk/>,
 Clay Lane, Chichester, West Sussex, PO19 3JG.  Tel: 01243 785485.
@@ -1567,6 +1574,17 @@ _`.journal.2019-12-17`
   There are no signs of water pooling in the top of the tent this
   morning after a night of light rain.
 
+_`.journal.2019-12-27`
+
+  Reviewing todo.txt for plans relevant to this one::
+
+    (D) 2014-05-12 Plan cockpit cushions +TammyNorie +planning uuid:406c6205-3898-4599-9fbd-cf53956f789c
+
+  I've already spoken to Sandy at `.supplier.capricorn-canvas`_ about
+  making the closed-cell cushions (`.design.cushions`_).  It would be
+  easy and cheap to add some closed-cell cushions for the cockpit to
+  the order.
+
 
 A. References
 =============
@@ -1743,6 +1761,8 @@ B. Document History
                   Added scans of original measurements from 2015.
 2019-12-16  RB_   Added notes about (lack of) progress.
 2019-12-17  RB_   Added journal notes about webbing straps for cushions.
+2019-12-27  RB_   Updating cushion plans and incorporating cockpit
+                  cushion plan.
 ==========  ====  ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
