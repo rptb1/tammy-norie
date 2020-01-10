@@ -1576,14 +1576,46 @@ _`.journal.2019-12-17`
 
 _`.journal.2019-12-27`
 
-  Reviewing todo.txt for plans relevant to this one::
+  Reviewing my todo.txt for plans relevant to this one:
 
-    (D) 2014-05-12 Plan cockpit cushions +TammyNorie +planning uuid:406c6205-3898-4599-9fbd-cf53956f789c
+    (D) 2014-05-12 Plan cockpit cushions +TammyNorie +planning
+    uuid:406c6205-3898-4599-9fbd-cf53956f789c
+
 
   I've already spoken to Sandy at `.supplier.capricorn-canvas`_ about
   making the closed-cell cushions (`.design.cushions`_).  It would be
   easy and cheap to add some closed-cell cushions for the cockpit to
   the order.
+
+    (B) 2014-08-13 Plan window safety (bars, panels, replacement?)
+    https://rover.ebay.com/rover/0/0/0?mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fulk%2Fitm%2F272128899930 +TammyNorie +planning +distance
+    uuid:738e44dd-ba0c-4959-9eda-59c8141e3e6f
+
+    (B) 2014-08-24 Plan interior handles and battens +TammyNorie
+    @aboard +planning uuid:90217270-3b78-4467-b3d9-fc5ea5116216
+
+    (C) 2016-02-13 Plan interior grab rails. +TammyNorie +distance
+    +planning uuid:d57abe21-8a3a-432e-8ac4-8670653c05e8
+
+    (B) 2016-02-13 Consider replacing windows with strong portholes,
+    or temporary outer blanking large
+    windows +TammyNorie +distance +planning Bill Churchouse
+    <https://youtu.be/rKjJi1EH3dg?t=286> Annie Hill
+    <https://www.junkrigassociation.org/technical_forum/8148577?mlpg=5#8212513>
+    uuid:780f0cf7-f8c1-453d-b6e2-e12adca0ae91
+
+    (B) 2016-02-13 Plan for window safety against sudden pressure
+    (Window blanking plates and
+    fixtures?) +TammyNorie +distance +planning @computer
+    uuid:c1694421-5139-4684-80c7-0d072ab09032
+
+    (C) Permanent equipment panel and mounts (handheld, ventimeter,
+    clock, baro, termometer, binos, dividers, phone, …)
+    +TammyNorie +planning uuid:fbd6a0f1-7860-4633-9658-4da260e6128b
+
+    (C) 2019-12-17 Consider removing the sink or making it removable
+    to give access to the window. +planning +TammyNorie +unsinkability
+    +winter2019
 
 
 A. References

@@ -46,3 +46,5 @@ Service engine, especially valve seats +TammyNorie @ashore +regular
 Inspect through-hulls +TammyNorie @ashore +regular
 Swing compass +TammyNorie @water +regular
 2019-11-12 Inspect engine impeller +regular +TammyNorie
+Service pumps
+Engine gearbox oil
