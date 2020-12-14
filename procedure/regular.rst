@@ -38,6 +38,8 @@ Inspect fog horn gas cannisters +TammyNorie @ashore +regular
 Inspect fire extinguisher +TammyNorie @ashore +regular
 2019-08-27 Inspect rudder to determine tang corrosion  +TammyNorie @ashore
 2019-11-12 Inspect engine impeller +regular +TammyNorie
+Inspect mast wedges
+
 
 
 2.2 Other
@@ -48,3 +50,5 @@ Swing compass +TammyNorie @water +regular
 2019-11-12 Inspect engine impeller +regular +TammyNorie
 Service pumps
 Engine gearbox oil
+Clean water system
+Review all food storage
