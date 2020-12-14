@@ -164,6 +164,8 @@ _`.idea.dome`
 Waterlooville, Hampshire, PO7 7XG.  Tel +44 23 9266 9788.  Email:
 sales@portsynthetics.co.uk
 
+.supplier.project-plastics: Project Plastics, 7 Grange Way Business Park, Colchester, Essex CO2 8HF <http://www.projectplastics.co.uk/acrylic-domes.html>.  Tel +44 1206 868696.  Fax: +44 1206 793737.
+
 
 A. References
 =============
