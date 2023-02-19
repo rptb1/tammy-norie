@@ -41,16 +41,13 @@ superstition surrounding the problem.
 ========
 
 _`.goal.prevent`
-
   Make is very unlikely that osmosis blistering will occur in Tammy
   Norie's hull.
 
 _`.goal.repair`
-
   Repair any damage found to the hull below the waterline.
 
 _`.goal.antifoul`
-
   Refresh the antifouling on the hull, which hasn't been renewed for
   at least three years.
 
@@ -59,23 +56,18 @@ _`.goal.antifoul`
 ===============
 
 _`.req.effective`
-
   Must be effective.  [TODO: Work out how to quanitify and test this.]
 
 _`.req.time`
-
   Must be possible in reasonable time [TODO: quanify]
 
 _`.req.cost`
-
   Must have reasonable cost [TODO: quantify]
 
 _`.req.durable`
-
   Must last a long time without further maintenance [why?] [TODO: quantify]
 
 _`.req.maintainable`
-
   The cost of maintenance must be low [TODO: quantify]
 
 
@@ -87,14 +79,12 @@ _`.req.maintainable`
 -------------
 
 _`.design.barrier`
-
   Apply an epoxy-based barrier coat to Tammy Norie's hull below the
   waterline.  Epoxy is much [ref?] less permeable to water than
   polyester, and this should reduce the possibility of the polyester
   resin going into solution and causing blistering and delamination.
 
 _`.design.evaporate`
-
   Ensure that all internal surfaces of the hull below the waterline
   have adequate air flow for moisture to evaporate faster than it
   penetrates the hull.  This is the basic mechanism by which osmosis
@@ -102,7 +92,6 @@ _`.design.evaporate`
   conflict with plan.unsinkability.design.displace [RB-2019-11-14]_.
 
 _`.design.dry`
-
   Dry out Tammy Norie's hull as far as possible to reduce the
   possibility that trapped water will dissolve the resin and cause
   blistering or delamination.
@@ -121,12 +110,10 @@ _`.design.dry`
   coat instructions for timing.]
 
 _`.design.drain`
-
   Ensure that all internal surfaces of the hull are able to drain to
   the main bilge and dry.
 
 _`.design.drain.under-cockpit`
-
   Add a drain from the channel under the cockpit to the main bilge so
   that it can dry out.  [ref? picture]
 
@@ -138,7 +125,6 @@ _`.design.drain.under-cockpit`
   to help with drying.
 
 _`.design.drain.quarter-locker`
-
   Add a drain from the lowest point of the quarter locker into the
   main bilge so that it can dry out.  [ref? picture]
 
@@ -152,7 +138,6 @@ _`.design.drain.quarter-locker`
   bilge should be limited.  [TODO: But what about clogging?]
 
 _`.design.drain.forward-triangle`
-
   Add a drain from the lowest point of the triangular locker in front
   of the mast to the main bilge so that it can dry out.  [ref? picture]
 
@@ -162,7 +147,6 @@ _`.design.drain.forward-triangle`
   Investigate under the mast step with endoscope.]
 
 _`.design.drain.under-berth`
-
   The locker under the quarter berth has no drain.  This volume does
   not normally accumulate any water, but it is also rarely opened, so
   it would be best if it dried.
@@ -184,31 +168,25 @@ superceded.
 =======
 
 _`.plan.lift`
-
   Lift Tammy Norie out of the water.
 
 _`.plan.clean`
-
   Clean sea life from the hull to help speed `.design.dry`_.
 
 _`.plan.scrape`
-
   Scrape off existing antifouling to expose gel coat to the air to
   speed `.design.dry`_.
 
 _`.plan.dry-bilge`
-
   Manually dry as much of the bilge as possible using absorbtion with
   sponges, paper, and by cleaning away any moisture-retaining dirt.
 
 _`.plan.fan`
-
   Use a fan to force airflow around the inside of Tammy Norie's hull,
   especially the bilges, to evaporate water from the surface and
   speed `.design.dry`_.
 
 _`.plan.tent`
-
   Build a tent over Tammy Norie so that she does not get rained on and
   can be opened up to a greater volume of air during the winter.
 
@@ -220,25 +198,23 @@ _`.plan.tent`
 
 _`.schedule.2019-10/11`:
 
-  1. Lift boat.
-  2. Scrape barnacles.
-  3. Experiment with scraping antifouling.
-  4. Take moisture measurements.
-  5. Build tent over boat.
-  6. Manually dry bilges and hull.
-  7. Set up drying fan.
-  8. Investigate wet areas in the hull and plan drying.
+1. Lift boat.
+2. Scrape barnacles.
+3. Experiment with scraping antifouling.
+4. Take moisture measurements.
+5. Build tent over boat.
+6. Manually dry bilges and hull.
+7. Set up drying fan.
+8. Investigate wet areas in the hull and plan drying.
 
 
 7. Journal
 ==========
 
 _`.journal.2019-10-25/27`
-
   Lifted Tammy Norie and moved to 245.  Cleaning.
 
 _`.journal.2019-11-12`
-
   Scraped barnacles.  Goodbye my pets.
 
   Scraped sections of antifouling and found that it came off quite
@@ -256,13 +232,11 @@ _`.journal.2019-11-12`
    Scraped area of the rudder skeg with moisture measurement.
 
 _`.journal.2019-11-14`
-
   Erected tent frame using a jury-rigged gazebo frame and a 10m×10m
   tarpaulin for £60 from eBay [link?] [ref to details in
   [RB-2019-11-14]_].
 
 _`.journal.2019-11-23`
-
   Fixed up tent frame.  Several of the joints from the gazebo frame
   had come apart.  Tightened the guy ropes holding things together.
   Pushed water from the sagging parts of the tarpaulin.  Made a plan
@@ -285,13 +259,11 @@ _`.journal.2019-11-23`
    Fan blowing air around the mast step.
 
 _`.journal.2019-11-25`
-
   While measuring the quarter locker
   (plan.unsinkability.journal.2019-11-25) I discovered that the lowest
   point does not drain [picture? IMGA0768.JPG].
   
 _`.journal.2019-11-27`
-
   While building the battery compartment
   (plan.unsinkability.journal.2019-11-27) I discovered that the
   channel along the centre of the volume under the cockpit
