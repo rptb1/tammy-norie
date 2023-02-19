@@ -273,6 +273,19 @@ _`.journal.2019-11-27`
   drains need to be arranged.  Wrote `.design.drain`_ and
   `.design.drain.under-cockpit`_ among others.
 
+_`.journal.2023-02-19`
+  There has been a very long gap in progress due to my ME/CFS.
+  Reviewing this plan, though, every step in the plan so far (up to
+  `.plan.tent`_) and the schedule (`.schedule.2019-10/11`_) was
+  accomplished.  In addition, I have sanded and faired the hull, and
+  trialled West System barrier coating procedures [WS-2007]_ on the
+  rudder [RB-2020-10-12]_.
+
+  I have made detailed notes, calculations, plans, and inventory in
+  the last two days [in personal journal], and sent out messages to
+  people who offered help with the osmosis barrier coating.  This will
+  be essentially the same process as used on Athena [SL-2018-08-19]_.
+
 
 A. References
 =============
@@ -282,6 +295,22 @@ A. References
    Richard Brooksby;
    2019-11-14;
    <https://github.com/rptb1/tammy-norie/blob/master/plan/unsinkability.rst>.
+
+.. [RB-2020-10-12]
+   "Knackering Lacquering";
+   Richard Brooksby;
+   2020-10-12;
+   <https://tammynorie.wordpress.com/2020/10/12/knackering-lacquering/>.
+
+.. [SL-2018-08-19]
+   "Sail Life - Osmosis treatment, West System 422 Barrier Coat";
+   Mads Dahlke;
+   Sail Life;
+   2018-08-19;
+   <https://www.youtube.com/watch?v=Kjd6Q4NXGEU>.
+
+.. [SailLife] Link to Mads work on osmosis in Athena's hull [TODO:
+              Decide how to link it.]
 
 .. [Smith-2003]
    “The Real Story of Osmosis Blistering: Treatment, Cure and Prevention”;
@@ -313,8 +342,17 @@ A. References
      or the cheapest polyester.  With adequate ventilation most hulls
      are adequately dry in a few weeks...”
 
-.. [SailLife] Link to Mads work on osmosis in Athena's hull [TODO:
-              Decide how to link it.]
+.. [WS-2007]
+   "Gelcoat Blisters: Diagnosis, Repair & Prevention";
+   West System;
+   2007;
+   <https://www.westsystem.com/wp-content/uploads/Gelcoat-Blisters-Diagnosis-Repair-and-Prevention.pdf>.
+
+.. [WS-2021-09]
+   "West System User Manual";
+   West System;
+   2021-09;
+   <https://www.westsystem.com/wp-content/uploads/English-WEST-SYSTEM-User-Manual-September-2021-Screen-Version.pdf>.
 
 
 B. Document History
@@ -322,6 +360,7 @@ B. Document History
 
 ==========  ====   ============================================================
 2019-11-25  RB_    First outline and brainstorm.
+2023-02-19  RB_    Journal update after long gap.
 ==========  ====   ============================================================
 
 .. _RB: mailto:rptb1+tammy-norie@pobox.com
